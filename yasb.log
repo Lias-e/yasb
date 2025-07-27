@@ -991,3 +991,889 @@ expected <block end>, but found '<scalar>'
 2025-07-27 23:00:06,697 [DEBUG] [MainThread] [systray_widget/systray.py:455]: Re-sorting widgets
 2025-07-27 23:00:06,697 [DEBUG] [MainThread] [systray_widget/systray.py:477]: Updating current state
 2025-07-27 23:09:59,354 [INFO] [MainThread] [root/weather.py:67]: Fetching new weather data at 2025-07-27 23:09:59.354765
+2025-07-27 23:19:56,355 [INFO] [MainThread] [root/weather.py:67]: Fetching new weather data at 2025-07-27 23:19:56.355369
+2025-07-27 23:29:56,358 [INFO] [MainThread] [root/weather.py:67]: Fetching new weather data at 2025-07-27 23:29:56.358558
+2025-07-27 23:39:56,623 [INFO] [MainThread] [root/weather.py:67]: Fetching new weather data at 2025-07-27 23:39:56.619876
+2025-07-27 23:43:28,319 [INFO] [MainThread] [root/controller.py:15]: Reloading Application because of config change.
+2025-07-27 23:43:28,421 [INFO] [MainThread] [cli_server/cli_server.py:112]: Log pipe server stopped
+2025-07-27 23:43:28,421 [DEBUG] [MainThread] [cli_server/cli_server.py:206]: CLI server stopped
+2025-07-27 23:43:28,436 [DEBUG] [MainThread] [systray_widget/systray.py:477]: Updating current state
+2025-07-27 23:43:28,436 [DEBUG] [MainThread] [systray_widget/systray.py:495]: Saving state to disk
+2025-07-27 23:43:28,439 [DEBUG] [MainThread] [systray_widget/systray.py:499]: Saving state to C:\Users\ilyes\AppData\Local\YASB\systray_state_LGELECTRONICSLGFULLHD509694.json
+2025-07-27 23:43:28,443 [INFO] [MainThread] [root/bar_manager.py:65]: Successfully loaded updated config and re-initialised all bars.
+2025-07-27 23:43:28,443 [DEBUG] [MainThread] [qasync._windows._EventPoller/_windows.py:218]: Stopping worker thread...
+2025-07-27 23:43:28,453 [DEBUG] [Dummy-9] [qasync._windows._EventWorker/_windows.py:201]: Exiting thread
+2025-07-27 23:43:28,470 [DEBUG] [MainThread] [qasync._windows._IocpProactor/_windows.py:75]: Closing
+2025-07-27 23:43:28,612 [DEBUG] [MainThread] [systray_widget/utils.py:96]: Destroying window 3018100
+2025-07-27 23:43:28,612 [DEBUG] [MainThread] [systray_widget/utils.py:96]: Destroying window 3738008
+2025-07-27 23:43:28,612 [DEBUG] [TrayMonitor] [systray_widget/tray_monitor.py:149]: WM_CLOSE received, destroying window 3738008
+2025-07-27 23:43:28,613 [DEBUG] [TrayMonitor] [systray_widget/tray_monitor.py:153]: WM_DESTROY received for window 3738008
+2025-07-27 23:43:28,887 [INFO] [MainThread] [root/log.py:59]: YASB v1.7.8
+2025-07-27 23:43:28,887 [INFO] [Thread-1 (_run_server)] [cli_server/cli_server.py:212]: CLI server started v1.1.2
+2025-07-27 23:43:28,888 [INFO] [MainThread] [cli_server/cli_server.py:104]: Log pipe server started
+2025-07-27 23:43:35,057 [DEBUG] [MainThread] [comtypes/__init__.py:149]: CoInitializeEx(None, 2)
+2025-07-27 23:43:35,895 [DEBUG] [MainThread] [tzlocal/win32.py:55]: Looking up time zone info from registry
+2025-07-27 23:43:37,215 [INFO] [MainThread] [root/bar_manager.py:74]: Starting WindowsNotificationEventListener...
+2025-07-27 23:43:37,216 [INFO] [MainThread] [root/bar_manager.py:74]: Starting SystemEventListener...
+2025-07-27 23:43:37,216 [INFO] [MainThread] [root/bar_manager.py:74]: Starting KomorebiEventListener...
+2025-07-27 23:43:37,217 [INFO] [MainThread] [root/watcher.py:54]: Created file watcher for path C:\Users\ilyes\.config\yasb
+2025-07-27 23:43:37,223 [INFO] [Dummy-5] [root/event_listener.py:51]: Created named pipe yasb-225be8be-6b3b-11f0-b4fa-b37ffa5b5965
+2025-07-27 23:43:37,267 [DEBUG] [MainThread] [qasync._windows._EventPoller/_windows.py:213]: Starting (proactor: <_IocpProactor overlapped#=0 result#=0>)...
+2025-07-27 23:43:37,269 [DEBUG] [Dummy-9] [qasync._windows._EventWorker/_windows.py:192]: Thread started
+2025-07-27 23:43:37,280 [DEBUG] [MainThread] [systray_widget/systray.py:517]: Loading state from C:\Users\ilyes\AppData\Local\YASB\systray_state_LGELECTRONICSLGFULLHD509694.json
+2025-07-27 23:43:37,282 [DEBUG] [TrayMonitor] [systray_widget/systray.py:58]: Systray thread is starting...
+2025-07-27 23:43:37,290 [DEBUG] [TaskbarService] [systray_widget/systray.py:72]: TaskbarService thread is starting...
+2025-07-27 23:43:37,344 [DEBUG] [TaskbarService] [root/tasks_service.py:75]: Found yasb systray hwnd: 3081560
+2025-07-27 23:43:37,344 [DEBUG] [TaskbarService] [systray_widget/tasks_service.py:81]: Adding TaskbandHWND prop to hwnd 3081560
+2025-07-27 23:43:37,352 [INFO] [Dummy-5] [root/event_listener.py:125]: Komorebi connected to named pipe: yasb-225be8be-6b3b-11f0-b4fa-b37ffa5b5965
+2025-07-27 23:43:37,678 [INFO] [MainThread] [root/weather.py:67]: Fetching new weather data at 2025-07-27 23:43:37.678136
+2025-07-27 23:43:38,686 [DEBUG] [TrayMonitor] [systray_widget/tray_monitor.py:208]: Finding real tray hwnd
+2025-07-27 23:43:39,679 [DEBUG] [MainThread] [systray_widget/systray.py:455]: Re-sorting widgets
+2025-07-27 23:43:39,679 [DEBUG] [MainThread] [systray_widget/systray.py:477]: Updating current state
+2025-07-27 23:44:24,085 [INFO] [Thread-1 (_run_server)] [cli_server/cli_server.py:253]: CLI server received command: stop
+2025-07-27 23:44:24,085 [INFO] [Thread-1 (_run_server)] [root/controller.py:30]: Exiting Application from CLI...
+2025-07-27 23:44:24,187 [INFO] [Thread-1 (_run_server)] [cli_server/cli_server.py:112]: Log pipe server stopped
+2025-07-27 23:44:24,187 [DEBUG] [Thread-1 (_run_server)] [cli_server/cli_server.py:206]: CLI server stopped
+2025-07-27 23:44:24,187 [DEBUG] [MainThread] [qasync._windows._EventPoller/_windows.py:218]: Stopping worker thread...
+2025-07-27 23:44:24,203 [DEBUG] [Dummy-9] [qasync._windows._EventWorker/_windows.py:201]: Exiting thread
+2025-07-27 23:44:24,204 [DEBUG] [MainThread] [qasync._windows._IocpProactor/_windows.py:75]: Closing
+2025-07-27 23:44:24,229 [DEBUG] [MainThread] [systray_widget/utils.py:96]: Destroying window 1969058
+2025-07-27 23:44:24,229 [DEBUG] [MainThread] [systray_widget/utils.py:96]: Destroying window 3081560
+2025-07-27 23:44:25,099 [INFO] [MainThread] [root/log.py:59]: YASB v1.7.8
+2025-07-27 23:44:25,100 [INFO] [Thread-1 (_run_server)] [cli_server/cli_server.py:212]: CLI server started v1.1.2
+2025-07-27 23:44:25,100 [INFO] [MainThread] [cli_server/cli_server.py:104]: Log pipe server started
+2025-07-27 23:44:25,399 [DEBUG] [MainThread] [tzlocal/win32.py:55]: Looking up time zone info from registry
+2025-07-27 23:44:25,894 [INFO] [MainThread] [root/bar_manager.py:74]: Starting SystemEventListener...
+2025-07-27 23:44:25,894 [INFO] [MainThread] [root/bar_manager.py:74]: Starting WindowsNotificationEventListener...
+2025-07-27 23:44:25,895 [INFO] [MainThread] [root/bar_manager.py:74]: Starting KomorebiEventListener...
+2025-07-27 23:44:25,896 [INFO] [MainThread] [root/watcher.py:54]: Created file watcher for path C:\Users\ilyes\.config\yasb
+2025-07-27 23:44:25,898 [INFO] [Dummy-5] [root/event_listener.py:51]: Created named pipe yasb-3f5fa1fe-6b3b-11f0-acd4-b37ffa5b5965
+2025-07-27 23:44:25,937 [DEBUG] [MainThread] [qasync._windows._EventPoller/_windows.py:213]: Starting (proactor: <_IocpProactor overlapped#=0 result#=0>)...
+2025-07-27 23:44:25,939 [DEBUG] [Dummy-9] [qasync._windows._EventWorker/_windows.py:192]: Thread started
+2025-07-27 23:44:25,941 [DEBUG] [MainThread] [systray_widget/systray.py:517]: Loading state from C:\Users\ilyes\AppData\Local\YASB\systray_state_LGELECTRONICSLGFULLHD509694.json
+2025-07-27 23:44:25,944 [DEBUG] [TrayMonitor] [systray_widget/systray.py:58]: Systray thread is starting...
+2025-07-27 23:44:25,944 [DEBUG] [TaskbarService] [systray_widget/systray.py:72]: TaskbarService thread is starting...
+2025-07-27 23:44:25,989 [DEBUG] [TaskbarService] [root/tasks_service.py:75]: Found yasb systray hwnd: 4982848
+2025-07-27 23:44:25,989 [DEBUG] [TaskbarService] [systray_widget/tasks_service.py:81]: Adding TaskbandHWND prop to hwnd 4982848
+2025-07-27 23:44:26,016 [INFO] [Dummy-5] [root/event_listener.py:125]: Komorebi connected to named pipe: yasb-3f5fa1fe-6b3b-11f0-acd4-b37ffa5b5965
+2025-07-27 23:44:26,024 [DEBUG] [MainThread] [systray_widget/systray.py:267]: Systray thread started
+2025-07-27 23:44:26,225 [DEBUG] [TaskbarService] [systray_widget/tasks_service.py:81]: Adding TaskbandHWND prop to hwnd 4982848
+2025-07-27 23:44:26,226 [DEBUG] [TrayMonitor] [systray_widget/tray_monitor.py:208]: Finding real tray hwnd
+2025-07-27 23:44:26,231 [DEBUG] [MainThread] [systray_widget/tray_monitor.py:144]: Sending TaskbarCreated message: 49262
+2025-07-27 23:44:28,091 [DEBUG] [MainThread] [systray_widget/systray.py:455]: Re-sorting widgets
+2025-07-27 23:44:28,091 [DEBUG] [MainThread] [systray_widget/systray.py:477]: Updating current state
+2025-07-27 23:44:35,305 [DEBUG] [MainThread] [systray_widget/systray.py:455]: Re-sorting widgets
+2025-07-27 23:44:35,305 [DEBUG] [MainThread] [systray_widget/systray.py:477]: Updating current state
+2025-07-27 23:45:01,390 [INFO] [Thread-1 (_run_server)] [cli_server/cli_server.py:253]: CLI server received command: stop
+2025-07-27 23:45:01,390 [INFO] [Thread-1 (_run_server)] [root/controller.py:30]: Exiting Application from CLI...
+2025-07-27 23:45:01,494 [INFO] [Thread-1 (_run_server)] [cli_server/cli_server.py:112]: Log pipe server stopped
+2025-07-27 23:45:01,494 [DEBUG] [Thread-1 (_run_server)] [cli_server/cli_server.py:206]: CLI server stopped
+2025-07-27 23:45:01,494 [DEBUG] [MainThread] [qasync._windows._EventPoller/_windows.py:218]: Stopping worker thread...
+2025-07-27 23:45:01,509 [DEBUG] [Dummy-9] [qasync._windows._EventWorker/_windows.py:201]: Exiting thread
+2025-07-27 23:45:01,510 [DEBUG] [MainThread] [qasync._windows._IocpProactor/_windows.py:75]: Closing
+2025-07-27 23:45:01,515 [ERROR] [Dummy-13] [root/event_service.py:32]: Failed to emit signal <bound PYQT_SIGNAL update_event of TaskbarWidget object at 0x0000014AE588BC50>. Removing link to WinEvent.EventObjectDestroy.
+2025-07-27 23:45:01,518 [DEBUG] [MainThread] [systray_widget/utils.py:96]: Destroying window 2884024
+2025-07-27 23:45:01,518 [DEBUG] [MainThread] [systray_widget/utils.py:96]: Destroying window 4982848
+2025-07-27 23:45:02,375 [INFO] [MainThread] [root/log.py:59]: YASB v1.7.8
+2025-07-27 23:45:02,375 [INFO] [Thread-1 (_run_server)] [cli_server/cli_server.py:212]: CLI server started v1.1.2
+2025-07-27 23:45:02,375 [INFO] [MainThread] [cli_server/cli_server.py:104]: Log pipe server started
+2025-07-27 23:45:02,539 [DEBUG] [MainThread] [comtypes/__init__.py:149]: CoInitializeEx(None, 2)
+2025-07-27 23:45:02,636 [DEBUG] [MainThread] [tzlocal/win32.py:55]: Looking up time zone info from registry
+2025-07-27 23:45:03,208 [INFO] [MainThread] [root/bar_manager.py:74]: Starting WindowsNotificationEventListener...
+2025-07-27 23:45:03,209 [INFO] [MainThread] [root/bar_manager.py:74]: Starting SystemEventListener...
+2025-07-27 23:45:03,209 [INFO] [MainThread] [root/bar_manager.py:74]: Starting KomorebiEventListener...
+2025-07-27 23:45:03,210 [INFO] [MainThread] [root/watcher.py:54]: Created file watcher for path C:\Users\ilyes\.config\yasb
+2025-07-27 23:45:03,229 [INFO] [Dummy-5] [root/event_listener.py:51]: Created named pipe yasb-559d5393-6b3b-11f0-9f9a-b37ffa5b5965
+2025-07-27 23:45:03,247 [DEBUG] [MainThread] [qasync._windows._EventPoller/_windows.py:213]: Starting (proactor: <_IocpProactor overlapped#=0 result#=0>)...
+2025-07-27 23:45:03,250 [DEBUG] [Dummy-9] [qasync._windows._EventWorker/_windows.py:192]: Thread started
+2025-07-27 23:45:03,250 [DEBUG] [MainThread] [systray_widget/systray.py:517]: Loading state from C:\Users\ilyes\AppData\Local\YASB\systray_state_LGELECTRONICSLGFULLHD509694.json
+2025-07-27 23:45:03,259 [DEBUG] [TaskbarService] [systray_widget/systray.py:72]: TaskbarService thread is starting...
+2025-07-27 23:45:03,259 [DEBUG] [TrayMonitor] [systray_widget/systray.py:58]: Systray thread is starting...
+2025-07-27 23:45:03,298 [DEBUG] [TaskbarService] [root/tasks_service.py:75]: Found yasb systray hwnd: 2228694
+2025-07-27 23:45:03,298 [DEBUG] [TaskbarService] [systray_widget/tasks_service.py:81]: Adding TaskbandHWND prop to hwnd 2228694
+2025-07-27 23:45:03,309 [DEBUG] [MainThread] [systray_widget/systray.py:267]: Systray thread started
+2025-07-27 23:45:03,320 [INFO] [Dummy-5] [root/event_listener.py:125]: Komorebi connected to named pipe: yasb-559d5393-6b3b-11f0-9f9a-b37ffa5b5965
+2025-07-27 23:45:03,509 [DEBUG] [TaskbarService] [systray_widget/tasks_service.py:81]: Adding TaskbandHWND prop to hwnd 2228694
+2025-07-27 23:45:03,510 [DEBUG] [TrayMonitor] [systray_widget/tray_monitor.py:208]: Finding real tray hwnd
+2025-07-27 23:45:03,515 [DEBUG] [MainThread] [systray_widget/tray_monitor.py:144]: Sending TaskbarCreated message: 49262
+2025-07-27 23:45:04,524 [DEBUG] [MainThread] [systray_widget/systray.py:455]: Re-sorting widgets
+2025-07-27 23:45:04,524 [DEBUG] [MainThread] [systray_widget/systray.py:477]: Updating current state
+2025-07-27 23:45:07,076 [DEBUG] [MainThread] [systray_widget/systray.py:455]: Re-sorting widgets
+2025-07-27 23:45:07,076 [DEBUG] [MainThread] [systray_widget/systray.py:477]: Updating current state
+2025-07-27 23:45:12,577 [DEBUG] [MainThread] [systray_widget/systray.py:455]: Re-sorting widgets
+2025-07-27 23:45:12,577 [DEBUG] [MainThread] [systray_widget/systray.py:477]: Updating current state
+2025-07-27 23:45:51,713 [INFO] [Thread-1 (_run_server)] [cli_server/cli_server.py:253]: CLI server received command: stop
+2025-07-27 23:45:51,713 [INFO] [Thread-1 (_run_server)] [root/controller.py:30]: Exiting Application from CLI...
+2025-07-27 23:45:51,825 [INFO] [Thread-1 (_run_server)] [cli_server/cli_server.py:112]: Log pipe server stopped
+2025-07-27 23:45:51,825 [DEBUG] [Thread-1 (_run_server)] [cli_server/cli_server.py:206]: CLI server stopped
+2025-07-27 23:45:51,825 [DEBUG] [MainThread] [qasync._windows._EventPoller/_windows.py:218]: Stopping worker thread...
+2025-07-27 23:45:51,840 [DEBUG] [Dummy-9] [qasync._windows._EventWorker/_windows.py:201]: Exiting thread
+2025-07-27 23:45:51,841 [DEBUG] [MainThread] [qasync._windows._IocpProactor/_windows.py:75]: Closing
+2025-07-27 23:45:51,851 [DEBUG] [MainThread] [systray_widget/utils.py:96]: Destroying window 1379542
+2025-07-27 23:45:51,852 [DEBUG] [MainThread] [systray_widget/utils.py:96]: Destroying window 2228694
+2025-07-27 23:45:52,697 [INFO] [MainThread] [root/log.py:59]: YASB v1.7.8
+2025-07-27 23:45:52,697 [INFO] [Thread-1 (_run_server)] [cli_server/cli_server.py:212]: CLI server started v1.1.2
+2025-07-27 23:45:52,698 [INFO] [MainThread] [cli_server/cli_server.py:104]: Log pipe server started
+2025-07-27 23:45:52,808 [DEBUG] [MainThread] [tzlocal/win32.py:55]: Looking up time zone info from registry
+2025-07-27 23:45:52,973 [DEBUG] [MainThread] [comtypes/__init__.py:149]: CoInitializeEx(None, 2)
+2025-07-27 23:45:53,467 [INFO] [MainThread] [root/bar_manager.py:74]: Starting SystemEventListener...
+2025-07-27 23:45:53,468 [INFO] [MainThread] [root/bar_manager.py:74]: Starting KomorebiEventListener...
+2025-07-27 23:45:53,468 [INFO] [MainThread] [root/watcher.py:54]: Created file watcher for path C:\Users\ilyes\.config\yasb
+2025-07-27 23:45:53,490 [INFO] [Dummy-5] [root/event_listener.py:51]: Created named pipe yasb-73922561-6b3b-11f0-9231-b37ffa5b5965
+2025-07-27 23:45:53,505 [DEBUG] [MainThread] [qasync._windows._EventPoller/_windows.py:213]: Starting (proactor: <_IocpProactor overlapped#=0 result#=0>)...
+2025-07-27 23:45:53,506 [DEBUG] [Dummy-7] [qasync._windows._EventWorker/_windows.py:192]: Thread started
+2025-07-27 23:45:53,511 [DEBUG] [MainThread] [systray_widget/systray.py:517]: Loading state from C:\Users\ilyes\AppData\Local\YASB\systray_state_LGELECTRONICSLGFULLHD509694.json
+2025-07-27 23:45:53,540 [DEBUG] [TaskbarService] [systray_widget/systray.py:72]: TaskbarService thread is starting...
+2025-07-27 23:45:53,552 [DEBUG] [TrayMonitor] [systray_widget/systray.py:58]: Systray thread is starting...
+2025-07-27 23:45:53,558 [DEBUG] [TaskbarService] [root/tasks_service.py:75]: Found yasb systray hwnd: 2755484
+2025-07-27 23:45:53,558 [DEBUG] [TaskbarService] [systray_widget/tasks_service.py:81]: Adding TaskbandHWND prop to hwnd 2755484
+2025-07-27 23:45:53,574 [DEBUG] [MainThread] [systray_widget/systray.py:267]: Systray thread started
+2025-07-27 23:45:53,591 [INFO] [Dummy-5] [root/event_listener.py:125]: Komorebi connected to named pipe: yasb-73922561-6b3b-11f0-9231-b37ffa5b5965
+2025-07-27 23:45:53,776 [DEBUG] [TaskbarService] [systray_widget/tasks_service.py:81]: Adding TaskbandHWND prop to hwnd 2755484
+2025-07-27 23:45:53,776 [DEBUG] [TrayMonitor] [systray_widget/tray_monitor.py:208]: Finding real tray hwnd
+2025-07-27 23:45:53,782 [DEBUG] [MainThread] [systray_widget/tray_monitor.py:144]: Sending TaskbarCreated message: 49262
+2025-07-27 23:45:55,120 [DEBUG] [MainThread] [systray_widget/systray.py:455]: Re-sorting widgets
+2025-07-27 23:45:55,121 [DEBUG] [MainThread] [systray_widget/systray.py:477]: Updating current state
+2025-07-27 23:46:02,855 [DEBUG] [MainThread] [systray_widget/systray.py:455]: Re-sorting widgets
+2025-07-27 23:46:02,855 [DEBUG] [MainThread] [systray_widget/systray.py:477]: Updating current state
+2025-07-27 23:47:28,006 [INFO] [Thread-1 (_run_server)] [cli_server/cli_server.py:253]: CLI server received command: stop
+2025-07-27 23:47:28,006 [INFO] [Thread-1 (_run_server)] [root/controller.py:30]: Exiting Application from CLI...
+2025-07-27 23:47:28,109 [INFO] [Thread-1 (_run_server)] [cli_server/cli_server.py:112]: Log pipe server stopped
+2025-07-27 23:47:28,109 [DEBUG] [Thread-1 (_run_server)] [cli_server/cli_server.py:206]: CLI server stopped
+2025-07-27 23:47:28,109 [DEBUG] [MainThread] [qasync._windows._EventPoller/_windows.py:218]: Stopping worker thread...
+2025-07-27 23:47:28,125 [DEBUG] [Dummy-7] [qasync._windows._EventWorker/_windows.py:201]: Exiting thread
+2025-07-27 23:47:28,125 [DEBUG] [MainThread] [qasync._windows._IocpProactor/_windows.py:75]: Closing
+2025-07-27 23:47:28,142 [DEBUG] [MainThread] [systray_widget/utils.py:96]: Destroying window 2034740
+2025-07-27 23:47:28,142 [DEBUG] [MainThread] [systray_widget/utils.py:96]: Destroying window 2755484
+2025-07-27 23:47:29,028 [INFO] [MainThread] [root/log.py:59]: YASB v1.7.8
+2025-07-27 23:47:29,029 [INFO] [Thread-1 (_run_server)] [cli_server/cli_server.py:212]: CLI server started v1.1.2
+2025-07-27 23:47:29,029 [INFO] [MainThread] [cli_server/cli_server.py:104]: Log pipe server started
+2025-07-27 23:47:29,298 [DEBUG] [MainThread] [comtypes/__init__.py:149]: CoInitializeEx(None, 2)
+2025-07-27 23:47:29,381 [DEBUG] [MainThread] [tzlocal/win32.py:55]: Looking up time zone info from registry
+2025-07-27 23:47:29,800 [INFO] [MainThread] [root/bar_manager.py:74]: Starting KomorebiEventListener...
+2025-07-27 23:47:29,800 [INFO] [MainThread] [root/bar_manager.py:74]: Starting SystemEventListener...
+2025-07-27 23:47:29,800 [INFO] [MainThread] [root/watcher.py:54]: Created file watcher for path C:\Users\ilyes\.config\yasb
+2025-07-27 23:47:29,818 [INFO] [Dummy-5] [root/event_listener.py:51]: Created named pipe yasb-acfd350e-6b3b-11f0-b8d9-b37ffa5b5965
+2025-07-27 23:47:29,845 [DEBUG] [MainThread] [qasync._windows._EventPoller/_windows.py:213]: Starting (proactor: <_IocpProactor overlapped#=0 result#=0>)...
+2025-07-27 23:47:29,847 [DEBUG] [Dummy-9] [qasync._windows._EventWorker/_windows.py:192]: Thread started
+2025-07-27 23:47:29,851 [DEBUG] [MainThread] [systray_widget/systray.py:517]: Loading state from C:\Users\ilyes\AppData\Local\YASB\systray_state_LGELECTRONICSLGFULLHD509694.json
+2025-07-27 23:47:29,860 [DEBUG] [TrayMonitor] [systray_widget/systray.py:58]: Systray thread is starting...
+2025-07-27 23:47:29,861 [DEBUG] [TaskbarService] [systray_widget/systray.py:72]: TaskbarService thread is starting...
+2025-07-27 23:47:29,867 [DEBUG] [TaskbarService] [root/tasks_service.py:75]: Found yasb systray hwnd: 2951764
+2025-07-27 23:47:29,877 [DEBUG] [TaskbarService] [systray_widget/tasks_service.py:81]: Adding TaskbandHWND prop to hwnd 2951764
+2025-07-27 23:47:29,928 [INFO] [Dummy-5] [root/event_listener.py:125]: Komorebi connected to named pipe: yasb-acfd350e-6b3b-11f0-b8d9-b37ffa5b5965
+2025-07-27 23:47:29,942 [DEBUG] [MainThread] [systray_widget/systray.py:267]: Systray thread started
+2025-07-27 23:47:30,142 [DEBUG] [TaskbarService] [systray_widget/tasks_service.py:81]: Adding TaskbandHWND prop to hwnd 2951764
+2025-07-27 23:47:30,143 [DEBUG] [TrayMonitor] [systray_widget/tray_monitor.py:208]: Finding real tray hwnd
+2025-07-27 23:47:30,149 [DEBUG] [MainThread] [systray_widget/tray_monitor.py:144]: Sending TaskbarCreated message: 49262
+2025-07-27 23:47:30,237 [ERROR] [MainThread] [root/weather.py:77]: Weather response error: ContentAccessDenied 201.
+2025-07-27 23:47:30,237 [WARNING] [MainThread] [root/weather.py:544]: Error processing weather data: Weather data is empty.. Retrying fetch in 10 seconds.
+2025-07-27 23:47:31,171 [DEBUG] [MainThread] [systray_widget/systray.py:455]: Re-sorting widgets
+2025-07-27 23:47:31,171 [DEBUG] [MainThread] [systray_widget/systray.py:477]: Updating current state
+2025-07-27 23:47:34,059 [DEBUG] [MainThread] [systray_widget/systray.py:455]: Re-sorting widgets
+2025-07-27 23:47:34,059 [DEBUG] [MainThread] [systray_widget/systray.py:477]: Updating current state
+2025-07-27 23:47:39,219 [DEBUG] [MainThread] [systray_widget/systray.py:455]: Re-sorting widgets
+2025-07-27 23:47:39,219 [DEBUG] [MainThread] [systray_widget/systray.py:477]: Updating current state
+2025-07-27 23:47:40,319 [ERROR] [MainThread] [root/weather.py:77]: Weather response error: ContentAccessDenied 201.
+2025-07-27 23:47:40,319 [WARNING] [MainThread] [root/weather.py:544]: Error processing weather data: Weather data is empty.. Retrying fetch in 10 seconds.
+2025-07-27 23:47:49,481 [WARNING] [MainThread] [root/weather.py:126]: Failed to fetch icon N/A: ProtocolUnknownError 301
+2025-07-27 23:47:49,482 [WARNING] [MainThread] [root/weather.py:126]: Failed to fetch icon N/A: ProtocolUnknownError 301
+2025-07-27 23:47:49,482 [WARNING] [MainThread] [root/weather.py:126]: Failed to fetch icon N/A: ProtocolUnknownError 301
+2025-07-27 23:47:50,390 [ERROR] [MainThread] [root/weather.py:77]: Weather response error: ContentAccessDenied 201.
+2025-07-27 23:47:50,390 [WARNING] [MainThread] [root/weather.py:544]: Error processing weather data: Weather data is empty.. Retrying fetch in 10 seconds.
+2025-07-27 23:47:51,062 [WARNING] [MainThread] [root/weather.py:126]: Failed to fetch icon N/A: ProtocolUnknownError 301
+2025-07-27 23:47:51,062 [WARNING] [MainThread] [root/weather.py:126]: Failed to fetch icon N/A: ProtocolUnknownError 301
+2025-07-27 23:47:51,062 [WARNING] [MainThread] [root/weather.py:126]: Failed to fetch icon N/A: ProtocolUnknownError 301
+2025-07-27 23:48:00,462 [ERROR] [MainThread] [root/weather.py:77]: Weather response error: ContentAccessDenied 201.
+2025-07-27 23:48:00,463 [WARNING] [MainThread] [root/weather.py:544]: Error processing weather data: Weather data is empty.. Retrying fetch in 10 seconds.
+2025-07-27 23:48:10,530 [ERROR] [MainThread] [root/weather.py:77]: Weather response error: ContentAccessDenied 201.
+2025-07-27 23:48:10,530 [WARNING] [MainThread] [root/weather.py:544]: Error processing weather data: Weather data is empty.. Retrying fetch in 10 seconds.
+2025-07-27 23:48:14,024 [INFO] [Thread-1 (_run_server)] [cli_server/cli_server.py:253]: CLI server received command: stop
+2025-07-27 23:48:14,025 [INFO] [Thread-1 (_run_server)] [root/controller.py:30]: Exiting Application from CLI...
+2025-07-27 23:48:14,135 [INFO] [Thread-1 (_run_server)] [cli_server/cli_server.py:112]: Log pipe server stopped
+2025-07-27 23:48:14,135 [DEBUG] [Thread-1 (_run_server)] [cli_server/cli_server.py:206]: CLI server stopped
+2025-07-27 23:48:14,135 [DEBUG] [MainThread] [qasync._windows._EventPoller/_windows.py:218]: Stopping worker thread...
+2025-07-27 23:48:14,150 [DEBUG] [Dummy-9] [qasync._windows._EventWorker/_windows.py:201]: Exiting thread
+2025-07-27 23:48:14,151 [DEBUG] [MainThread] [qasync._windows._IocpProactor/_windows.py:75]: Closing
+2025-07-27 23:48:14,159 [ERROR] [Dummy-13] [root/event_service.py:32]: Failed to emit signal <bound PYQT_SIGNAL update_event of TaskbarWidget object at 0x000002D2CABFF750>. Removing link to WinEvent.EventObjectDestroy.
+2025-07-27 23:48:14,167 [DEBUG] [MainThread] [systray_widget/utils.py:96]: Destroying window 3017314
+2025-07-27 23:48:14,167 [DEBUG] [MainThread] [systray_widget/utils.py:96]: Destroying window 2951764
+2025-07-27 23:48:14,981 [INFO] [MainThread] [root/log.py:59]: YASB v1.7.8
+2025-07-27 23:48:14,981 [INFO] [Thread-1 (_run_server)] [cli_server/cli_server.py:212]: CLI server started v1.1.2
+2025-07-27 23:48:14,982 [INFO] [MainThread] [cli_server/cli_server.py:104]: Log pipe server started
+2025-07-27 23:48:15,259 [DEBUG] [MainThread] [tzlocal/win32.py:55]: Looking up time zone info from registry
+2025-07-27 23:48:15,979 [DEBUG] [MainThread] [comtypes/__init__.py:149]: CoInitializeEx(None, 2)
+2025-07-27 23:48:16,583 [INFO] [MainThread] [root/bar_manager.py:74]: Starting WindowsNotificationEventListener...
+2025-07-27 23:48:16,584 [INFO] [MainThread] [root/bar_manager.py:74]: Starting KomorebiEventListener...
+2025-07-27 23:48:16,585 [INFO] [MainThread] [root/watcher.py:54]: Created file watcher for path C:\Users\ilyes\.config\yasb
+2025-07-27 23:48:16,594 [INFO] [Dummy-5] [root/event_listener.py:51]: Created named pipe yasb-c8dfef3e-6b3b-11f0-988b-b37ffa5b5965
+2025-07-27 23:48:16,641 [DEBUG] [MainThread] [qasync._windows._EventPoller/_windows.py:213]: Starting (proactor: <_IocpProactor overlapped#=0 result#=0>)...
+2025-07-27 23:48:16,643 [DEBUG] [Dummy-9] [qasync._windows._EventWorker/_windows.py:192]: Thread started
+2025-07-27 23:48:16,653 [DEBUG] [MainThread] [systray_widget/systray.py:517]: Loading state from C:\Users\ilyes\AppData\Local\YASB\systray_state_LGELECTRONICSLGFULLHD509694.json
+2025-07-27 23:48:16,661 [DEBUG] [TrayMonitor] [systray_widget/systray.py:58]: Systray thread is starting...
+2025-07-27 23:48:16,661 [DEBUG] [TaskbarService] [systray_widget/systray.py:72]: TaskbarService thread is starting...
+2025-07-27 23:48:16,666 [DEBUG] [TaskbarService] [root/tasks_service.py:75]: Found yasb systray hwnd: 3082966
+2025-07-27 23:48:16,666 [DEBUG] [TaskbarService] [systray_widget/tasks_service.py:81]: Adding TaskbandHWND prop to hwnd 3082966
+2025-07-27 23:48:16,697 [DEBUG] [MainThread] [systray_widget/systray.py:267]: Systray thread started
+2025-07-27 23:48:16,702 [INFO] [Dummy-5] [root/event_listener.py:125]: Komorebi connected to named pipe: yasb-c8dfef3e-6b3b-11f0-988b-b37ffa5b5965
+2025-07-27 23:48:16,899 [DEBUG] [TaskbarService] [systray_widget/tasks_service.py:81]: Adding TaskbandHWND prop to hwnd 3082966
+2025-07-27 23:48:16,900 [DEBUG] [TrayMonitor] [systray_widget/tray_monitor.py:208]: Finding real tray hwnd
+2025-07-27 23:48:16,904 [DEBUG] [MainThread] [systray_widget/tray_monitor.py:144]: Sending TaskbarCreated message: 49262
+2025-07-27 23:48:17,022 [ERROR] [MainThread] [root/weather.py:77]: Weather response error: ContentAccessDenied 201.
+2025-07-27 23:48:17,022 [WARNING] [MainThread] [root/weather.py:544]: Error processing weather data: Weather data is empty.. Retrying fetch in 10 seconds.
+2025-07-27 23:48:17,915 [DEBUG] [MainThread] [systray_widget/systray.py:455]: Re-sorting widgets
+2025-07-27 23:48:17,915 [DEBUG] [MainThread] [systray_widget/systray.py:477]: Updating current state
+2025-07-27 23:48:19,106 [DEBUG] [MainThread] [systray_widget/systray.py:455]: Re-sorting widgets
+2025-07-27 23:48:19,106 [DEBUG] [MainThread] [systray_widget/systray.py:477]: Updating current state
+2025-07-27 23:48:25,960 [DEBUG] [MainThread] [systray_widget/systray.py:455]: Re-sorting widgets
+2025-07-27 23:48:25,960 [DEBUG] [MainThread] [systray_widget/systray.py:477]: Updating current state
+2025-07-27 23:48:27,069 [ERROR] [MainThread] [root/weather.py:77]: Weather response error: ContentAccessDenied 201.
+2025-07-27 23:48:27,070 [WARNING] [MainThread] [root/weather.py:544]: Error processing weather data: Weather data is empty.. Retrying fetch in 10 seconds.
+2025-07-27 23:48:37,157 [ERROR] [MainThread] [root/weather.py:77]: Weather response error: ContentAccessDenied 201.
+2025-07-27 23:48:37,157 [WARNING] [MainThread] [root/weather.py:544]: Error processing weather data: Weather data is empty.. Retrying fetch in 10 seconds.
+2025-07-27 23:48:47,275 [ERROR] [MainThread] [root/weather.py:77]: Weather response error: ContentAccessDenied 201.
+2025-07-27 23:48:47,275 [WARNING] [MainThread] [root/weather.py:544]: Error processing weather data: Weather data is empty.. Retrying fetch in 10 seconds.
+2025-07-27 23:48:57,342 [ERROR] [MainThread] [root/weather.py:77]: Weather response error: ContentAccessDenied 201.
+2025-07-27 23:48:57,343 [WARNING] [MainThread] [root/weather.py:544]: Error processing weather data: Weather data is empty.. Retrying fetch in 10 seconds.
+2025-07-27 23:49:07,399 [ERROR] [MainThread] [root/weather.py:77]: Weather response error: ContentAccessDenied 201.
+2025-07-27 23:49:07,399 [WARNING] [MainThread] [root/weather.py:544]: Error processing weather data: Weather data is empty.. Retrying fetch in 10 seconds.
+2025-07-27 23:49:17,466 [ERROR] [MainThread] [root/weather.py:77]: Weather response error: ContentAccessDenied 201.
+2025-07-27 23:49:17,466 [WARNING] [MainThread] [root/weather.py:544]: Error processing weather data: Weather data is empty.. Retrying fetch in 10 seconds.
+2025-07-27 23:49:27,534 [ERROR] [MainThread] [root/weather.py:77]: Weather response error: ContentAccessDenied 201.
+2025-07-27 23:49:27,534 [WARNING] [MainThread] [root/weather.py:544]: Error processing weather data: Weather data is empty.. Retrying fetch in 10 seconds.
+2025-07-27 23:49:37,591 [ERROR] [MainThread] [root/weather.py:77]: Weather response error: ContentAccessDenied 201.
+2025-07-27 23:49:37,591 [WARNING] [MainThread] [root/weather.py:544]: Error processing weather data: Weather data is empty.. Retrying fetch in 10 seconds.
+2025-07-27 23:49:47,695 [ERROR] [MainThread] [root/weather.py:77]: Weather response error: ContentAccessDenied 201.
+2025-07-27 23:49:47,696 [WARNING] [MainThread] [root/weather.py:544]: Error processing weather data: Weather data is empty.. Retrying fetch in 10 seconds.
+2025-07-27 23:49:57,758 [ERROR] [MainThread] [root/weather.py:77]: Weather response error: ContentAccessDenied 201.
+2025-07-27 23:49:57,758 [WARNING] [MainThread] [root/weather.py:544]: Error processing weather data: Weather data is empty.. Retrying fetch in 10 seconds.
+2025-07-27 23:50:07,817 [ERROR] [MainThread] [root/weather.py:77]: Weather response error: ContentAccessDenied 201.
+2025-07-27 23:50:07,818 [WARNING] [MainThread] [root/weather.py:544]: Error processing weather data: Weather data is empty.. Retrying fetch in 10 seconds.
+2025-07-27 23:50:17,867 [ERROR] [MainThread] [root/weather.py:77]: Weather response error: ContentAccessDenied 201.
+2025-07-27 23:50:17,867 [WARNING] [MainThread] [root/weather.py:544]: Error processing weather data: Weather data is empty.. Retrying fetch in 10 seconds.
+2025-07-27 23:50:27,925 [ERROR] [MainThread] [root/weather.py:77]: Weather response error: ContentAccessDenied 201.
+2025-07-27 23:50:27,925 [WARNING] [MainThread] [root/weather.py:544]: Error processing weather data: Weather data is empty.. Retrying fetch in 10 seconds.
+2025-07-27 23:50:37,982 [ERROR] [MainThread] [root/weather.py:77]: Weather response error: ContentAccessDenied 201.
+2025-07-27 23:50:37,982 [WARNING] [MainThread] [root/weather.py:544]: Error processing weather data: Weather data is empty.. Retrying fetch in 10 seconds.
+2025-07-27 23:50:48,041 [ERROR] [MainThread] [root/weather.py:77]: Weather response error: ContentAccessDenied 201.
+2025-07-27 23:50:48,041 [WARNING] [MainThread] [root/weather.py:544]: Error processing weather data: Weather data is empty.. Retrying fetch in 10 seconds.
+2025-07-27 23:50:58,127 [ERROR] [MainThread] [root/weather.py:77]: Weather response error: ContentAccessDenied 201.
+2025-07-27 23:50:58,127 [WARNING] [MainThread] [root/weather.py:544]: Error processing weather data: Weather data is empty.. Retrying fetch in 10 seconds.
+2025-07-27 23:51:08,182 [ERROR] [MainThread] [root/weather.py:77]: Weather response error: ContentAccessDenied 201.
+2025-07-27 23:51:08,182 [WARNING] [MainThread] [root/weather.py:544]: Error processing weather data: Weather data is empty.. Retrying fetch in 10 seconds.
+2025-07-27 23:51:09,894 [INFO] [Thread-1 (_run_server)] [cli_server/cli_server.py:253]: CLI server received command: stop
+2025-07-27 23:51:09,894 [INFO] [Thread-1 (_run_server)] [root/controller.py:30]: Exiting Application from CLI...
+2025-07-27 23:51:10,003 [INFO] [Thread-1 (_run_server)] [cli_server/cli_server.py:112]: Log pipe server stopped
+2025-07-27 23:51:10,003 [DEBUG] [Thread-1 (_run_server)] [cli_server/cli_server.py:206]: CLI server stopped
+2025-07-27 23:51:10,003 [DEBUG] [MainThread] [qasync._windows._EventPoller/_windows.py:218]: Stopping worker thread...
+2025-07-27 23:51:10,018 [DEBUG] [Dummy-9] [qasync._windows._EventWorker/_windows.py:201]: Exiting thread
+2025-07-27 23:51:10,019 [DEBUG] [MainThread] [qasync._windows._IocpProactor/_windows.py:75]: Closing
+2025-07-27 23:51:10,041 [DEBUG] [MainThread] [systray_widget/utils.py:96]: Destroying window 2034106
+2025-07-27 23:51:10,041 [DEBUG] [MainThread] [systray_widget/utils.py:96]: Destroying window 3082966
+2025-07-27 23:51:10,041 [DEBUG] [TrayMonitor] [systray_widget/tray_monitor.py:149]: WM_CLOSE received, destroying window 3082966
+2025-07-27 23:51:10,927 [INFO] [MainThread] [root/log.py:59]: YASB v1.7.8
+2025-07-27 23:51:10,928 [INFO] [Thread-1 (_run_server)] [cli_server/cli_server.py:212]: CLI server started v1.1.2
+2025-07-27 23:51:10,928 [INFO] [MainThread] [cli_server/cli_server.py:104]: Log pipe server started
+2025-07-27 23:51:11,163 [DEBUG] [MainThread] [tzlocal/win32.py:55]: Looking up time zone info from registry
+2025-07-27 23:51:11,716 [DEBUG] [MainThread] [comtypes/__init__.py:149]: CoInitializeEx(None, 2)
+2025-07-27 23:51:11,896 [INFO] [MainThread] [root/bar_manager.py:74]: Starting KomorebiEventListener...
+2025-07-27 23:51:11,896 [INFO] [MainThread] [root/bar_manager.py:74]: Starting SystemEventListener...
+2025-07-27 23:51:11,896 [INFO] [MainThread] [root/watcher.py:54]: Created file watcher for path C:\Users\ilyes\.config\yasb
+2025-07-27 23:51:11,910 [INFO] [Dummy-5] [root/event_listener.py:51]: Created named pipe yasb-315e7138-6b3c-11f0-a2ce-b37ffa5b5965
+2025-07-27 23:51:11,965 [DEBUG] [MainThread] [qasync._windows._EventPoller/_windows.py:213]: Starting (proactor: <_IocpProactor overlapped#=0 result#=0>)...
+2025-07-27 23:51:11,966 [DEBUG] [Dummy-9] [qasync._windows._EventWorker/_windows.py:192]: Thread started
+2025-07-27 23:51:12,055 [INFO] [Dummy-5] [root/event_listener.py:125]: Komorebi connected to named pipe: yasb-315e7138-6b3c-11f0-a2ce-b37ffa5b5965
+2025-07-27 23:51:12,468 [ERROR] [MainThread] [root/weather.py:77]: Weather response error: AuthenticationRequiredError 204.
+2025-07-27 23:51:12,468 [WARNING] [MainThread] [root/weather.py:544]: Error processing weather data: Weather data is empty.. Retrying fetch in 10 seconds.
+2025-07-27 23:51:22,515 [ERROR] [MainThread] [root/weather.py:77]: Weather response error: ContentAccessDenied 201.
+2025-07-27 23:51:22,515 [WARNING] [MainThread] [root/weather.py:544]: Error processing weather data: Weather data is empty.. Retrying fetch in 10 seconds.
+2025-07-27 23:51:32,576 [ERROR] [MainThread] [root/weather.py:77]: Weather response error: ContentAccessDenied 201.
+2025-07-27 23:51:32,577 [WARNING] [MainThread] [root/weather.py:544]: Error processing weather data: Weather data is empty.. Retrying fetch in 10 seconds.
+2025-07-27 23:51:42,649 [ERROR] [MainThread] [root/weather.py:77]: Weather response error: ContentAccessDenied 201.
+2025-07-27 23:51:42,649 [WARNING] [MainThread] [root/weather.py:544]: Error processing weather data: Weather data is empty.. Retrying fetch in 10 seconds.
+2025-07-27 23:51:52,728 [ERROR] [MainThread] [root/weather.py:77]: Weather response error: ContentAccessDenied 201.
+2025-07-27 23:51:52,729 [WARNING] [MainThread] [root/weather.py:544]: Error processing weather data: Weather data is empty.. Retrying fetch in 10 seconds.
+2025-07-27 23:52:02,777 [ERROR] [MainThread] [root/weather.py:77]: Weather response error: ContentAccessDenied 201.
+2025-07-27 23:52:02,779 [WARNING] [MainThread] [root/weather.py:544]: Error processing weather data: Weather data is empty.. Retrying fetch in 10 seconds.
+2025-07-27 23:52:12,877 [ERROR] [MainThread] [root/weather.py:77]: Weather response error: AuthenticationRequiredError 204.
+2025-07-27 23:52:12,877 [WARNING] [MainThread] [root/weather.py:544]: Error processing weather data: Weather data is empty.. Retrying fetch in 10 seconds.
+2025-07-27 23:52:22,942 [ERROR] [MainThread] [root/weather.py:77]: Weather response error: ContentAccessDenied 201.
+2025-07-27 23:52:22,942 [WARNING] [MainThread] [root/weather.py:544]: Error processing weather data: Weather data is empty.. Retrying fetch in 10 seconds.
+2025-07-27 23:52:32,993 [ERROR] [MainThread] [root/weather.py:77]: Weather response error: ContentAccessDenied 201.
+2025-07-27 23:52:32,994 [WARNING] [MainThread] [root/weather.py:544]: Error processing weather data: Weather data is empty.. Retrying fetch in 10 seconds.
+2025-07-27 23:52:39,339 [INFO] [MainThread] [root/controller.py:15]: Reloading Application because of config change.
+2025-07-27 23:52:39,451 [INFO] [MainThread] [cli_server/cli_server.py:112]: Log pipe server stopped
+2025-07-27 23:52:39,451 [DEBUG] [MainThread] [cli_server/cli_server.py:206]: CLI server stopped
+2025-07-27 23:52:39,458 [INFO] [MainThread] [root/bar_manager.py:65]: Successfully loaded updated config and re-initialised all bars.
+2025-07-27 23:52:39,458 [DEBUG] [MainThread] [qasync._windows._EventPoller/_windows.py:218]: Stopping worker thread...
+2025-07-27 23:52:39,467 [DEBUG] [Dummy-9] [qasync._windows._EventWorker/_windows.py:201]: Exiting thread
+2025-07-27 23:52:39,468 [DEBUG] [MainThread] [qasync._windows._IocpProactor/_windows.py:75]: Closing
+2025-07-27 23:52:39,786 [INFO] [MainThread] [root/log.py:59]: YASB v1.7.8
+2025-07-27 23:52:39,787 [INFO] [Thread-1 (_run_server)] [cli_server/cli_server.py:212]: CLI server started v1.1.2
+2025-07-27 23:52:39,788 [INFO] [MainThread] [cli_server/cli_server.py:104]: Log pipe server started
+2025-07-27 23:52:39,989 [DEBUG] [MainThread] [tzlocal/win32.py:55]: Looking up time zone info from registry
+2025-07-27 23:52:40,561 [DEBUG] [MainThread] [comtypes/__init__.py:149]: CoInitializeEx(None, 2)
+2025-07-27 23:52:40,784 [INFO] [MainThread] [root/bar_manager.py:74]: Starting SystemEventListener...
+2025-07-27 23:52:40,784 [INFO] [MainThread] [root/bar_manager.py:74]: Starting KomorebiEventListener...
+2025-07-27 23:52:40,785 [INFO] [MainThread] [root/watcher.py:54]: Created file watcher for path C:\Users\ilyes\.config\yasb
+2025-07-27 23:52:40,816 [INFO] [Dummy-5] [root/event_listener.py:51]: Created named pipe yasb-6659a329-6b3c-11f0-a5ae-b37ffa5b5965
+2025-07-27 23:52:40,858 [DEBUG] [MainThread] [qasync._windows._EventPoller/_windows.py:213]: Starting (proactor: <_IocpProactor overlapped#=0 result#=0>)...
+2025-07-27 23:52:40,860 [DEBUG] [Dummy-9] [qasync._windows._EventWorker/_windows.py:192]: Thread started
+2025-07-27 23:52:40,941 [INFO] [Dummy-5] [root/event_listener.py:125]: Komorebi connected to named pipe: yasb-6659a329-6b3c-11f0-a5ae-b37ffa5b5965
+2025-07-27 23:52:41,382 [ERROR] [MainThread] [root/weather.py:77]: Weather response error: AuthenticationRequiredError 204.
+2025-07-27 23:52:41,383 [WARNING] [MainThread] [root/weather.py:544]: Error processing weather data: Weather data is empty.. Retrying fetch in 10 seconds.
+2025-07-27 23:52:44,578 [INFO] [MainThread] [root/controller.py:15]: Reloading Application because of config change.
+2025-07-27 23:52:44,678 [INFO] [MainThread] [cli_server/cli_server.py:112]: Log pipe server stopped
+2025-07-27 23:52:44,678 [DEBUG] [MainThread] [cli_server/cli_server.py:206]: CLI server stopped
+2025-07-27 23:52:44,683 [INFO] [MainThread] [root/bar_manager.py:65]: Successfully loaded updated config and re-initialised all bars.
+2025-07-27 23:52:44,683 [DEBUG] [MainThread] [qasync._windows._EventPoller/_windows.py:218]: Stopping worker thread...
+2025-07-27 23:52:44,694 [DEBUG] [Dummy-9] [qasync._windows._EventWorker/_windows.py:201]: Exiting thread
+2025-07-27 23:52:44,695 [DEBUG] [MainThread] [qasync._windows._IocpProactor/_windows.py:75]: Closing
+2025-07-27 23:52:45,039 [INFO] [MainThread] [root/log.py:59]: YASB v1.7.8
+2025-07-27 23:52:45,039 [INFO] [Thread-1 (_run_server)] [cli_server/cli_server.py:212]: CLI server started v1.1.2
+2025-07-27 23:52:45,039 [INFO] [MainThread] [cli_server/cli_server.py:104]: Log pipe server started
+2025-07-27 23:52:45,255 [DEBUG] [MainThread] [tzlocal/win32.py:55]: Looking up time zone info from registry
+2025-07-27 23:52:45,840 [DEBUG] [MainThread] [comtypes/__init__.py:149]: CoInitializeEx(None, 2)
+2025-07-27 23:52:46,000 [INFO] [MainThread] [root/bar_manager.py:74]: Starting KomorebiEventListener...
+2025-07-27 23:52:46,000 [INFO] [MainThread] [root/bar_manager.py:74]: Starting SystemEventListener...
+2025-07-27 23:52:46,000 [INFO] [MainThread] [root/watcher.py:54]: Created file watcher for path C:\Users\ilyes\.config\yasb
+2025-07-27 23:52:46,013 [INFO] [Dummy-5] [root/event_listener.py:51]: Created named pipe yasb-69757c54-6b3c-11f0-9f24-b37ffa5b5965
+2025-07-27 23:52:46,104 [DEBUG] [MainThread] [qasync._windows._EventPoller/_windows.py:213]: Starting (proactor: <_IocpProactor overlapped#=0 result#=0>)...
+2025-07-27 23:52:46,107 [DEBUG] [Dummy-9] [qasync._windows._EventWorker/_windows.py:192]: Thread started
+2025-07-27 23:52:46,184 [INFO] [Dummy-5] [root/event_listener.py:125]: Komorebi connected to named pipe: yasb-69757c54-6b3c-11f0-9f24-b37ffa5b5965
+2025-07-27 23:52:46,401 [ERROR] [MainThread] [root/weather.py:77]: Weather response error: ContentAccessDenied 201.
+2025-07-27 23:52:46,401 [WARNING] [MainThread] [root/weather.py:544]: Error processing weather data: Weather data is empty.. Retrying fetch in 10 seconds.
+2025-07-27 23:52:56,463 [ERROR] [MainThread] [root/weather.py:77]: Weather response error: ContentAccessDenied 201.
+2025-07-27 23:52:56,463 [WARNING] [MainThread] [root/weather.py:544]: Error processing weather data: Weather data is empty.. Retrying fetch in 10 seconds.
+2025-07-27 23:53:06,532 [ERROR] [MainThread] [root/weather.py:77]: Weather response error: AuthenticationRequiredError 204.
+2025-07-27 23:53:06,532 [WARNING] [MainThread] [root/weather.py:544]: Error processing weather data: Weather data is empty.. Retrying fetch in 10 seconds.
+2025-07-27 23:53:16,592 [ERROR] [MainThread] [root/weather.py:77]: Weather response error: AuthenticationRequiredError 204.
+2025-07-27 23:53:16,592 [WARNING] [MainThread] [root/weather.py:544]: Error processing weather data: Weather data is empty.. Retrying fetch in 10 seconds.
+2025-07-27 23:53:19,553 [INFO] [MainThread] [root/controller.py:15]: Reloading Application because of config change.
+2025-07-27 23:53:19,654 [INFO] [MainThread] [cli_server/cli_server.py:112]: Log pipe server stopped
+2025-07-27 23:53:19,654 [DEBUG] [MainThread] [cli_server/cli_server.py:206]: CLI server stopped
+2025-07-27 23:53:19,660 [INFO] [MainThread] [root/bar_manager.py:65]: Successfully loaded updated config and re-initialised all bars.
+2025-07-27 23:53:19,660 [DEBUG] [MainThread] [qasync._windows._EventPoller/_windows.py:218]: Stopping worker thread...
+2025-07-27 23:53:19,670 [DEBUG] [Dummy-9] [qasync._windows._EventWorker/_windows.py:201]: Exiting thread
+2025-07-27 23:53:19,671 [DEBUG] [MainThread] [qasync._windows._IocpProactor/_windows.py:75]: Closing
+2025-07-27 23:53:19,976 [INFO] [MainThread] [root/log.py:59]: YASB v1.7.8
+2025-07-27 23:53:19,978 [INFO] [Thread-1 (_run_server)] [cli_server/cli_server.py:212]: CLI server started v1.1.2
+2025-07-27 23:53:19,978 [INFO] [MainThread] [cli_server/cli_server.py:104]: Log pipe server started
+2025-07-27 23:53:20,213 [DEBUG] [MainThread] [tzlocal/win32.py:55]: Looking up time zone info from registry
+2025-07-27 23:53:20,769 [DEBUG] [MainThread] [comtypes/__init__.py:149]: CoInitializeEx(None, 2)
+2025-07-27 23:53:20,927 [INFO] [MainThread] [root/bar_manager.py:74]: Starting SystemEventListener...
+2025-07-27 23:53:20,928 [INFO] [MainThread] [root/bar_manager.py:74]: Starting KomorebiEventListener...
+2025-07-27 23:53:20,928 [INFO] [MainThread] [root/bar_manager.py:74]: Starting WindowsNotificationEventListener...
+2025-07-27 23:53:20,930 [INFO] [MainThread] [root/watcher.py:54]: Created file watcher for path C:\Users\ilyes\.config\yasb
+2025-07-27 23:53:20,931 [INFO] [Dummy-5] [root/event_listener.py:51]: Created named pipe yasb-7e472014-6b3c-11f0-ab4e-b37ffa5b5965
+2025-07-27 23:53:21,025 [DEBUG] [MainThread] [qasync._windows._EventPoller/_windows.py:213]: Starting (proactor: <_IocpProactor overlapped#=0 result#=0>)...
+2025-07-27 23:53:21,028 [DEBUG] [Dummy-9] [qasync._windows._EventWorker/_windows.py:192]: Thread started
+2025-07-27 23:53:21,134 [INFO] [Dummy-5] [root/event_listener.py:125]: Komorebi connected to named pipe: yasb-7e472014-6b3c-11f0-ab4e-b37ffa5b5965
+2025-07-27 23:53:21,533 [ERROR] [MainThread] [root/weather.py:77]: Weather response error: ContentAccessDenied 201.
+2025-07-27 23:53:21,533 [WARNING] [MainThread] [root/weather.py:544]: Error processing weather data: Weather data is empty.. Retrying fetch in 10 seconds.
+2025-07-27 23:53:31,600 [ERROR] [MainThread] [root/weather.py:77]: Weather response error: AuthenticationRequiredError 204.
+2025-07-27 23:53:31,600 [WARNING] [MainThread] [root/weather.py:544]: Error processing weather data: Weather data is empty.. Retrying fetch in 10 seconds.
+2025-07-27 23:53:41,658 [ERROR] [MainThread] [root/weather.py:77]: Weather response error: AuthenticationRequiredError 204.
+2025-07-27 23:53:41,659 [WARNING] [MainThread] [root/weather.py:544]: Error processing weather data: Weather data is empty.. Retrying fetch in 10 seconds.
+2025-07-27 23:53:45,263 [INFO] [MainThread] [root/controller.py:15]: Reloading Application because of config change.
+2025-07-27 23:53:45,367 [INFO] [MainThread] [cli_server/cli_server.py:112]: Log pipe server stopped
+2025-07-27 23:53:45,367 [DEBUG] [MainThread] [cli_server/cli_server.py:206]: CLI server stopped
+2025-07-27 23:53:45,379 [INFO] [MainThread] [root/bar_manager.py:65]: Successfully loaded updated config and re-initialised all bars.
+2025-07-27 23:53:45,379 [DEBUG] [MainThread] [qasync._windows._EventPoller/_windows.py:218]: Stopping worker thread...
+2025-07-27 23:53:45,382 [DEBUG] [Dummy-9] [qasync._windows._EventWorker/_windows.py:201]: Exiting thread
+2025-07-27 23:53:45,383 [DEBUG] [MainThread] [qasync._windows._IocpProactor/_windows.py:75]: Closing
+2025-07-27 23:53:45,747 [INFO] [MainThread] [root/log.py:59]: YASB v1.7.8
+2025-07-27 23:53:45,747 [INFO] [Thread-1 (_run_server)] [cli_server/cli_server.py:212]: CLI server started v1.1.2
+2025-07-27 23:53:45,748 [INFO] [MainThread] [cli_server/cli_server.py:104]: Log pipe server started
+2025-07-27 23:53:45,934 [DEBUG] [MainThread] [tzlocal/win32.py:55]: Looking up time zone info from registry
+2025-07-27 23:53:46,489 [DEBUG] [MainThread] [comtypes/__init__.py:149]: CoInitializeEx(None, 2)
+2025-07-27 23:53:46,660 [INFO] [MainThread] [root/bar_manager.py:74]: Starting WindowsNotificationEventListener...
+2025-07-27 23:53:46,664 [INFO] [MainThread] [root/bar_manager.py:74]: Starting KomorebiEventListener...
+2025-07-27 23:53:46,665 [INFO] [MainThread] [root/bar_manager.py:74]: Starting SystemEventListener...
+2025-07-27 23:53:46,665 [INFO] [MainThread] [root/watcher.py:54]: Created file watcher for path C:\Users\ilyes\.config\yasb
+2025-07-27 23:53:46,723 [INFO] [Dummy-5] [root/event_listener.py:51]: Created named pipe yasb-8d9e30da-6b3c-11f0-8015-b37ffa5b5965
+2025-07-27 23:53:46,766 [DEBUG] [MainThread] [qasync._windows._EventPoller/_windows.py:213]: Starting (proactor: <_IocpProactor overlapped#=0 result#=0>)...
+2025-07-27 23:53:46,767 [DEBUG] [Dummy-9] [qasync._windows._EventWorker/_windows.py:192]: Thread started
+2025-07-27 23:53:46,848 [INFO] [Dummy-5] [root/event_listener.py:125]: Komorebi connected to named pipe: yasb-8d9e30da-6b3c-11f0-8015-b37ffa5b5965
+2025-07-27 23:53:47,086 [ERROR] [MainThread] [root/weather.py:77]: Weather response error: AuthenticationRequiredError 204.
+2025-07-27 23:53:47,086 [WARNING] [MainThread] [root/weather.py:544]: Error processing weather data: Weather data is empty.. Retrying fetch in 10 seconds.
+2025-07-27 23:53:57,149 [ERROR] [MainThread] [root/weather.py:77]: Weather response error: ContentAccessDenied 201.
+2025-07-27 23:53:57,149 [WARNING] [MainThread] [root/weather.py:544]: Error processing weather data: Weather data is empty.. Retrying fetch in 10 seconds.
+2025-07-27 23:54:07,213 [ERROR] [MainThread] [root/weather.py:77]: Weather response error: AuthenticationRequiredError 204.
+2025-07-27 23:54:07,213 [WARNING] [MainThread] [root/weather.py:544]: Error processing weather data: Weather data is empty.. Retrying fetch in 10 seconds.
+2025-07-27 23:54:11,719 [INFO] [MainThread] [root/controller.py:15]: Reloading Application because of config change.
+2025-07-27 23:54:11,829 [INFO] [MainThread] [cli_server/cli_server.py:112]: Log pipe server stopped
+2025-07-27 23:54:11,829 [DEBUG] [MainThread] [cli_server/cli_server.py:206]: CLI server stopped
+2025-07-27 23:54:11,835 [INFO] [MainThread] [root/bar_manager.py:65]: Successfully loaded updated config and re-initialised all bars.
+2025-07-27 23:54:11,835 [DEBUG] [MainThread] [qasync._windows._EventPoller/_windows.py:218]: Stopping worker thread...
+2025-07-27 23:54:11,844 [DEBUG] [Dummy-9] [qasync._windows._EventWorker/_windows.py:201]: Exiting thread
+2025-07-27 23:54:11,845 [DEBUG] [MainThread] [qasync._windows._IocpProactor/_windows.py:75]: Closing
+2025-07-27 23:54:12,153 [INFO] [MainThread] [root/log.py:59]: YASB v1.7.8
+2025-07-27 23:54:12,153 [INFO] [Thread-1 (_run_server)] [cli_server/cli_server.py:212]: CLI server started v1.1.2
+2025-07-27 23:54:12,153 [INFO] [MainThread] [cli_server/cli_server.py:104]: Log pipe server started
+2025-07-27 23:54:12,336 [DEBUG] [MainThread] [tzlocal/win32.py:55]: Looking up time zone info from registry
+2025-07-27 23:54:12,884 [DEBUG] [MainThread] [comtypes/__init__.py:149]: CoInitializeEx(None, 2)
+2025-07-27 23:54:13,048 [INFO] [MainThread] [root/bar_manager.py:74]: Starting SystemEventListener...
+2025-07-27 23:54:13,048 [INFO] [MainThread] [root/bar_manager.py:74]: Starting WindowsNotificationEventListener...
+2025-07-27 23:54:13,051 [INFO] [MainThread] [root/bar_manager.py:74]: Starting KomorebiEventListener...
+2025-07-27 23:54:13,052 [INFO] [MainThread] [root/watcher.py:54]: Created file watcher for path C:\Users\ilyes\.config\yasb
+2025-07-27 23:54:13,122 [INFO] [Dummy-5] [root/event_listener.py:51]: Created named pipe yasb-9d58753f-6b3c-11f0-9d67-b37ffa5b5965
+2025-07-27 23:54:13,162 [DEBUG] [MainThread] [qasync._windows._EventPoller/_windows.py:213]: Starting (proactor: <_IocpProactor overlapped#=0 result#=0>)...
+2025-07-27 23:54:13,164 [DEBUG] [Dummy-9] [qasync._windows._EventWorker/_windows.py:192]: Thread started
+2025-07-27 23:54:13,259 [INFO] [Dummy-5] [root/event_listener.py:125]: Komorebi connected to named pipe: yasb-9d58753f-6b3c-11f0-9d67-b37ffa5b5965
+2025-07-27 23:54:13,780 [ERROR] [MainThread] [root/weather.py:77]: Weather response error: ContentAccessDenied 201.
+2025-07-27 23:54:13,780 [WARNING] [MainThread] [root/weather.py:544]: Error processing weather data: Weather data is empty.. Retrying fetch in 10 seconds.
+2025-07-27 23:54:23,856 [ERROR] [MainThread] [root/weather.py:77]: Weather response error: ContentAccessDenied 201.
+2025-07-27 23:54:23,856 [WARNING] [MainThread] [root/weather.py:544]: Error processing weather data: Weather data is empty.. Retrying fetch in 10 seconds.
+2025-07-27 23:54:27,786 [INFO] [MainThread] [root/controller.py:15]: Reloading Application because of config change.
+2025-07-27 23:54:27,897 [INFO] [MainThread] [cli_server/cli_server.py:112]: Log pipe server stopped
+2025-07-27 23:54:27,897 [DEBUG] [MainThread] [cli_server/cli_server.py:206]: CLI server stopped
+2025-07-27 23:54:27,903 [INFO] [MainThread] [root/bar_manager.py:65]: Successfully loaded updated config and re-initialised all bars.
+2025-07-27 23:54:27,903 [DEBUG] [MainThread] [qasync._windows._EventPoller/_windows.py:218]: Stopping worker thread...
+2025-07-27 23:54:27,913 [DEBUG] [Dummy-9] [qasync._windows._EventWorker/_windows.py:201]: Exiting thread
+2025-07-27 23:54:27,914 [DEBUG] [MainThread] [qasync._windows._IocpProactor/_windows.py:75]: Closing
+2025-07-27 23:54:28,252 [INFO] [MainThread] [root/log.py:59]: YASB v1.7.8
+2025-07-27 23:54:28,253 [INFO] [Thread-1 (_run_server)] [cli_server/cli_server.py:212]: CLI server started v1.1.2
+2025-07-27 23:54:28,253 [INFO] [MainThread] [cli_server/cli_server.py:104]: Log pipe server started
+2025-07-27 23:54:28,449 [DEBUG] [MainThread] [tzlocal/win32.py:55]: Looking up time zone info from registry
+2025-07-27 23:54:28,979 [DEBUG] [MainThread] [comtypes/__init__.py:149]: CoInitializeEx(None, 2)
+2025-07-27 23:54:29,126 [INFO] [MainThread] [root/bar_manager.py:74]: Starting SystemEventListener...
+2025-07-27 23:54:29,127 [INFO] [MainThread] [root/bar_manager.py:74]: Starting WindowsNotificationEventListener...
+2025-07-27 23:54:29,128 [INFO] [MainThread] [root/bar_manager.py:74]: Starting KomorebiEventListener...
+2025-07-27 23:54:29,128 [INFO] [MainThread] [root/watcher.py:54]: Created file watcher for path C:\Users\ilyes\.config\yasb
+2025-07-27 23:54:29,193 [INFO] [Dummy-5] [root/event_listener.py:51]: Created named pipe yasb-a6eda148-6b3c-11f0-b89f-b37ffa5b5965
+2025-07-27 23:54:29,249 [DEBUG] [MainThread] [qasync._windows._EventPoller/_windows.py:213]: Starting (proactor: <_IocpProactor overlapped#=0 result#=0>)...
+2025-07-27 23:54:29,252 [DEBUG] [Dummy-9] [qasync._windows._EventWorker/_windows.py:192]: Thread started
+2025-07-27 23:54:29,332 [INFO] [Dummy-5] [root/event_listener.py:125]: Komorebi connected to named pipe: yasb-a6eda148-6b3c-11f0-b89f-b37ffa5b5965
+2025-07-27 23:54:29,797 [ERROR] [MainThread] [root/weather.py:77]: Weather response error: AuthenticationRequiredError 204.
+2025-07-27 23:54:29,797 [WARNING] [MainThread] [root/weather.py:544]: Error processing weather data: Weather data is empty.. Retrying fetch in 10 seconds.
+2025-07-27 23:54:39,839 [ERROR] [MainThread] [root/weather.py:77]: Weather response error: AuthenticationRequiredError 204.
+2025-07-27 23:54:39,840 [WARNING] [MainThread] [root/weather.py:544]: Error processing weather data: Weather data is empty.. Retrying fetch in 10 seconds.
+2025-07-27 23:54:47,530 [INFO] [MainThread] [root/controller.py:15]: Reloading Application because of config change.
+2025-07-27 23:54:47,637 [INFO] [MainThread] [cli_server/cli_server.py:112]: Log pipe server stopped
+2025-07-27 23:54:47,637 [DEBUG] [MainThread] [cli_server/cli_server.py:206]: CLI server stopped
+2025-07-27 23:54:47,644 [INFO] [MainThread] [root/bar_manager.py:65]: Successfully loaded updated config and re-initialised all bars.
+2025-07-27 23:54:47,644 [DEBUG] [MainThread] [qasync._windows._EventPoller/_windows.py:218]: Stopping worker thread...
+2025-07-27 23:54:47,652 [DEBUG] [Dummy-9] [qasync._windows._EventWorker/_windows.py:201]: Exiting thread
+2025-07-27 23:54:47,653 [DEBUG] [MainThread] [qasync._windows._IocpProactor/_windows.py:75]: Closing
+2025-07-27 23:54:47,986 [INFO] [MainThread] [root/log.py:59]: YASB v1.7.8
+2025-07-27 23:54:47,987 [INFO] [Thread-1 (_run_server)] [cli_server/cli_server.py:212]: CLI server started v1.1.2
+2025-07-27 23:54:47,987 [INFO] [MainThread] [cli_server/cli_server.py:104]: Log pipe server started
+2025-07-27 23:54:48,177 [DEBUG] [MainThread] [tzlocal/win32.py:55]: Looking up time zone info from registry
+2025-07-27 23:54:48,665 [DEBUG] [MainThread] [comtypes/__init__.py:149]: CoInitializeEx(None, 2)
+2025-07-27 23:54:48,836 [INFO] [MainThread] [root/bar_manager.py:74]: Starting KomorebiEventListener...
+2025-07-27 23:54:48,837 [INFO] [MainThread] [root/bar_manager.py:74]: Starting SystemEventListener...
+2025-07-27 23:54:48,837 [INFO] [MainThread] [root/bar_manager.py:74]: Starting WindowsNotificationEventListener...
+2025-07-27 23:54:48,839 [INFO] [MainThread] [root/watcher.py:54]: Created file watcher for path C:\Users\ilyes\.config\yasb
+2025-07-27 23:54:48,895 [INFO] [Dummy-5] [root/event_listener.py:51]: Created named pipe yasb-b2acfc63-6b3c-11f0-adaa-b37ffa5b5965
+2025-07-27 23:54:48,940 [DEBUG] [MainThread] [qasync._windows._EventPoller/_windows.py:213]: Starting (proactor: <_IocpProactor overlapped#=0 result#=0>)...
+2025-07-27 23:54:48,941 [DEBUG] [Dummy-9] [qasync._windows._EventWorker/_windows.py:192]: Thread started
+2025-07-27 23:54:49,007 [INFO] [Dummy-5] [root/event_listener.py:125]: Komorebi connected to named pipe: yasb-b2acfc63-6b3c-11f0-adaa-b37ffa5b5965
+2025-07-27 23:54:49,339 [ERROR] [MainThread] [root/weather.py:77]: Weather response error: AuthenticationRequiredError 204.
+2025-07-27 23:54:49,339 [WARNING] [MainThread] [root/weather.py:544]: Error processing weather data: Weather data is empty.. Retrying fetch in 10 seconds.
+2025-07-27 23:54:59,394 [ERROR] [MainThread] [root/weather.py:77]: Weather response error: ContentAccessDenied 201.
+2025-07-27 23:54:59,394 [WARNING] [MainThread] [root/weather.py:544]: Error processing weather data: Weather data is empty.. Retrying fetch in 10 seconds.
+2025-07-27 23:55:09,441 [ERROR] [MainThread] [root/weather.py:77]: Weather response error: ContentAccessDenied 201.
+2025-07-27 23:55:09,441 [WARNING] [MainThread] [root/weather.py:544]: Error processing weather data: Weather data is empty.. Retrying fetch in 10 seconds.
+2025-07-27 23:55:19,497 [ERROR] [MainThread] [root/weather.py:77]: Weather response error: ContentAccessDenied 201.
+2025-07-27 23:55:19,497 [WARNING] [MainThread] [root/weather.py:544]: Error processing weather data: Weather data is empty.. Retrying fetch in 10 seconds.
+2025-07-27 23:55:29,545 [ERROR] [MainThread] [root/weather.py:77]: Weather response error: AuthenticationRequiredError 204.
+2025-07-27 23:55:29,545 [WARNING] [MainThread] [root/weather.py:544]: Error processing weather data: Weather data is empty.. Retrying fetch in 10 seconds.
+2025-07-27 23:55:39,595 [ERROR] [MainThread] [root/weather.py:77]: Weather response error: AuthenticationRequiredError 204.
+2025-07-27 23:55:39,597 [WARNING] [MainThread] [root/weather.py:544]: Error processing weather data: Weather data is empty.. Retrying fetch in 10 seconds.
+2025-07-27 23:55:49,646 [ERROR] [MainThread] [root/weather.py:77]: Weather response error: AuthenticationRequiredError 204.
+2025-07-27 23:55:49,646 [WARNING] [MainThread] [root/weather.py:544]: Error processing weather data: Weather data is empty.. Retrying fetch in 10 seconds.
+2025-07-27 23:55:59,682 [ERROR] [MainThread] [root/weather.py:77]: Weather response error: AuthenticationRequiredError 204.
+2025-07-27 23:55:59,683 [WARNING] [MainThread] [root/weather.py:544]: Error processing weather data: Weather data is empty.. Retrying fetch in 10 seconds.
+2025-07-27 23:56:09,748 [ERROR] [MainThread] [root/weather.py:77]: Weather response error: AuthenticationRequiredError 204.
+2025-07-27 23:56:09,748 [WARNING] [MainThread] [root/weather.py:544]: Error processing weather data: Weather data is empty.. Retrying fetch in 10 seconds.
+2025-07-27 23:56:10,266 [INFO] [MainThread] [root/controller.py:15]: Reloading Application because of config change.
+2025-07-27 23:56:10,373 [INFO] [MainThread] [cli_server/cli_server.py:112]: Log pipe server stopped
+2025-07-27 23:56:10,373 [DEBUG] [MainThread] [cli_server/cli_server.py:206]: CLI server stopped
+2025-07-27 23:56:10,380 [INFO] [MainThread] [root/bar_manager.py:65]: Successfully loaded updated config and re-initialised all bars.
+2025-07-27 23:56:10,380 [DEBUG] [MainThread] [qasync._windows._EventPoller/_windows.py:218]: Stopping worker thread...
+2025-07-27 23:56:10,389 [DEBUG] [Dummy-9] [qasync._windows._EventWorker/_windows.py:201]: Exiting thread
+2025-07-27 23:56:10,390 [DEBUG] [MainThread] [qasync._windows._IocpProactor/_windows.py:75]: Closing
+2025-07-27 23:56:10,734 [INFO] [MainThread] [root/log.py:59]: YASB v1.7.8
+2025-07-27 23:56:10,734 [INFO] [Thread-1 (_run_server)] [cli_server/cli_server.py:212]: CLI server started v1.1.2
+2025-07-27 23:56:10,734 [INFO] [MainThread] [cli_server/cli_server.py:104]: Log pipe server started
+2025-07-27 23:56:10,922 [DEBUG] [MainThread] [tzlocal/win32.py:55]: Looking up time zone info from registry
+2025-07-27 23:56:11,412 [DEBUG] [MainThread] [comtypes/__init__.py:149]: CoInitializeEx(None, 2)
+2025-07-27 23:56:11,555 [INFO] [MainThread] [root/bar_manager.py:74]: Starting SystemEventListener...
+2025-07-27 23:56:11,556 [INFO] [MainThread] [root/bar_manager.py:74]: Starting KomorebiEventListener...
+2025-07-27 23:56:11,556 [INFO] [MainThread] [root/bar_manager.py:74]: Starting WindowsNotificationEventListener...
+2025-07-27 23:56:11,557 [INFO] [MainThread] [root/watcher.py:54]: Created file watcher for path C:\Users\ilyes\.config\yasb
+2025-07-27 23:56:11,602 [INFO] [Dummy-5] [root/event_listener.py:51]: Created named pipe yasb-e3faf44a-6b3c-11f0-99dc-b37ffa5b5965
+2025-07-27 23:56:11,661 [DEBUG] [MainThread] [qasync._windows._EventPoller/_windows.py:213]: Starting (proactor: <_IocpProactor overlapped#=0 result#=0>)...
+2025-07-27 23:56:11,662 [DEBUG] [Dummy-9] [qasync._windows._EventWorker/_windows.py:192]: Thread started
+2025-07-27 23:56:11,737 [INFO] [Dummy-5] [root/event_listener.py:125]: Komorebi connected to named pipe: yasb-e3faf44a-6b3c-11f0-99dc-b37ffa5b5965
+2025-07-27 23:56:12,389 [ERROR] [MainThread] [root/weather.py:77]: Weather response error: ContentAccessDenied 201.
+2025-07-27 23:56:12,389 [WARNING] [MainThread] [root/weather.py:544]: Error processing weather data: Weather data is empty.. Retrying fetch in 10 seconds.
+2025-07-27 23:56:22,452 [ERROR] [MainThread] [root/weather.py:77]: Weather response error: AuthenticationRequiredError 204.
+2025-07-27 23:56:22,452 [WARNING] [MainThread] [root/weather.py:544]: Error processing weather data: Weather data is empty.. Retrying fetch in 10 seconds.
+2025-07-27 23:56:32,507 [ERROR] [MainThread] [root/weather.py:77]: Weather response error: AuthenticationRequiredError 204.
+2025-07-27 23:56:32,507 [WARNING] [MainThread] [root/weather.py:544]: Error processing weather data: Weather data is empty.. Retrying fetch in 10 seconds.
+2025-07-27 23:56:40,527 [INFO] [MainThread] [root/controller.py:15]: Reloading Application because of config change.
+2025-07-27 23:56:40,632 [INFO] [MainThread] [cli_server/cli_server.py:112]: Log pipe server stopped
+2025-07-27 23:56:40,632 [DEBUG] [MainThread] [cli_server/cli_server.py:206]: CLI server stopped
+2025-07-27 23:56:40,637 [INFO] [MainThread] [root/bar_manager.py:65]: Successfully loaded updated config and re-initialised all bars.
+2025-07-27 23:56:40,637 [DEBUG] [MainThread] [qasync._windows._EventPoller/_windows.py:218]: Stopping worker thread...
+2025-07-27 23:56:40,647 [DEBUG] [Dummy-9] [qasync._windows._EventWorker/_windows.py:201]: Exiting thread
+2025-07-27 23:56:40,648 [DEBUG] [MainThread] [qasync._windows._IocpProactor/_windows.py:75]: Closing
+2025-07-27 23:56:40,989 [INFO] [MainThread] [root/log.py:59]: YASB v1.7.8
+2025-07-27 23:56:40,990 [INFO] [Thread-1 (_run_server)] [cli_server/cli_server.py:212]: CLI server started v1.1.2
+2025-07-27 23:56:40,990 [INFO] [MainThread] [cli_server/cli_server.py:104]: Log pipe server started
+2025-07-27 23:56:41,185 [DEBUG] [MainThread] [tzlocal/win32.py:55]: Looking up time zone info from registry
+2025-07-27 23:56:41,668 [DEBUG] [MainThread] [comtypes/__init__.py:149]: CoInitializeEx(None, 2)
+2025-07-27 23:56:41,811 [INFO] [MainThread] [root/bar_manager.py:74]: Starting SystemEventListener...
+2025-07-27 23:56:41,811 [INFO] [MainThread] [root/bar_manager.py:74]: Starting WindowsNotificationEventListener...
+2025-07-27 23:56:41,812 [INFO] [MainThread] [root/bar_manager.py:74]: Starting KomorebiEventListener...
+2025-07-27 23:56:41,812 [INFO] [MainThread] [root/watcher.py:54]: Created file watcher for path C:\Users\ilyes\.config\yasb
+2025-07-27 23:56:41,882 [INFO] [Dummy-5] [root/event_listener.py:51]: Created named pipe yasb-f6039b81-6b3c-11f0-a5e6-b37ffa5b5965
+2025-07-27 23:56:41,926 [DEBUG] [MainThread] [qasync._windows._EventPoller/_windows.py:213]: Starting (proactor: <_IocpProactor overlapped#=0 result#=0>)...
+2025-07-27 23:56:41,931 [DEBUG] [Dummy-9] [qasync._windows._EventWorker/_windows.py:192]: Thread started
+2025-07-27 23:56:42,006 [INFO] [Dummy-5] [root/event_listener.py:125]: Komorebi connected to named pipe: yasb-f6039b81-6b3c-11f0-a5e6-b37ffa5b5965
+2025-07-27 23:56:42,499 [ERROR] [MainThread] [root/weather.py:77]: Weather response error: ContentAccessDenied 201.
+2025-07-27 23:56:42,500 [WARNING] [MainThread] [root/weather.py:544]: Error processing weather data: Weather data is empty.. Retrying fetch in 10 seconds.
+2025-07-27 23:56:52,567 [ERROR] [MainThread] [root/weather.py:77]: Weather response error: ContentAccessDenied 201.
+2025-07-27 23:56:52,568 [WARNING] [MainThread] [root/weather.py:544]: Error processing weather data: Weather data is empty.. Retrying fetch in 10 seconds.
+2025-07-27 23:57:02,624 [ERROR] [MainThread] [root/weather.py:77]: Weather response error: AuthenticationRequiredError 204.
+2025-07-27 23:57:02,624 [WARNING] [MainThread] [root/weather.py:544]: Error processing weather data: Weather data is empty.. Retrying fetch in 10 seconds.
+2025-07-27 23:57:12,697 [ERROR] [MainThread] [root/weather.py:77]: Weather response error: ContentAccessDenied 201.
+2025-07-27 23:57:12,697 [WARNING] [MainThread] [root/weather.py:544]: Error processing weather data: Weather data is empty.. Retrying fetch in 10 seconds.
+2025-07-27 23:57:15,462 [INFO] [MainThread] [root/controller.py:15]: Reloading Application because of config change.
+2025-07-27 23:57:15,569 [INFO] [MainThread] [cli_server/cli_server.py:112]: Log pipe server stopped
+2025-07-27 23:57:15,569 [DEBUG] [MainThread] [cli_server/cli_server.py:206]: CLI server stopped
+2025-07-27 23:57:15,576 [INFO] [MainThread] [root/bar_manager.py:65]: Successfully loaded updated config and re-initialised all bars.
+2025-07-27 23:57:15,576 [DEBUG] [MainThread] [qasync._windows._EventPoller/_windows.py:218]: Stopping worker thread...
+2025-07-27 23:57:15,584 [DEBUG] [Dummy-9] [qasync._windows._EventWorker/_windows.py:201]: Exiting thread
+2025-07-27 23:57:15,585 [DEBUG] [MainThread] [qasync._windows._IocpProactor/_windows.py:75]: Closing
+2025-07-27 23:57:15,905 [INFO] [MainThread] [root/log.py:59]: YASB v1.7.8
+2025-07-27 23:57:15,905 [INFO] [Thread-1 (_run_server)] [cli_server/cli_server.py:212]: CLI server started v1.1.2
+2025-07-27 23:57:15,906 [INFO] [MainThread] [cli_server/cli_server.py:104]: Log pipe server started
+2025-07-27 23:57:16,114 [DEBUG] [MainThread] [tzlocal/win32.py:55]: Looking up time zone info from registry
+2025-07-27 23:57:16,613 [DEBUG] [MainThread] [comtypes/__init__.py:149]: CoInitializeEx(None, 2)
+2025-07-27 23:57:16,771 [INFO] [MainThread] [root/bar_manager.py:74]: Starting WindowsNotificationEventListener...
+2025-07-27 23:57:16,772 [INFO] [MainThread] [root/bar_manager.py:74]: Starting SystemEventListener...
+2025-07-27 23:57:16,772 [INFO] [MainThread] [root/bar_manager.py:74]: Starting KomorebiEventListener...
+2025-07-27 23:57:16,773 [INFO] [MainThread] [root/watcher.py:54]: Created file watcher for path C:\Users\ilyes\.config\yasb
+2025-07-27 23:57:16,815 [INFO] [Dummy-5] [root/event_listener.py:51]: Created named pipe yasb-0ada32ba-6b3d-11f0-b5d4-b37ffa5b5965
+2025-07-27 23:57:16,886 [DEBUG] [MainThread] [qasync._windows._EventPoller/_windows.py:213]: Starting (proactor: <_IocpProactor overlapped#=0 result#=0>)...
+2025-07-27 23:57:16,889 [DEBUG] [Dummy-9] [qasync._windows._EventWorker/_windows.py:192]: Thread started
+2025-07-27 23:57:16,997 [INFO] [Dummy-5] [root/event_listener.py:125]: Komorebi connected to named pipe: yasb-0ada32ba-6b3d-11f0-b5d4-b37ffa5b5965
+2025-07-27 23:57:17,329 [ERROR] [MainThread] [root/weather.py:77]: Weather response error: ContentAccessDenied 201.
+2025-07-27 23:57:17,329 [WARNING] [MainThread] [root/weather.py:544]: Error processing weather data: Weather data is empty.. Retrying fetch in 10 seconds.
+2025-07-27 23:57:19,485 [WARNING] [MainThread] [root/weather.py:126]: Failed to fetch icon N/A: ProtocolUnknownError 301
+2025-07-27 23:57:19,485 [WARNING] [MainThread] [root/weather.py:126]: Failed to fetch icon N/A: ProtocolUnknownError 301
+2025-07-27 23:57:19,485 [WARNING] [MainThread] [root/weather.py:126]: Failed to fetch icon N/A: ProtocolUnknownError 301
+2025-07-27 23:57:25,413 [WARNING] [MainThread] [root/weather.py:126]: Failed to fetch icon N/A: ProtocolUnknownError 301
+2025-07-27 23:57:25,413 [WARNING] [MainThread] [root/weather.py:126]: Failed to fetch icon N/A: ProtocolUnknownError 301
+2025-07-27 23:57:25,413 [WARNING] [MainThread] [root/weather.py:126]: Failed to fetch icon N/A: ProtocolUnknownError 301
+2025-07-27 23:57:27,383 [ERROR] [MainThread] [root/weather.py:77]: Weather response error: ContentAccessDenied 201.
+2025-07-27 23:57:27,384 [WARNING] [MainThread] [root/weather.py:544]: Error processing weather data: Weather data is empty.. Retrying fetch in 10 seconds.
+2025-07-27 23:57:27,844 [WARNING] [MainThread] [root/weather.py:126]: Failed to fetch icon N/A: ProtocolUnknownError 301
+2025-07-27 23:57:27,844 [WARNING] [MainThread] [root/weather.py:126]: Failed to fetch icon N/A: ProtocolUnknownError 301
+2025-07-27 23:57:27,844 [WARNING] [MainThread] [root/weather.py:126]: Failed to fetch icon N/A: ProtocolUnknownError 301
+2025-07-27 23:57:32,223 [INFO] [MainThread] [root/controller.py:15]: Reloading Application because of config change.
+2025-07-27 23:57:32,324 [INFO] [MainThread] [cli_server/cli_server.py:112]: Log pipe server stopped
+2025-07-27 23:57:32,324 [DEBUG] [MainThread] [cli_server/cli_server.py:206]: CLI server stopped
+2025-07-27 23:57:32,330 [INFO] [MainThread] [root/bar_manager.py:65]: Successfully loaded updated config and re-initialised all bars.
+2025-07-27 23:57:32,331 [DEBUG] [MainThread] [qasync._windows._EventPoller/_windows.py:218]: Stopping worker thread...
+2025-07-27 23:57:32,339 [DEBUG] [Dummy-9] [qasync._windows._EventWorker/_windows.py:201]: Exiting thread
+2025-07-27 23:57:32,340 [DEBUG] [MainThread] [qasync._windows._IocpProactor/_windows.py:75]: Closing
+2025-07-27 23:57:32,675 [INFO] [MainThread] [root/log.py:59]: YASB v1.7.8
+2025-07-27 23:57:32,675 [INFO] [Thread-1 (_run_server)] [cli_server/cli_server.py:212]: CLI server started v1.1.2
+2025-07-27 23:57:32,676 [INFO] [MainThread] [cli_server/cli_server.py:104]: Log pipe server started
+2025-07-27 23:57:32,867 [DEBUG] [MainThread] [tzlocal/win32.py:55]: Looking up time zone info from registry
+2025-07-27 23:57:33,354 [DEBUG] [MainThread] [comtypes/__init__.py:149]: CoInitializeEx(None, 2)
+2025-07-27 23:57:33,496 [INFO] [MainThread] [root/bar_manager.py:74]: Starting WindowsNotificationEventListener...
+2025-07-27 23:57:33,497 [INFO] [MainThread] [root/bar_manager.py:74]: Starting KomorebiEventListener...
+2025-07-27 23:57:33,497 [INFO] [MainThread] [root/bar_manager.py:74]: Starting SystemEventListener...
+2025-07-27 23:57:33,498 [INFO] [MainThread] [root/watcher.py:54]: Created file watcher for path C:\Users\ilyes\.config\yasb
+2025-07-27 23:57:33,547 [INFO] [Dummy-5] [root/event_listener.py:51]: Created named pipe yasb-14d2179b-6b3d-11f0-8731-b37ffa5b5965
+2025-07-27 23:57:33,593 [DEBUG] [MainThread] [qasync._windows._EventPoller/_windows.py:213]: Starting (proactor: <_IocpProactor overlapped#=0 result#=0>)...
+2025-07-27 23:57:33,596 [DEBUG] [Dummy-9] [qasync._windows._EventWorker/_windows.py:192]: Thread started
+2025-07-27 23:57:33,702 [INFO] [Dummy-5] [root/event_listener.py:125]: Komorebi connected to named pipe: yasb-14d2179b-6b3d-11f0-8731-b37ffa5b5965
+2025-07-27 23:57:33,818 [ERROR] [MainThread] [root/weather.py:77]: Weather response error: AuthenticationRequiredError 204.
+2025-07-27 23:57:33,818 [WARNING] [MainThread] [root/weather.py:544]: Error processing weather data: Weather data is empty.. Retrying fetch in 10 seconds.
+2025-07-27 23:57:43,883 [ERROR] [MainThread] [root/weather.py:77]: Weather response error: AuthenticationRequiredError 204.
+2025-07-27 23:57:43,883 [WARNING] [MainThread] [root/weather.py:544]: Error processing weather data: Weather data is empty.. Retrying fetch in 10 seconds.
+2025-07-27 23:57:53,949 [ERROR] [MainThread] [root/weather.py:77]: Weather response error: AuthenticationRequiredError 204.
+2025-07-27 23:57:53,949 [WARNING] [MainThread] [root/weather.py:544]: Error processing weather data: Weather data is empty.. Retrying fetch in 10 seconds.
+2025-07-27 23:58:04,016 [ERROR] [MainThread] [root/weather.py:77]: Weather response error: AuthenticationRequiredError 204.
+2025-07-27 23:58:04,016 [WARNING] [MainThread] [root/weather.py:544]: Error processing weather data: Weather data is empty.. Retrying fetch in 10 seconds.
+2025-07-27 23:58:06,129 [INFO] [MainThread] [root/controller.py:15]: Reloading Application because of config change.
+2025-07-27 23:58:06,244 [INFO] [MainThread] [cli_server/cli_server.py:112]: Log pipe server stopped
+2025-07-27 23:58:06,244 [DEBUG] [MainThread] [cli_server/cli_server.py:206]: CLI server stopped
+2025-07-27 23:58:06,252 [INFO] [MainThread] [root/bar_manager.py:65]: Successfully loaded updated config and re-initialised all bars.
+2025-07-27 23:58:06,252 [DEBUG] [MainThread] [qasync._windows._EventPoller/_windows.py:218]: Stopping worker thread...
+2025-07-27 23:58:06,260 [DEBUG] [Dummy-9] [qasync._windows._EventWorker/_windows.py:201]: Exiting thread
+2025-07-27 23:58:06,261 [DEBUG] [MainThread] [qasync._windows._IocpProactor/_windows.py:75]: Closing
+2025-07-27 23:58:06,603 [INFO] [MainThread] [root/log.py:59]: YASB v1.7.8
+2025-07-27 23:58:06,604 [INFO] [Thread-1 (_run_server)] [cli_server/cli_server.py:212]: CLI server started v1.1.2
+2025-07-27 23:58:06,604 [INFO] [MainThread] [cli_server/cli_server.py:104]: Log pipe server started
+2025-07-27 23:58:06,797 [DEBUG] [MainThread] [tzlocal/win32.py:55]: Looking up time zone info from registry
+2025-07-27 23:58:07,278 [DEBUG] [MainThread] [comtypes/__init__.py:149]: CoInitializeEx(None, 2)
+2025-07-27 23:58:07,418 [INFO] [MainThread] [root/bar_manager.py:74]: Starting KomorebiEventListener...
+2025-07-27 23:58:07,418 [INFO] [MainThread] [root/bar_manager.py:74]: Starting SystemEventListener...
+2025-07-27 23:58:07,419 [INFO] [MainThread] [root/bar_manager.py:74]: Starting WindowsNotificationEventListener...
+2025-07-27 23:58:07,419 [INFO] [MainThread] [root/watcher.py:54]: Created file watcher for path C:\Users\ilyes\.config\yasb
+2025-07-27 23:58:07,465 [INFO] [Dummy-5] [root/event_listener.py:51]: Created named pipe yasb-2909fa66-6b3d-11f0-a6ec-b37ffa5b5965
+2025-07-27 23:58:07,528 [DEBUG] [MainThread] [qasync._windows._EventPoller/_windows.py:213]: Starting (proactor: <_IocpProactor overlapped#=0 result#=0>)...
+2025-07-27 23:58:07,532 [DEBUG] [Dummy-7] [qasync._windows._EventWorker/_windows.py:192]: Thread started
+2025-07-27 23:58:07,630 [INFO] [Dummy-5] [root/event_listener.py:125]: Komorebi connected to named pipe: yasb-2909fa66-6b3d-11f0-a6ec-b37ffa5b5965
+2025-07-27 23:58:08,012 [ERROR] [MainThread] [root/weather.py:77]: Weather response error: ContentAccessDenied 201.
+2025-07-27 23:58:08,013 [WARNING] [MainThread] [root/weather.py:544]: Error processing weather data: Weather data is empty.. Retrying fetch in 10 seconds.
+2025-07-27 23:58:09,556 [WARNING] [MainThread] [root/weather.py:126]: Failed to fetch icon N/A: ProtocolUnknownError 301
+2025-07-27 23:58:09,556 [WARNING] [MainThread] [root/weather.py:126]: Failed to fetch icon N/A: ProtocolUnknownError 301
+2025-07-27 23:58:09,556 [WARNING] [MainThread] [root/weather.py:126]: Failed to fetch icon N/A: ProtocolUnknownError 301
+2025-07-27 23:58:14,795 [WARNING] [MainThread] [root/weather.py:126]: Failed to fetch icon N/A: ProtocolUnknownError 301
+2025-07-27 23:58:14,795 [WARNING] [MainThread] [root/weather.py:126]: Failed to fetch icon N/A: ProtocolUnknownError 301
+2025-07-27 23:58:14,795 [WARNING] [MainThread] [root/weather.py:126]: Failed to fetch icon N/A: ProtocolUnknownError 301
+2025-07-27 23:58:18,078 [ERROR] [MainThread] [root/weather.py:77]: Weather response error: ContentAccessDenied 201.
+2025-07-27 23:58:18,078 [WARNING] [MainThread] [root/weather.py:544]: Error processing weather data: Weather data is empty.. Retrying fetch in 10 seconds.
+2025-07-27 23:58:28,149 [ERROR] [MainThread] [root/weather.py:77]: Weather response error: ContentAccessDenied 201.
+2025-07-27 23:58:28,149 [WARNING] [MainThread] [root/weather.py:544]: Error processing weather data: Weather data is empty.. Retrying fetch in 10 seconds.
+2025-07-27 23:58:38,222 [ERROR] [MainThread] [root/weather.py:77]: Weather response error: ContentAccessDenied 201.
+2025-07-27 23:58:38,222 [WARNING] [MainThread] [root/weather.py:544]: Error processing weather data: Weather data is empty.. Retrying fetch in 10 seconds.
+2025-07-27 23:58:48,292 [ERROR] [MainThread] [root/weather.py:77]: Weather response error: ContentAccessDenied 201.
+2025-07-27 23:58:48,292 [WARNING] [MainThread] [root/weather.py:544]: Error processing weather data: Weather data is empty.. Retrying fetch in 10 seconds.
+2025-07-27 23:58:58,367 [ERROR] [MainThread] [root/weather.py:77]: Weather response error: AuthenticationRequiredError 204.
+2025-07-27 23:58:58,367 [WARNING] [MainThread] [root/weather.py:544]: Error processing weather data: Weather data is empty.. Retrying fetch in 10 seconds.
+2025-07-27 23:59:08,437 [ERROR] [MainThread] [root/weather.py:77]: Weather response error: ContentAccessDenied 201.
+2025-07-27 23:59:08,437 [WARNING] [MainThread] [root/weather.py:544]: Error processing weather data: Weather data is empty.. Retrying fetch in 10 seconds.
+2025-07-27 23:59:18,528 [ERROR] [MainThread] [root/weather.py:77]: Weather response error: ContentAccessDenied 201.
+2025-07-27 23:59:18,528 [WARNING] [MainThread] [root/weather.py:544]: Error processing weather data: Weather data is empty.. Retrying fetch in 10 seconds.
+2025-07-27 23:59:28,599 [ERROR] [MainThread] [root/weather.py:77]: Weather response error: AuthenticationRequiredError 204.
+2025-07-27 23:59:28,599 [WARNING] [MainThread] [root/weather.py:544]: Error processing weather data: Weather data is empty.. Retrying fetch in 10 seconds.
+2025-07-27 23:59:38,659 [ERROR] [MainThread] [root/weather.py:77]: Weather response error: ContentAccessDenied 201.
+2025-07-27 23:59:38,660 [WARNING] [MainThread] [root/weather.py:544]: Error processing weather data: Weather data is empty.. Retrying fetch in 10 seconds.
+2025-07-27 23:59:48,736 [ERROR] [MainThread] [root/weather.py:77]: Weather response error: ContentAccessDenied 201.
+2025-07-27 23:59:48,736 [WARNING] [MainThread] [root/weather.py:544]: Error processing weather data: Weather data is empty.. Retrying fetch in 10 seconds.
+2025-07-27 23:59:58,821 [ERROR] [MainThread] [root/weather.py:77]: Weather response error: ContentAccessDenied 201.
+2025-07-27 23:59:58,821 [WARNING] [MainThread] [root/weather.py:544]: Error processing weather data: Weather data is empty.. Retrying fetch in 10 seconds.
+2025-07-28 00:00:08,912 [ERROR] [MainThread] [root/weather.py:77]: Weather response error: AuthenticationRequiredError 204.
+2025-07-28 00:00:08,912 [WARNING] [MainThread] [root/weather.py:544]: Error processing weather data: Weather data is empty.. Retrying fetch in 10 seconds.
+2025-07-28 00:00:18,996 [ERROR] [MainThread] [root/weather.py:77]: Weather response error: ContentAccessDenied 201.
+2025-07-28 00:00:18,996 [WARNING] [MainThread] [root/weather.py:544]: Error processing weather data: Weather data is empty.. Retrying fetch in 10 seconds.
+2025-07-28 00:00:29,074 [ERROR] [MainThread] [root/weather.py:77]: Weather response error: ContentAccessDenied 201.
+2025-07-28 00:00:29,074 [WARNING] [MainThread] [root/weather.py:544]: Error processing weather data: Weather data is empty.. Retrying fetch in 10 seconds.
+2025-07-28 00:00:39,151 [ERROR] [MainThread] [root/weather.py:77]: Weather response error: ContentAccessDenied 201.
+2025-07-28 00:00:39,151 [WARNING] [MainThread] [root/weather.py:544]: Error processing weather data: Weather data is empty.. Retrying fetch in 10 seconds.
+2025-07-28 00:00:49,233 [ERROR] [MainThread] [root/weather.py:77]: Weather response error: AuthenticationRequiredError 204.
+2025-07-28 00:00:49,233 [WARNING] [MainThread] [root/weather.py:544]: Error processing weather data: Weather data is empty.. Retrying fetch in 10 seconds.
+2025-07-28 00:00:59,308 [ERROR] [MainThread] [root/weather.py:77]: Weather response error: AuthenticationRequiredError 204.
+2025-07-28 00:00:59,308 [WARNING] [MainThread] [root/weather.py:544]: Error processing weather data: Weather data is empty.. Retrying fetch in 10 seconds.
+2025-07-28 00:01:09,406 [ERROR] [MainThread] [root/weather.py:77]: Weather response error: ContentAccessDenied 201.
+2025-07-28 00:01:09,406 [WARNING] [MainThread] [root/weather.py:544]: Error processing weather data: Weather data is empty.. Retrying fetch in 10 seconds.
+2025-07-28 00:01:19,469 [ERROR] [MainThread] [root/weather.py:77]: Weather response error: ContentAccessDenied 201.
+2025-07-28 00:01:19,469 [WARNING] [MainThread] [root/weather.py:544]: Error processing weather data: Weather data is empty.. Retrying fetch in 10 seconds.
+2025-07-28 00:01:29,537 [ERROR] [MainThread] [root/weather.py:77]: Weather response error: AuthenticationRequiredError 204.
+2025-07-28 00:01:29,537 [WARNING] [MainThread] [root/weather.py:544]: Error processing weather data: Weather data is empty.. Retrying fetch in 10 seconds.
+2025-07-28 00:01:39,597 [ERROR] [MainThread] [root/weather.py:77]: Weather response error: ContentAccessDenied 201.
+2025-07-28 00:01:39,597 [WARNING] [MainThread] [root/weather.py:544]: Error processing weather data: Weather data is empty.. Retrying fetch in 10 seconds.
+2025-07-28 00:01:49,666 [ERROR] [MainThread] [root/weather.py:77]: Weather response error: ContentAccessDenied 201.
+2025-07-28 00:01:49,667 [WARNING] [MainThread] [root/weather.py:544]: Error processing weather data: Weather data is empty.. Retrying fetch in 10 seconds.
+2025-07-28 00:01:59,731 [ERROR] [MainThread] [root/weather.py:77]: Weather response error: AuthenticationRequiredError 204.
+2025-07-28 00:01:59,732 [WARNING] [MainThread] [root/weather.py:544]: Error processing weather data: Weather data is empty.. Retrying fetch in 10 seconds.
+2025-07-28 00:02:09,796 [ERROR] [MainThread] [root/weather.py:77]: Weather response error: AuthenticationRequiredError 204.
+2025-07-28 00:02:09,796 [WARNING] [MainThread] [root/weather.py:544]: Error processing weather data: Weather data is empty.. Retrying fetch in 10 seconds.
+2025-07-28 00:02:19,861 [ERROR] [MainThread] [root/weather.py:77]: Weather response error: ContentAccessDenied 201.
+2025-07-28 00:02:19,861 [WARNING] [MainThread] [root/weather.py:544]: Error processing weather data: Weather data is empty.. Retrying fetch in 10 seconds.
+2025-07-28 00:02:29,936 [ERROR] [MainThread] [root/weather.py:77]: Weather response error: ContentAccessDenied 201.
+2025-07-28 00:02:29,936 [WARNING] [MainThread] [root/weather.py:544]: Error processing weather data: Weather data is empty.. Retrying fetch in 10 seconds.
+2025-07-28 00:02:40,018 [ERROR] [MainThread] [root/weather.py:77]: Weather response error: AuthenticationRequiredError 204.
+2025-07-28 00:02:40,019 [WARNING] [MainThread] [root/weather.py:544]: Error processing weather data: Weather data is empty.. Retrying fetch in 10 seconds.
+2025-07-28 00:02:46,258 [INFO] [MainThread] [root/controller.py:15]: Reloading Application because of config change.
+2025-07-28 00:02:46,362 [INFO] [MainThread] [cli_server/cli_server.py:112]: Log pipe server stopped
+2025-07-28 00:02:46,362 [DEBUG] [MainThread] [cli_server/cli_server.py:206]: CLI server stopped
+2025-07-28 00:02:46,368 [INFO] [MainThread] [root/bar_manager.py:65]: Successfully loaded updated config and re-initialised all bars.
+2025-07-28 00:02:46,368 [DEBUG] [MainThread] [qasync._windows._EventPoller/_windows.py:218]: Stopping worker thread...
+2025-07-28 00:02:46,377 [DEBUG] [Dummy-7] [qasync._windows._EventWorker/_windows.py:201]: Exiting thread
+2025-07-28 00:02:46,378 [DEBUG] [MainThread] [qasync._windows._IocpProactor/_windows.py:75]: Closing
+2025-07-28 00:02:46,719 [INFO] [MainThread] [root/log.py:59]: YASB v1.7.8
+2025-07-28 00:02:46,724 [INFO] [Thread-1 (_run_server)] [cli_server/cli_server.py:212]: CLI server started v1.1.2
+2025-07-28 00:02:46,726 [INFO] [MainThread] [cli_server/cli_server.py:104]: Log pipe server started
+2025-07-28 00:02:46,939 [DEBUG] [MainThread] [tzlocal/win32.py:55]: Looking up time zone info from registry
+2025-07-28 00:02:47,436 [DEBUG] [MainThread] [comtypes/__init__.py:149]: CoInitializeEx(None, 2)
+2025-07-28 00:02:47,582 [INFO] [MainThread] [root/bar_manager.py:74]: Starting WindowsNotificationEventListener...
+2025-07-28 00:02:47,582 [INFO] [MainThread] [root/bar_manager.py:74]: Starting KomorebiEventListener...
+2025-07-28 00:02:47,583 [INFO] [MainThread] [root/bar_manager.py:74]: Starting SystemEventListener...
+2025-07-28 00:02:47,583 [INFO] [MainThread] [root/watcher.py:54]: Created file watcher for path C:\Users\ilyes\.config\yasb
+2025-07-28 00:02:47,599 [INFO] [Dummy-5] [root/event_listener.py:51]: Created named pipe yasb-d007d94f-6b3d-11f0-b7bb-b37ffa5b5965
+2025-07-28 00:02:47,698 [DEBUG] [MainThread] [qasync._windows._EventPoller/_windows.py:213]: Starting (proactor: <_IocpProactor overlapped#=0 result#=0>)...
+2025-07-28 00:02:47,700 [DEBUG] [Dummy-9] [qasync._windows._EventWorker/_windows.py:192]: Thread started
+2025-07-28 00:02:47,779 [INFO] [Dummy-5] [root/event_listener.py:125]: Komorebi connected to named pipe: yasb-d007d94f-6b3d-11f0-b7bb-b37ffa5b5965
+2025-07-28 00:02:48,259 [INFO] [MainThread] [root/weather.py:67]: Fetching new weather data at 2025-07-28 00:02:48.259613
+2025-07-28 00:09:02,330 [INFO] [MainThread] [root/controller.py:15]: Reloading Application because of config change.
+2025-07-28 00:09:02,430 [INFO] [MainThread] [cli_server/cli_server.py:112]: Log pipe server stopped
+2025-07-28 00:09:02,430 [DEBUG] [MainThread] [cli_server/cli_server.py:206]: CLI server stopped
+2025-07-28 00:09:02,436 [INFO] [MainThread] [root/bar_manager.py:65]: Successfully loaded updated config and re-initialised all bars.
+2025-07-28 00:09:02,436 [DEBUG] [MainThread] [qasync._windows._EventPoller/_windows.py:218]: Stopping worker thread...
+2025-07-28 00:09:02,445 [DEBUG] [Dummy-9] [qasync._windows._EventWorker/_windows.py:201]: Exiting thread
+2025-07-28 00:09:02,446 [DEBUG] [MainThread] [qasync._windows._IocpProactor/_windows.py:75]: Closing
+2025-07-28 00:09:02,781 [INFO] [MainThread] [root/log.py:59]: YASB v1.7.8
+2025-07-28 00:09:02,782 [INFO] [Thread-1 (_run_server)] [cli_server/cli_server.py:212]: CLI server started v1.1.2
+2025-07-28 00:09:02,783 [INFO] [MainThread] [cli_server/cli_server.py:104]: Log pipe server started
+2025-07-28 00:09:02,999 [DEBUG] [MainThread] [tzlocal/win32.py:55]: Looking up time zone info from registry
+2025-07-28 00:09:03,500 [DEBUG] [MainThread] [comtypes/__init__.py:149]: CoInitializeEx(None, 2)
+2025-07-28 00:09:03,684 [INFO] [MainThread] [root/bar_manager.py:74]: Starting SystemEventListener...
+2025-07-28 00:09:03,684 [INFO] [MainThread] [root/bar_manager.py:74]: Starting KomorebiEventListener...
+2025-07-28 00:09:03,684 [INFO] [MainThread] [root/bar_manager.py:74]: Starting WindowsNotificationEventListener...
+2025-07-28 00:09:03,686 [INFO] [MainThread] [root/watcher.py:54]: Created file watcher for path C:\Users\ilyes\.config\yasb
+2025-07-28 00:09:03,723 [INFO] [Dummy-5] [root/event_listener.py:51]: Created named pipe yasb-b0344483-6b3e-11f0-a796-b37ffa5b5965
+2025-07-28 00:09:03,770 [DEBUG] [MainThread] [qasync._windows._EventPoller/_windows.py:213]: Starting (proactor: <_IocpProactor overlapped#=0 result#=0>)...
+2025-07-28 00:09:03,770 [DEBUG] [Dummy-9] [qasync._windows._EventWorker/_windows.py:192]: Thread started
+2025-07-28 00:09:03,851 [INFO] [Dummy-5] [root/event_listener.py:125]: Komorebi connected to named pipe: yasb-b0344483-6b3e-11f0-a796-b37ffa5b5965
+2025-07-28 00:09:04,265 [INFO] [MainThread] [root/weather.py:67]: Fetching new weather data at 2025-07-28 00:09:04.265061
+2025-07-28 00:09:32,431 [INFO] [MainThread] [root/controller.py:15]: Reloading Application because of config change.
+2025-07-28 00:09:32,544 [INFO] [MainThread] [cli_server/cli_server.py:112]: Log pipe server stopped
+2025-07-28 00:09:32,544 [DEBUG] [MainThread] [cli_server/cli_server.py:206]: CLI server stopped
+2025-07-28 00:09:32,550 [INFO] [MainThread] [root/bar_manager.py:65]: Successfully loaded updated config and re-initialised all bars.
+2025-07-28 00:09:32,550 [DEBUG] [MainThread] [qasync._windows._EventPoller/_windows.py:218]: Stopping worker thread...
+2025-07-28 00:09:32,560 [DEBUG] [Dummy-9] [qasync._windows._EventWorker/_windows.py:201]: Exiting thread
+2025-07-28 00:09:32,561 [DEBUG] [MainThread] [qasync._windows._IocpProactor/_windows.py:75]: Closing
+2025-07-28 00:09:32,903 [INFO] [MainThread] [root/log.py:59]: YASB v1.7.8
+2025-07-28 00:09:32,904 [INFO] [Thread-1 (_run_server)] [cli_server/cli_server.py:212]: CLI server started v1.1.2
+2025-07-28 00:09:32,904 [INFO] [MainThread] [cli_server/cli_server.py:104]: Log pipe server started
+2025-07-28 00:09:33,104 [DEBUG] [MainThread] [tzlocal/win32.py:55]: Looking up time zone info from registry
+2025-07-28 00:09:33,849 [DEBUG] [MainThread] [comtypes/__init__.py:149]: CoInitializeEx(None, 2)
+2025-07-28 00:09:33,991 [INFO] [MainThread] [root/bar_manager.py:74]: Starting SystemEventListener...
+2025-07-28 00:09:33,992 [INFO] [MainThread] [root/bar_manager.py:74]: Starting WindowsNotificationEventListener...
+2025-07-28 00:09:33,992 [INFO] [MainThread] [root/bar_manager.py:74]: Starting KomorebiEventListener...
+2025-07-28 00:09:33,993 [INFO] [MainThread] [root/watcher.py:54]: Created file watcher for path C:\Users\ilyes\.config\yasb
+2025-07-28 00:09:34,051 [INFO] [Dummy-5] [root/event_listener.py:51]: Created named pipe yasb-c2451a11-6b3e-11f0-9e12-b37ffa5b5965
+2025-07-28 00:09:34,101 [DEBUG] [MainThread] [qasync._windows._EventPoller/_windows.py:213]: Starting (proactor: <_IocpProactor overlapped#=0 result#=0>)...
+2025-07-28 00:09:34,104 [DEBUG] [Dummy-9] [qasync._windows._EventWorker/_windows.py:192]: Thread started
+2025-07-28 00:09:34,199 [INFO] [Dummy-5] [root/event_listener.py:125]: Komorebi connected to named pipe: yasb-c2451a11-6b3e-11f0-9e12-b37ffa5b5965
+2025-07-28 00:09:34,935 [INFO] [MainThread] [root/weather.py:67]: Fetching new weather data at 2025-07-28 00:09:34.935839
+2025-07-28 00:15:12,111 [INFO] [MainThread] [root/controller.py:15]: Reloading Application because of config change.
+2025-07-28 00:15:12,222 [INFO] [MainThread] [cli_server/cli_server.py:112]: Log pipe server stopped
+2025-07-28 00:15:12,222 [DEBUG] [MainThread] [cli_server/cli_server.py:206]: CLI server stopped
+2025-07-28 00:15:12,229 [INFO] [MainThread] [root/bar_manager.py:65]: Successfully loaded updated config and re-initialised all bars.
+2025-07-28 00:15:12,229 [DEBUG] [MainThread] [qasync._windows._EventPoller/_windows.py:218]: Stopping worker thread...
+2025-07-28 00:15:12,238 [DEBUG] [Dummy-9] [qasync._windows._EventWorker/_windows.py:201]: Exiting thread
+2025-07-28 00:15:12,238 [DEBUG] [MainThread] [qasync._windows._IocpProactor/_windows.py:75]: Closing
+2025-07-28 00:15:12,561 [INFO] [MainThread] [root/log.py:59]: YASB v1.7.8
+2025-07-28 00:15:12,561 [INFO] [Thread-1 (_run_server)] [cli_server/cli_server.py:212]: CLI server started v1.1.2
+2025-07-28 00:15:12,562 [INFO] [MainThread] [cli_server/cli_server.py:104]: Log pipe server started
+2025-07-28 00:15:12,788 [DEBUG] [MainThread] [tzlocal/win32.py:55]: Looking up time zone info from registry
+2025-07-28 00:15:13,388 [DEBUG] [MainThread] [comtypes/__init__.py:149]: CoInitializeEx(None, 2)
+2025-07-28 00:15:13,575 [INFO] [MainThread] [root/bar_manager.py:74]: Starting KomorebiEventListener...
+2025-07-28 00:15:13,576 [INFO] [MainThread] [root/bar_manager.py:74]: Starting WindowsNotificationEventListener...
+2025-07-28 00:15:13,577 [INFO] [MainThread] [root/bar_manager.py:74]: Starting SystemEventListener...
+2025-07-28 00:15:13,578 [INFO] [MainThread] [root/watcher.py:54]: Created file watcher for path C:\Users\ilyes\.config\yasb
+2025-07-28 00:15:13,595 [INFO] [Dummy-5] [root/event_listener.py:51]: Created named pipe yasb-8cad5c33-6b3f-11f0-9e30-b37ffa5b5965
+2025-07-28 00:15:13,682 [DEBUG] [MainThread] [qasync._windows._EventPoller/_windows.py:213]: Starting (proactor: <_IocpProactor overlapped#=0 result#=0>)...
+2025-07-28 00:15:13,683 [DEBUG] [Dummy-9] [qasync._windows._EventWorker/_windows.py:192]: Thread started
+2025-07-28 00:15:13,734 [INFO] [Dummy-5] [root/event_listener.py:125]: Komorebi connected to named pipe: yasb-8cad5c33-6b3f-11f0-9e30-b37ffa5b5965
+2025-07-28 00:15:14,501 [INFO] [MainThread] [root/weather.py:67]: Fetching new weather data at 2025-07-28 00:15:14.501461
+2025-07-28 00:15:45,484 [INFO] [MainThread] [root/controller.py:15]: Reloading Application because of config change.
+2025-07-28 00:15:45,596 [INFO] [MainThread] [cli_server/cli_server.py:112]: Log pipe server stopped
+2025-07-28 00:15:45,596 [DEBUG] [MainThread] [cli_server/cli_server.py:206]: CLI server stopped
+2025-07-28 00:15:45,601 [INFO] [MainThread] [root/bar_manager.py:65]: Successfully loaded updated config and re-initialised all bars.
+2025-07-28 00:15:45,601 [DEBUG] [MainThread] [qasync._windows._EventPoller/_windows.py:218]: Stopping worker thread...
+2025-07-28 00:15:45,611 [DEBUG] [Dummy-9] [qasync._windows._EventWorker/_windows.py:201]: Exiting thread
+2025-07-28 00:15:45,612 [DEBUG] [MainThread] [qasync._windows._IocpProactor/_windows.py:75]: Closing
+2025-07-28 00:15:45,961 [INFO] [MainThread] [root/log.py:59]: YASB v1.7.8
+2025-07-28 00:15:45,961 [INFO] [Thread-1 (_run_server)] [cli_server/cli_server.py:212]: CLI server started v1.1.2
+2025-07-28 00:15:45,961 [INFO] [MainThread] [cli_server/cli_server.py:104]: Log pipe server started
+2025-07-28 00:15:46,171 [DEBUG] [MainThread] [tzlocal/win32.py:55]: Looking up time zone info from registry
+2025-07-28 00:15:46,718 [DEBUG] [MainThread] [comtypes/__init__.py:149]: CoInitializeEx(None, 2)
+2025-07-28 00:15:46,884 [INFO] [MainThread] [root/bar_manager.py:74]: Starting WindowsNotificationEventListener...
+2025-07-28 00:15:46,885 [INFO] [MainThread] [root/bar_manager.py:74]: Starting SystemEventListener...
+2025-07-28 00:15:46,885 [INFO] [MainThread] [root/bar_manager.py:74]: Starting KomorebiEventListener...
+2025-07-28 00:15:46,886 [INFO] [MainThread] [root/watcher.py:54]: Created file watcher for path C:\Users\ilyes\.config\yasb
+2025-07-28 00:15:46,909 [INFO] [Dummy-5] [root/event_listener.py:51]: Created named pipe yasb-a087e3a6-6b3f-11f0-ba69-b37ffa5b5965
+2025-07-28 00:15:46,987 [DEBUG] [MainThread] [qasync._windows._EventPoller/_windows.py:213]: Starting (proactor: <_IocpProactor overlapped#=0 result#=0>)...
+2025-07-28 00:15:46,990 [DEBUG] [Dummy-9] [qasync._windows._EventWorker/_windows.py:192]: Thread started
+2025-07-28 00:15:47,072 [INFO] [Dummy-5] [root/event_listener.py:125]: Komorebi connected to named pipe: yasb-a087e3a6-6b3f-11f0-ba69-b37ffa5b5965
+2025-07-28 00:15:47,811 [INFO] [MainThread] [root/weather.py:67]: Fetching new weather data at 2025-07-28 00:15:47.811568
+2025-07-28 00:16:01,395 [INFO] [MainThread] [root/controller.py:15]: Reloading Application because of config change.
+2025-07-28 00:16:01,504 [INFO] [MainThread] [cli_server/cli_server.py:112]: Log pipe server stopped
+2025-07-28 00:16:01,504 [DEBUG] [MainThread] [cli_server/cli_server.py:206]: CLI server stopped
+2025-07-28 00:16:01,510 [INFO] [MainThread] [root/bar_manager.py:65]: Successfully loaded updated config and re-initialised all bars.
+2025-07-28 00:16:01,510 [DEBUG] [MainThread] [qasync._windows._EventPoller/_windows.py:218]: Stopping worker thread...
+2025-07-28 00:16:01,520 [DEBUG] [Dummy-9] [qasync._windows._EventWorker/_windows.py:201]: Exiting thread
+2025-07-28 00:16:01,520 [DEBUG] [MainThread] [qasync._windows._IocpProactor/_windows.py:75]: Closing
+2025-07-28 00:16:01,840 [INFO] [MainThread] [root/log.py:59]: YASB v1.7.8
+2025-07-28 00:16:01,842 [INFO] [Thread-1 (_run_server)] [cli_server/cli_server.py:212]: CLI server started v1.1.2
+2025-07-28 00:16:01,843 [INFO] [MainThread] [cli_server/cli_server.py:104]: Log pipe server started
+2025-07-28 00:16:02,059 [DEBUG] [MainThread] [tzlocal/win32.py:55]: Looking up time zone info from registry
+2025-07-28 00:16:02,605 [DEBUG] [MainThread] [comtypes/__init__.py:149]: CoInitializeEx(None, 2)
+2025-07-28 00:16:02,771 [INFO] [MainThread] [root/bar_manager.py:74]: Starting KomorebiEventListener...
+2025-07-28 00:16:02,772 [INFO] [MainThread] [root/bar_manager.py:74]: Starting WindowsNotificationEventListener...
+2025-07-28 00:16:02,775 [INFO] [Dummy-3] [root/event_listener.py:51]: Created named pipe yasb-aa000eb2-6b3f-11f0-be1b-b37ffa5b5965
+2025-07-28 00:16:02,776 [INFO] [MainThread] [root/bar_manager.py:74]: Starting SystemEventListener...
+2025-07-28 00:16:02,778 [INFO] [MainThread] [root/watcher.py:54]: Created file watcher for path C:\Users\ilyes\.config\yasb
+2025-07-28 00:16:02,892 [DEBUG] [MainThread] [qasync._windows._EventPoller/_windows.py:213]: Starting (proactor: <_IocpProactor overlapped#=0 result#=0>)...
+2025-07-28 00:16:02,893 [DEBUG] [Dummy-9] [qasync._windows._EventWorker/_windows.py:192]: Thread started
+2025-07-28 00:16:02,942 [INFO] [Dummy-3] [root/event_listener.py:125]: Komorebi connected to named pipe: yasb-aa000eb2-6b3f-11f0-be1b-b37ffa5b5965
+2025-07-28 00:16:03,723 [INFO] [MainThread] [root/weather.py:67]: Fetching new weather data at 2025-07-28 00:16:03.722902
+2025-07-28 00:20:41,187 [INFO] [MainThread] [root/controller.py:15]: Reloading Application because of config change.
+2025-07-28 00:20:41,291 [INFO] [MainThread] [cli_server/cli_server.py:112]: Log pipe server stopped
+2025-07-28 00:20:41,291 [DEBUG] [MainThread] [cli_server/cli_server.py:206]: CLI server stopped
+2025-07-28 00:20:41,297 [INFO] [MainThread] [root/bar_manager.py:65]: Successfully loaded updated config and re-initialised all bars.
+2025-07-28 00:20:41,297 [DEBUG] [MainThread] [qasync._windows._EventPoller/_windows.py:218]: Stopping worker thread...
+2025-07-28 00:20:41,306 [DEBUG] [Dummy-9] [qasync._windows._EventWorker/_windows.py:201]: Exiting thread
+2025-07-28 00:20:41,307 [DEBUG] [MainThread] [qasync._windows._IocpProactor/_windows.py:75]: Closing
+2025-07-28 00:20:41,623 [INFO] [MainThread] [root/log.py:59]: YASB v1.7.8
+2025-07-28 00:20:41,624 [INFO] [Thread-1 (_run_server)] [cli_server/cli_server.py:212]: CLI server started v1.1.2
+2025-07-28 00:20:41,624 [INFO] [MainThread] [cli_server/cli_server.py:104]: Log pipe server started
+2025-07-28 00:20:41,846 [DEBUG] [MainThread] [tzlocal/win32.py:55]: Looking up time zone info from registry
+2025-07-28 00:20:42,476 [DEBUG] [MainThread] [comtypes/__init__.py:149]: CoInitializeEx(None, 2)
+2025-07-28 00:20:42,625 [INFO] [MainThread] [root/bar_manager.py:74]: Starting KomorebiEventListener...
+2025-07-28 00:20:42,625 [INFO] [MainThread] [root/bar_manager.py:74]: Starting WindowsNotificationEventListener...
+2025-07-28 00:20:42,626 [INFO] [MainThread] [root/bar_manager.py:74]: Starting SystemEventListener...
+2025-07-28 00:20:42,626 [INFO] [MainThread] [root/watcher.py:54]: Created file watcher for path C:\Users\ilyes\.config\yasb
+2025-07-28 00:20:42,678 [INFO] [Dummy-5] [root/event_listener.py:51]: Created named pipe yasb-50ce2c4e-6b40-11f0-9dfb-b37ffa5b5965
+2025-07-28 00:20:42,747 [DEBUG] [MainThread] [qasync._windows._EventPoller/_windows.py:213]: Starting (proactor: <_IocpProactor overlapped#=0 result#=0>)...
+2025-07-28 00:20:42,749 [DEBUG] [Dummy-9] [qasync._windows._EventWorker/_windows.py:192]: Thread started
+2025-07-28 00:20:42,808 [INFO] [Dummy-5] [root/event_listener.py:125]: Komorebi connected to named pipe: yasb-50ce2c4e-6b40-11f0-9dfb-b37ffa5b5965
+2025-07-28 00:20:48,821 [INFO] [MainThread] [root/weather.py:67]: Fetching new weather data at 2025-07-28 00:20:48.821705
+2025-07-28 00:21:07,118 [INFO] [MainThread] [root/controller.py:15]: Reloading Application because of config change.
+2025-07-28 00:21:07,220 [INFO] [MainThread] [cli_server/cli_server.py:112]: Log pipe server stopped
+2025-07-28 00:21:07,220 [DEBUG] [MainThread] [cli_server/cli_server.py:206]: CLI server stopped
+2025-07-28 00:21:07,225 [INFO] [MainThread] [root/bar_manager.py:65]: Successfully loaded updated config and re-initialised all bars.
+2025-07-28 00:21:07,227 [DEBUG] [MainThread] [qasync._windows._EventPoller/_windows.py:218]: Stopping worker thread...
+2025-07-28 00:21:07,236 [DEBUG] [Dummy-9] [qasync._windows._EventWorker/_windows.py:201]: Exiting thread
+2025-07-28 00:21:07,237 [DEBUG] [MainThread] [qasync._windows._IocpProactor/_windows.py:75]: Closing
+2025-07-28 00:21:07,588 [INFO] [MainThread] [root/log.py:59]: YASB v1.7.8
+2025-07-28 00:21:07,588 [INFO] [Thread-1 (_run_server)] [cli_server/cli_server.py:212]: CLI server started v1.1.2
+2025-07-28 00:21:07,589 [INFO] [MainThread] [cli_server/cli_server.py:104]: Log pipe server started
+2025-07-28 00:21:07,853 [DEBUG] [MainThread] [tzlocal/win32.py:55]: Looking up time zone info from registry
+2025-07-28 00:21:08,486 [DEBUG] [MainThread] [comtypes/__init__.py:149]: CoInitializeEx(None, 2)
+2025-07-28 00:21:08,630 [INFO] [MainThread] [root/bar_manager.py:74]: Starting SystemEventListener...
+2025-07-28 00:21:08,631 [INFO] [MainThread] [root/bar_manager.py:74]: Starting WindowsNotificationEventListener...
+2025-07-28 00:21:08,632 [INFO] [MainThread] [root/bar_manager.py:74]: Starting KomorebiEventListener...
+2025-07-28 00:21:08,632 [INFO] [MainThread] [root/watcher.py:54]: Created file watcher for path C:\Users\ilyes\.config\yasb
+2025-07-28 00:21:08,687 [INFO] [Dummy-5] [root/event_listener.py:51]: Created named pipe yasb-604e8a78-6b40-11f0-aae3-b37ffa5b5965
+2025-07-28 00:21:08,755 [DEBUG] [MainThread] [qasync._windows._EventPoller/_windows.py:213]: Starting (proactor: <_IocpProactor overlapped#=0 result#=0>)...
+2025-07-28 00:21:08,757 [DEBUG] [Dummy-9] [qasync._windows._EventWorker/_windows.py:192]: Thread started
+2025-07-28 00:21:08,836 [INFO] [Dummy-5] [root/event_listener.py:125]: Komorebi connected to named pipe: yasb-604e8a78-6b40-11f0-aae3-b37ffa5b5965
+2025-07-28 00:21:11,076 [INFO] [MainThread] [root/weather.py:67]: Fetching new weather data at 2025-07-28 00:21:11.076825
+2025-07-28 00:21:26,136 [WARNING] [Dummy-5] [root/event_listener.py:82]: Pipe has been ended: (109, 'PeekNamedPipe', 'The pipe has been ended.')
+2025-07-28 00:21:26,136 [INFO] [Dummy-5] [root/event_listener.py:92]: Attempting to reconnect to Komorebi...
+2025-07-28 00:21:29,137 [INFO] [Dummy-5] [root/event_listener.py:51]: Created named pipe yasb-604e8a78-6b40-11f0-aae3-b37ffa5b5965
+2025-07-28 00:21:29,216 [INFO] [Dummy-5] [root/event_listener.py:125]: Komorebi connected to named pipe: yasb-604e8a78-6b40-11f0-aae3-b37ffa5b5965
+2025-07-28 00:22:17,781 [INFO] [MainThread] [root/controller.py:15]: Reloading Application because of config change.
+2025-07-28 00:22:17,891 [INFO] [MainThread] [cli_server/cli_server.py:112]: Log pipe server stopped
+2025-07-28 00:22:17,891 [DEBUG] [MainThread] [cli_server/cli_server.py:206]: CLI server stopped
+2025-07-28 00:22:17,898 [INFO] [MainThread] [root/bar_manager.py:65]: Successfully loaded updated config and re-initialised all bars.
+2025-07-28 00:22:17,898 [DEBUG] [MainThread] [qasync._windows._EventPoller/_windows.py:218]: Stopping worker thread...
+2025-07-28 00:22:17,907 [DEBUG] [Dummy-9] [qasync._windows._EventWorker/_windows.py:201]: Exiting thread
+2025-07-28 00:22:17,908 [DEBUG] [MainThread] [qasync._windows._IocpProactor/_windows.py:75]: Closing
+2025-07-28 00:22:18,248 [INFO] [MainThread] [root/log.py:59]: YASB v1.7.8
+2025-07-28 00:22:18,248 [INFO] [Thread-1 (_run_server)] [cli_server/cli_server.py:212]: CLI server started v1.1.2
+2025-07-28 00:22:18,248 [INFO] [MainThread] [cli_server/cli_server.py:104]: Log pipe server started
+2025-07-28 00:22:18,471 [DEBUG] [MainThread] [tzlocal/win32.py:55]: Looking up time zone info from registry
+2025-07-28 00:22:19,103 [DEBUG] [MainThread] [comtypes/__init__.py:149]: CoInitializeEx(None, 2)
+2025-07-28 00:22:19,250 [INFO] [MainThread] [root/bar_manager.py:74]: Starting SystemEventListener...
+2025-07-28 00:22:19,251 [INFO] [MainThread] [root/bar_manager.py:74]: Starting WindowsNotificationEventListener...
+2025-07-28 00:22:19,252 [INFO] [MainThread] [root/bar_manager.py:74]: Starting KomorebiEventListener...
+2025-07-28 00:22:19,252 [INFO] [MainThread] [root/watcher.py:54]: Created file watcher for path C:\Users\ilyes\.config\yasb
+2025-07-28 00:22:19,266 [INFO] [Dummy-5] [root/event_listener.py:51]: Created named pipe yasb-8a66527f-6b40-11f0-8c2a-b37ffa5b5965
+2025-07-28 00:22:19,350 [DEBUG] [MainThread] [qasync._windows._EventPoller/_windows.py:213]: Starting (proactor: <_IocpProactor overlapped#=0 result#=0>)...
+2025-07-28 00:22:19,352 [DEBUG] [Dummy-9] [qasync._windows._EventWorker/_windows.py:192]: Thread started
+2025-07-28 00:22:19,422 [INFO] [Dummy-5] [root/event_listener.py:125]: Komorebi connected to named pipe: yasb-8a66527f-6b40-11f0-8c2a-b37ffa5b5965
+2025-07-28 00:22:22,249 [INFO] [MainThread] [root/weather.py:67]: Fetching new weather data at 2025-07-28 00:22:22.249834
