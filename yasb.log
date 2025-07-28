@@ -1877,3 +1877,445 @@ expected <block end>, but found '<scalar>'
 2025-07-28 00:22:19,352 [DEBUG] [Dummy-9] [qasync._windows._EventWorker/_windows.py:192]: Thread started
 2025-07-28 00:22:19,422 [INFO] [Dummy-5] [root/event_listener.py:125]: Komorebi connected to named pipe: yasb-8a66527f-6b40-11f0-8c2a-b37ffa5b5965
 2025-07-28 00:22:22,249 [INFO] [MainThread] [root/weather.py:67]: Fetching new weather data at 2025-07-28 00:22:22.249834
+2025-07-28 00:26:02,398 [INFO] [MainThread] [root/controller.py:15]: Reloading Application because of config change.
+2025-07-28 00:26:02,500 [INFO] [MainThread] [cli_server/cli_server.py:112]: Log pipe server stopped
+2025-07-28 00:26:02,500 [DEBUG] [MainThread] [cli_server/cli_server.py:206]: CLI server stopped
+2025-07-28 00:26:02,506 [INFO] [MainThread] [root/bar_manager.py:65]: Successfully loaded updated config and re-initialised all bars.
+2025-07-28 00:26:02,506 [DEBUG] [MainThread] [qasync._windows._EventPoller/_windows.py:218]: Stopping worker thread...
+2025-07-28 00:26:02,515 [DEBUG] [Dummy-9] [qasync._windows._EventWorker/_windows.py:201]: Exiting thread
+2025-07-28 00:26:02,517 [DEBUG] [MainThread] [qasync._windows._IocpProactor/_windows.py:75]: Closing
+2025-07-28 00:26:02,867 [INFO] [MainThread] [root/log.py:59]: YASB v1.7.8
+2025-07-28 00:26:02,868 [INFO] [Thread-1 (_run_server)] [cli_server/cli_server.py:212]: CLI server started v1.1.2
+2025-07-28 00:26:02,868 [INFO] [MainThread] [cli_server/cli_server.py:104]: Log pipe server started
+2025-07-28 00:26:03,067 [DEBUG] [MainThread] [tzlocal/win32.py:55]: Looking up time zone info from registry
+2025-07-28 00:26:03,650 [DEBUG] [MainThread] [comtypes/__init__.py:149]: CoInitializeEx(None, 2)
+2025-07-28 00:26:03,801 [INFO] [MainThread] [root/bar_manager.py:74]: Starting WindowsNotificationEventListener...
+2025-07-28 00:26:03,803 [INFO] [MainThread] [root/bar_manager.py:74]: Starting KomorebiEventListener...
+2025-07-28 00:26:03,804 [INFO] [MainThread] [root/bar_manager.py:74]: Starting SystemEventListener...
+2025-07-28 00:26:03,804 [INFO] [MainThread] [root/watcher.py:54]: Created file watcher for path C:\Users\ilyes\.config\yasb
+2025-07-28 00:26:03,868 [INFO] [Dummy-5] [root/event_listener.py:51]: Created named pipe yasb-103e1b30-6b41-11f0-bc19-b37ffa5b5965
+2025-07-28 00:26:03,918 [DEBUG] [MainThread] [qasync._windows._EventPoller/_windows.py:213]: Starting (proactor: <_IocpProactor overlapped#=0 result#=0>)...
+2025-07-28 00:26:03,919 [DEBUG] [Dummy-9] [qasync._windows._EventWorker/_windows.py:192]: Thread started
+2025-07-28 00:26:03,992 [INFO] [Dummy-5] [root/event_listener.py:125]: Komorebi connected to named pipe: yasb-103e1b30-6b41-11f0-bc19-b37ffa5b5965
+2025-07-28 00:26:04,609 [INFO] [MainThread] [root/weather.py:67]: Fetching new weather data at 2025-07-28 00:26:04.609741
+2025-07-28 00:30:21,573 [INFO] [MainThread] [root/controller.py:15]: Reloading Application because of config change.
+2025-07-28 00:30:21,677 [INFO] [MainThread] [cli_server/cli_server.py:112]: Log pipe server stopped
+2025-07-28 00:30:21,677 [DEBUG] [MainThread] [cli_server/cli_server.py:206]: CLI server stopped
+2025-07-28 00:30:21,682 [INFO] [MainThread] [root/bar_manager.py:65]: Successfully loaded updated config and re-initialised all bars.
+2025-07-28 00:30:21,682 [DEBUG] [MainThread] [qasync._windows._EventPoller/_windows.py:218]: Stopping worker thread...
+2025-07-28 00:30:21,692 [DEBUG] [Dummy-9] [qasync._windows._EventWorker/_windows.py:201]: Exiting thread
+2025-07-28 00:30:21,693 [DEBUG] [MainThread] [qasync._windows._IocpProactor/_windows.py:75]: Closing
+2025-07-28 00:30:21,711 [ERROR] [Dummy-5] [root/event_service.py:32]: Failed to emit signal <bound PYQT_SIGNAL k_signal_update of WorkspaceWidget object at 0x000001E061927A70>. Removing link to KomorebiEvent.KomorebiUpdate.
+2025-07-28 00:30:22,057 [INFO] [MainThread] [root/log.py:59]: YASB v1.7.8
+2025-07-28 00:30:22,058 [INFO] [Thread-1 (_run_server)] [cli_server/cli_server.py:212]: CLI server started v1.1.2
+2025-07-28 00:30:22,058 [INFO] [MainThread] [cli_server/cli_server.py:104]: Log pipe server started
+2025-07-28 00:30:22,254 [DEBUG] [MainThread] [tzlocal/win32.py:55]: Looking up time zone info from registry
+2025-07-28 00:30:22,858 [DEBUG] [MainThread] [comtypes/__init__.py:149]: CoInitializeEx(None, 2)
+2025-07-28 00:30:23,005 [INFO] [MainThread] [root/bar_manager.py:74]: Starting KomorebiEventListener...
+2025-07-28 00:30:23,006 [INFO] [MainThread] [root/bar_manager.py:74]: Starting SystemEventListener...
+2025-07-28 00:30:23,006 [INFO] [MainThread] [root/bar_manager.py:74]: Starting WindowsNotificationEventListener...
+2025-07-28 00:30:23,007 [INFO] [MainThread] [root/watcher.py:54]: Created file watcher for path C:\Users\ilyes\.config\yasb
+2025-07-28 00:30:23,016 [INFO] [Dummy-5] [root/event_listener.py:51]: Created named pipe yasb-aabd46d3-6b41-11f0-b7e2-b37ffa5b5965
+2025-07-28 00:30:23,147 [DEBUG] [MainThread] [qasync._windows._EventPoller/_windows.py:213]: Starting (proactor: <_IocpProactor overlapped#=0 result#=0>)...
+2025-07-28 00:30:23,148 [DEBUG] [Dummy-9] [qasync._windows._EventWorker/_windows.py:192]: Thread started
+2025-07-28 00:30:23,227 [INFO] [Dummy-5] [root/event_listener.py:125]: Komorebi connected to named pipe: yasb-aabd46d3-6b41-11f0-b7e2-b37ffa5b5965
+2025-07-28 00:30:23,849 [INFO] [MainThread] [root/weather.py:67]: Fetching new weather data at 2025-07-28 00:30:23.849151
+2025-07-28 00:40:23,010 [INFO] [MainThread] [root/weather.py:67]: Fetching new weather data at 2025-07-28 00:40:23.010821
+2025-07-28 00:40:50,161 [DEBUG] [MainThread] [qasync._windows._EventPoller/_windows.py:218]: Stopping worker thread...
+2025-07-28 00:40:50,178 [DEBUG] [Dummy-9] [qasync._windows._EventWorker/_windows.py:201]: Exiting thread
+2025-07-28 00:40:50,179 [DEBUG] [MainThread] [qasync._windows._IocpProactor/_windows.py:75]: Closing
+2025-07-28 14:03:55,711 [INFO] [MainThread] [root/log.py:59]: YASB v1.7.8
+2025-07-28 14:03:55,713 [INFO] [Thread-1 (_run_server)] [cli_server/cli_server.py:212]: CLI server started v1.1.2
+2025-07-28 14:03:55,713 [INFO] [MainThread] [cli_server/cli_server.py:104]: Log pipe server started
+2025-07-28 14:03:56,584 [DEBUG] [MainThread] [tzlocal/win32.py:55]: Looking up time zone info from registry
+2025-07-28 14:04:00,159 [DEBUG] [MainThread] [comtypes/__init__.py:149]: CoInitializeEx(None, 2)
+2025-07-28 14:04:00,611 [INFO] [MainThread] [root/bar_manager.py:74]: Starting SystemEventListener...
+2025-07-28 14:04:00,612 [INFO] [MainThread] [root/bar_manager.py:74]: Starting WindowsNotificationEventListener...
+2025-07-28 14:04:00,613 [INFO] [MainThread] [root/bar_manager.py:74]: Starting KomorebiEventListener...
+2025-07-28 14:04:00,613 [INFO] [MainThread] [root/watcher.py:54]: Created file watcher for path C:\Users\ilyes\.config\yasb
+2025-07-28 14:04:00,615 [INFO] [Dummy-5] [root/event_listener.py:51]: Created named pipe yasb-544cfb18-6bb3-11f0-ad08-b37ffa5b5965
+2025-07-28 14:04:00,688 [DEBUG] [MainThread] [qasync._windows._EventPoller/_windows.py:213]: Starting (proactor: <_IocpProactor overlapped#=0 result#=0>)...
+2025-07-28 14:04:00,689 [DEBUG] [Dummy-9] [qasync._windows._EventWorker/_windows.py:192]: Thread started
+2025-07-28 14:04:01,323 [INFO] [MainThread] [root/weather.py:67]: Fetching new weather data at 2025-07-28 14:04:01.323451
+2025-07-28 14:04:05,860 [INFO] [Dummy-5] [root/event_listener.py:125]: Komorebi connected to named pipe: yasb-544cfb18-6bb3-11f0-ad08-b37ffa5b5965
+2025-07-28 14:10:32,718 [WARNING] [Dummy-5] [root/event_listener.py:82]: Pipe has been ended: (109, 'PeekNamedPipe', 'The pipe has been ended.')
+2025-07-28 14:10:32,718 [INFO] [Dummy-5] [root/event_listener.py:92]: Attempting to reconnect to Komorebi...
+2025-07-28 14:10:35,723 [INFO] [Dummy-5] [root/event_listener.py:51]: Created named pipe yasb-544cfb18-6bb3-11f0-ad08-b37ffa5b5965
+2025-07-28 14:10:35,785 [INFO] [Dummy-5] [root/event_listener.py:125]: Komorebi connected to named pipe: yasb-544cfb18-6bb3-11f0-ad08-b37ffa5b5965
+2025-07-28 14:11:22,673 [INFO] [MainThread] [root/controller.py:15]: Reloading Application because of config change.
+2025-07-28 14:11:22,782 [INFO] [MainThread] [cli_server/cli_server.py:112]: Log pipe server stopped
+2025-07-28 14:11:22,782 [DEBUG] [MainThread] [cli_server/cli_server.py:206]: CLI server stopped
+2025-07-28 14:11:22,793 [INFO] [MainThread] [root/bar_manager.py:65]: Successfully loaded updated config and re-initialised all bars.
+2025-07-28 14:11:22,793 [DEBUG] [MainThread] [qasync._windows._EventPoller/_windows.py:218]: Stopping worker thread...
+2025-07-28 14:11:22,799 [DEBUG] [Dummy-9] [qasync._windows._EventWorker/_windows.py:201]: Exiting thread
+2025-07-28 14:11:22,800 [DEBUG] [MainThread] [qasync._windows._IocpProactor/_windows.py:75]: Closing
+2025-07-28 14:11:23,249 [INFO] [MainThread] [root/log.py:59]: YASB v1.7.8
+2025-07-28 14:11:23,250 [INFO] [Thread-1 (_run_server)] [cli_server/cli_server.py:212]: CLI server started v1.1.2
+2025-07-28 14:11:23,250 [INFO] [MainThread] [cli_server/cli_server.py:104]: Log pipe server started
+2025-07-28 14:11:23,507 [DEBUG] [MainThread] [tzlocal/win32.py:55]: Looking up time zone info from registry
+2025-07-28 14:11:24,101 [DEBUG] [MainThread] [comtypes/__init__.py:149]: CoInitializeEx(None, 2)
+2025-07-28 14:11:24,245 [INFO] [MainThread] [root/bar_manager.py:74]: Starting WindowsNotificationEventListener...
+2025-07-28 14:11:24,247 [INFO] [MainThread] [root/bar_manager.py:74]: Starting KomorebiEventListener...
+2025-07-28 14:11:24,247 [INFO] [MainThread] [root/bar_manager.py:74]: Starting SystemEventListener...
+2025-07-28 14:11:24,247 [ERROR] [MainThread] [root/widget_builder.py:93]: Failed to validate widget(s) due to invalid options  - brightness
+      wallpapers:
+      - unknown field
+      
+2025-07-28 14:11:24,256 [INFO] [Dummy-3] [root/event_listener.py:51]: Created named pipe yasb-5cba2156-6bb4-11f0-b153-b37ffa5b5965
+2025-07-28 14:11:24,446 [INFO] [Dummy-3] [root/event_listener.py:125]: Komorebi connected to named pipe: yasb-5cba2156-6bb4-11f0-b153-b37ffa5b5965
+2025-07-28 14:11:41,693 [INFO] [MainThread] [root/log.py:59]: YASB v1.7.8
+2025-07-28 14:11:41,694 [INFO] [Thread-1 (_run_server)] [cli_server/cli_server.py:212]: CLI server started v1.1.2
+2025-07-28 14:11:41,694 [INFO] [MainThread] [cli_server/cli_server.py:104]: Log pipe server started
+2025-07-28 14:11:41,895 [DEBUG] [MainThread] [tzlocal/win32.py:55]: Looking up time zone info from registry
+2025-07-28 14:11:42,432 [DEBUG] [MainThread] [comtypes/__init__.py:149]: CoInitializeEx(None, 2)
+2025-07-28 14:11:42,570 [INFO] [MainThread] [root/bar_manager.py:74]: Starting WindowsNotificationEventListener...
+2025-07-28 14:11:42,571 [INFO] [MainThread] [root/bar_manager.py:74]: Starting SystemEventListener...
+2025-07-28 14:11:42,572 [INFO] [MainThread] [root/bar_manager.py:74]: Starting KomorebiEventListener...
+2025-07-28 14:11:42,572 [INFO] [MainThread] [root/watcher.py:54]: Created file watcher for path C:\Users\ilyes\.config\yasb
+2025-07-28 14:11:42,636 [INFO] [Dummy-5] [root/event_listener.py:51]: Created named pipe yasb-67a65485-6bb4-11f0-9e60-b37ffa5b5965
+2025-07-28 14:11:42,704 [DEBUG] [MainThread] [qasync._windows._EventPoller/_windows.py:213]: Starting (proactor: <_IocpProactor overlapped#=0 result#=0>)...
+2025-07-28 14:11:42,707 [DEBUG] [Dummy-9] [qasync._windows._EventWorker/_windows.py:192]: Thread started
+2025-07-28 14:11:42,845 [INFO] [Dummy-5] [root/event_listener.py:125]: Komorebi connected to named pipe: yasb-67a65485-6bb4-11f0-9e60-b37ffa5b5965
+2025-07-28 14:11:43,499 [INFO] [MainThread] [root/weather.py:67]: Fetching new weather data at 2025-07-28 14:11:43.499803
+2025-07-28 14:12:25,071 [INFO] [MainThread] [root/controller.py:15]: Reloading Application because of config change.
+2025-07-28 14:12:25,183 [INFO] [MainThread] [cli_server/cli_server.py:112]: Log pipe server stopped
+2025-07-28 14:12:25,183 [DEBUG] [MainThread] [cli_server/cli_server.py:206]: CLI server stopped
+2025-07-28 14:12:25,189 [INFO] [MainThread] [root/bar_manager.py:65]: Successfully loaded updated config and re-initialised all bars.
+2025-07-28 14:12:25,189 [DEBUG] [MainThread] [qasync._windows._EventPoller/_windows.py:218]: Stopping worker thread...
+2025-07-28 14:12:25,199 [DEBUG] [Dummy-9] [qasync._windows._EventWorker/_windows.py:201]: Exiting thread
+2025-07-28 14:12:25,200 [DEBUG] [MainThread] [qasync._windows._IocpProactor/_windows.py:75]: Closing
+2025-07-28 14:12:25,576 [INFO] [MainThread] [root/log.py:59]: YASB v1.7.8
+2025-07-28 14:12:25,577 [INFO] [Thread-1 (_run_server)] [cli_server/cli_server.py:212]: CLI server started v1.1.2
+2025-07-28 14:12:25,578 [INFO] [MainThread] [cli_server/cli_server.py:104]: Log pipe server started
+2025-07-28 14:12:25,742 [DEBUG] [MainThread] [tzlocal/win32.py:55]: Looking up time zone info from registry
+2025-07-28 14:12:26,273 [DEBUG] [MainThread] [comtypes/__init__.py:149]: CoInitializeEx(None, 2)
+2025-07-28 14:12:26,409 [INFO] [MainThread] [root/bar_manager.py:74]: Starting WindowsNotificationEventListener...
+2025-07-28 14:12:26,411 [INFO] [MainThread] [root/bar_manager.py:74]: Starting SystemEventListener...
+2025-07-28 14:12:26,412 [INFO] [MainThread] [root/bar_manager.py:74]: Starting KomorebiEventListener...
+2025-07-28 14:12:26,412 [INFO] [MainThread] [root/watcher.py:54]: Created file watcher for path C:\Users\ilyes\.config\yasb
+2025-07-28 14:12:26,478 [INFO] [Dummy-5] [root/event_listener.py:51]: Created named pipe yasb-81c7c6f3-6bb4-11f0-8d9a-b37ffa5b5965
+2025-07-28 14:12:26,548 [DEBUG] [MainThread] [qasync._windows._EventPoller/_windows.py:213]: Starting (proactor: <_IocpProactor overlapped#=0 result#=0>)...
+2025-07-28 14:12:26,550 [DEBUG] [Dummy-9] [qasync._windows._EventWorker/_windows.py:192]: Thread started
+2025-07-28 14:12:26,638 [INFO] [Dummy-5] [root/event_listener.py:125]: Komorebi connected to named pipe: yasb-81c7c6f3-6bb4-11f0-8d9a-b37ffa5b5965
+2025-07-28 14:12:27,302 [INFO] [MainThread] [root/weather.py:67]: Fetching new weather data at 2025-07-28 14:12:27.302998
+2025-07-28 14:13:11,742 [INFO] [MainThread] [root/controller.py:15]: Reloading Application because of config change.
+2025-07-28 14:13:11,849 [INFO] [MainThread] [cli_server/cli_server.py:112]: Log pipe server stopped
+2025-07-28 14:13:11,849 [DEBUG] [MainThread] [cli_server/cli_server.py:206]: CLI server stopped
+2025-07-28 14:13:11,854 [INFO] [MainThread] [root/bar_manager.py:65]: Successfully loaded updated config and re-initialised all bars.
+2025-07-28 14:13:11,855 [DEBUG] [MainThread] [qasync._windows._EventPoller/_windows.py:218]: Stopping worker thread...
+2025-07-28 14:13:11,864 [DEBUG] [Dummy-9] [qasync._windows._EventWorker/_windows.py:201]: Exiting thread
+2025-07-28 14:13:11,864 [DEBUG] [MainThread] [qasync._windows._IocpProactor/_windows.py:75]: Closing
+2025-07-28 14:13:12,244 [INFO] [MainThread] [root/log.py:59]: YASB v1.7.8
+2025-07-28 14:13:12,245 [INFO] [Thread-1 (_run_server)] [cli_server/cli_server.py:212]: CLI server started v1.1.2
+2025-07-28 14:13:12,245 [INFO] [MainThread] [cli_server/cli_server.py:104]: Log pipe server started
+2025-07-28 14:13:12,411 [DEBUG] [MainThread] [tzlocal/win32.py:55]: Looking up time zone info from registry
+2025-07-28 14:13:12,960 [DEBUG] [MainThread] [comtypes/__init__.py:149]: CoInitializeEx(None, 2)
+2025-07-28 14:13:13,018 [WARNING] [MainThread] [root/widget_builder.py:40]: No widget config could be found for widget 'wallpapers
+2025-07-28 14:13:13,096 [INFO] [MainThread] [root/bar_manager.py:74]: Starting KomorebiEventListener...
+2025-07-28 14:13:13,096 [INFO] [MainThread] [root/bar_manager.py:74]: Starting WindowsNotificationEventListener...
+2025-07-28 14:13:13,097 [INFO] [MainThread] [root/bar_manager.py:74]: Starting SystemEventListener...
+2025-07-28 14:13:13,098 [ERROR] [MainThread] [root/widget_builder.py:79]: Failed to add undefined widget(s)  - The widget "wallpapers" is undefined.
+2025-07-28 14:13:13,124 [INFO] [Dummy-3] [root/event_listener.py:51]: Created named pipe yasb-9d9b2d48-6bb4-11f0-9c5b-b37ffa5b5965
+2025-07-28 14:13:13,313 [INFO] [Dummy-3] [root/event_listener.py:125]: Komorebi connected to named pipe: yasb-9d9b2d48-6bb4-11f0-9c5b-b37ffa5b5965
+2025-07-28 14:13:14,045 [INFO] [MainThread] [root/weather.py:67]: Fetching new weather data at 2025-07-28 14:13:14.044503
+2025-07-28 14:13:18,764 [INFO] [MainThread] [root/watcher.py:54]: Created file watcher for path C:\Users\ilyes\.config\yasb
+2025-07-28 14:13:18,831 [DEBUG] [MainThread] [qasync._windows._EventPoller/_windows.py:213]: Starting (proactor: <_IocpProactor overlapped#=0 result#=0>)...
+2025-07-28 14:13:18,833 [DEBUG] [Dummy-10] [qasync._windows._EventWorker/_windows.py:192]: Thread started
+2025-07-28 14:14:09,216 [INFO] [MainThread] [root/controller.py:15]: Reloading Application because of config change.
+2025-07-28 14:14:09,332 [INFO] [MainThread] [cli_server/cli_server.py:112]: Log pipe server stopped
+2025-07-28 14:14:09,332 [DEBUG] [MainThread] [cli_server/cli_server.py:206]: CLI server stopped
+2025-07-28 14:14:09,337 [INFO] [MainThread] [root/bar_manager.py:65]: Successfully loaded updated config and re-initialised all bars.
+2025-07-28 14:14:09,338 [DEBUG] [MainThread] [qasync._windows._EventPoller/_windows.py:218]: Stopping worker thread...
+2025-07-28 14:14:09,347 [DEBUG] [Dummy-10] [qasync._windows._EventWorker/_windows.py:201]: Exiting thread
+2025-07-28 14:14:09,348 [DEBUG] [MainThread] [qasync._windows._IocpProactor/_windows.py:75]: Closing
+2025-07-28 14:14:09,716 [INFO] [MainThread] [root/log.py:59]: YASB v1.7.8
+2025-07-28 14:14:09,717 [INFO] [Thread-1 (_run_server)] [cli_server/cli_server.py:212]: CLI server started v1.1.2
+2025-07-28 14:14:09,718 [INFO] [MainThread] [cli_server/cli_server.py:104]: Log pipe server started
+2025-07-28 14:14:09,920 [DEBUG] [MainThread] [tzlocal/win32.py:55]: Looking up time zone info from registry
+2025-07-28 14:14:10,485 [DEBUG] [MainThread] [comtypes/__init__.py:149]: CoInitializeEx(None, 2)
+2025-07-28 14:14:10,706 [INFO] [MainThread] [root/bar_manager.py:74]: Starting WindowsNotificationEventListener...
+2025-07-28 14:14:10,708 [INFO] [MainThread] [root/bar_manager.py:74]: Starting KomorebiEventListener...
+2025-07-28 14:14:10,708 [INFO] [MainThread] [root/bar_manager.py:74]: Starting SystemEventListener...
+2025-07-28 14:14:10,709 [INFO] [MainThread] [root/watcher.py:54]: Created file watcher for path C:\Users\ilyes\.config\yasb
+2025-07-28 14:14:10,778 [INFO] [Dummy-5] [root/event_listener.py:51]: Created named pipe yasb-bff21fa4-6bb4-11f0-8d3d-b37ffa5b5965
+2025-07-28 14:14:10,860 [DEBUG] [MainThread] [qasync._windows._EventPoller/_windows.py:213]: Starting (proactor: <_IocpProactor overlapped#=0 result#=0>)...
+2025-07-28 14:14:10,862 [DEBUG] [Dummy-9] [qasync._windows._EventWorker/_windows.py:192]: Thread started
+2025-07-28 14:14:10,959 [INFO] [Dummy-5] [root/event_listener.py:125]: Komorebi connected to named pipe: yasb-bff21fa4-6bb4-11f0-8d3d-b37ffa5b5965
+2025-07-28 14:14:11,515 [INFO] [MainThread] [root/weather.py:67]: Fetching new weather data at 2025-07-28 14:14:11.515554
+2025-07-28 14:14:46,129 [INFO] [MainThread] [root/controller.py:15]: Reloading Application because of config change.
+2025-07-28 14:14:46,232 [INFO] [MainThread] [cli_server/cli_server.py:112]: Log pipe server stopped
+2025-07-28 14:14:46,232 [DEBUG] [MainThread] [cli_server/cli_server.py:206]: CLI server stopped
+2025-07-28 14:14:46,238 [INFO] [MainThread] [root/bar_manager.py:65]: Successfully loaded updated config and re-initialised all bars.
+2025-07-28 14:14:46,239 [DEBUG] [MainThread] [qasync._windows._EventPoller/_windows.py:218]: Stopping worker thread...
+2025-07-28 14:14:46,247 [DEBUG] [Dummy-9] [qasync._windows._EventWorker/_windows.py:201]: Exiting thread
+2025-07-28 14:14:46,248 [DEBUG] [MainThread] [qasync._windows._IocpProactor/_windows.py:75]: Closing
+2025-07-28 14:14:46,272 [ERROR] [Dummy-5] [root/event_service.py:32]: Failed to emit signal <bound PYQT_SIGNAL k_signal_update of WorkspaceWidget object at 0x000002003FF3FA70>. Removing link to KomorebiEvent.KomorebiUpdate.
+2025-07-28 14:14:46,617 [INFO] [MainThread] [root/log.py:59]: YASB v1.7.8
+2025-07-28 14:14:46,618 [INFO] [Thread-1 (_run_server)] [cli_server/cli_server.py:212]: CLI server started v1.1.2
+2025-07-28 14:14:46,618 [INFO] [MainThread] [cli_server/cli_server.py:104]: Log pipe server started
+2025-07-28 14:14:46,794 [DEBUG] [MainThread] [tzlocal/win32.py:55]: Looking up time zone info from registry
+2025-07-28 14:14:47,355 [DEBUG] [MainThread] [comtypes/__init__.py:149]: CoInitializeEx(None, 2)
+2025-07-28 14:14:47,510 [INFO] [MainThread] [root/bar_manager.py:74]: Starting KomorebiEventListener...
+2025-07-28 14:14:47,511 [INFO] [MainThread] [root/bar_manager.py:74]: Starting WindowsNotificationEventListener...
+2025-07-28 14:14:47,512 [INFO] [MainThread] [root/bar_manager.py:74]: Starting SystemEventListener...
+2025-07-28 14:14:47,512 [INFO] [MainThread] [root/watcher.py:54]: Created file watcher for path C:\Users\ilyes\.config\yasb
+2025-07-28 14:14:47,581 [INFO] [Dummy-5] [root/event_listener.py:51]: Created named pipe yasb-d5e1c42b-6bb4-11f0-bee4-b37ffa5b5965
+2025-07-28 14:14:47,649 [DEBUG] [MainThread] [qasync._windows._EventPoller/_windows.py:213]: Starting (proactor: <_IocpProactor overlapped#=0 result#=0>)...
+2025-07-28 14:14:47,652 [DEBUG] [Dummy-9] [qasync._windows._EventWorker/_windows.py:192]: Thread started
+2025-07-28 14:14:47,732 [INFO] [Dummy-5] [root/event_listener.py:125]: Komorebi connected to named pipe: yasb-d5e1c42b-6bb4-11f0-bee4-b37ffa5b5965
+2025-07-28 14:14:51,382 [INFO] [MainThread] [root/weather.py:67]: Fetching new weather data at 2025-07-28 14:14:51.382227
+2025-07-28 14:24:47,457 [INFO] [MainThread] [root/weather.py:67]: Fetching new weather data at 2025-07-28 14:24:47.457946
+2025-07-28 14:26:45,994 [INFO] [MainThread] [root/controller.py:15]: Reloading Application because of config change.
+2025-07-28 14:26:46,102 [INFO] [MainThread] [cli_server/cli_server.py:112]: Log pipe server stopped
+2025-07-28 14:26:46,102 [DEBUG] [MainThread] [cli_server/cli_server.py:206]: CLI server stopped
+2025-07-28 14:26:46,108 [INFO] [MainThread] [root/bar_manager.py:65]: Successfully loaded updated config and re-initialised all bars.
+2025-07-28 14:26:46,108 [DEBUG] [MainThread] [qasync._windows._EventPoller/_windows.py:218]: Stopping worker thread...
+2025-07-28 14:26:46,118 [DEBUG] [Dummy-9] [qasync._windows._EventWorker/_windows.py:201]: Exiting thread
+2025-07-28 14:26:46,119 [DEBUG] [MainThread] [qasync._windows._IocpProactor/_windows.py:75]: Closing
+2025-07-28 14:26:46,487 [INFO] [MainThread] [root/log.py:59]: YASB v1.7.8
+2025-07-28 14:26:46,488 [INFO] [Thread-1 (_run_server)] [cli_server/cli_server.py:212]: CLI server started v1.1.2
+2025-07-28 14:26:46,488 [INFO] [MainThread] [cli_server/cli_server.py:104]: Log pipe server started
+2025-07-28 14:26:46,647 [DEBUG] [MainThread] [tzlocal/win32.py:55]: Looking up time zone info from registry
+2025-07-28 14:26:47,223 [DEBUG] [MainThread] [comtypes/__init__.py:149]: CoInitializeEx(None, 2)
+2025-07-28 14:26:47,405 [INFO] [MainThread] [root/bar_manager.py:74]: Starting WindowsNotificationEventListener...
+2025-07-28 14:26:47,407 [INFO] [MainThread] [root/bar_manager.py:74]: Starting KomorebiEventListener...
+2025-07-28 14:26:47,408 [INFO] [MainThread] [root/bar_manager.py:74]: Starting SystemEventListener...
+2025-07-28 14:26:47,409 [INFO] [MainThread] [root/watcher.py:54]: Created file watcher for path C:\Users\ilyes\.config\yasb
+2025-07-28 14:26:47,465 [INFO] [Dummy-5] [root/event_listener.py:51]: Created named pipe yasb-82f95718-6bb6-11f0-9c6f-b37ffa5b5965
+2025-07-28 14:26:47,520 [DEBUG] [MainThread] [qasync._windows._EventPoller/_windows.py:213]: Starting (proactor: <_IocpProactor overlapped#=0 result#=0>)...
+2025-07-28 14:26:47,524 [DEBUG] [Dummy-9] [qasync._windows._EventWorker/_windows.py:192]: Thread started
+2025-07-28 14:26:47,633 [INFO] [Dummy-5] [root/event_listener.py:125]: Komorebi connected to named pipe: yasb-82f95718-6bb6-11f0-9c6f-b37ffa5b5965
+2025-07-28 14:26:48,145 [INFO] [MainThread] [root/weather.py:67]: Fetching new weather data at 2025-07-28 14:26:48.145582
+2025-07-28 14:27:45,852 [INFO] [MainThread] [root/controller.py:15]: Reloading Application because of config change.
+2025-07-28 14:27:45,965 [INFO] [MainThread] [cli_server/cli_server.py:112]: Log pipe server stopped
+2025-07-28 14:27:45,965 [DEBUG] [MainThread] [cli_server/cli_server.py:206]: CLI server stopped
+2025-07-28 14:27:45,971 [INFO] [MainThread] [root/bar_manager.py:65]: Successfully loaded updated config and re-initialised all bars.
+2025-07-28 14:27:45,971 [DEBUG] [MainThread] [qasync._windows._EventPoller/_windows.py:218]: Stopping worker thread...
+2025-07-28 14:27:45,980 [DEBUG] [Dummy-9] [qasync._windows._EventWorker/_windows.py:201]: Exiting thread
+2025-07-28 14:27:45,981 [DEBUG] [MainThread] [qasync._windows._IocpProactor/_windows.py:75]: Closing
+2025-07-28 14:27:46,335 [INFO] [MainThread] [root/log.py:59]: YASB v1.7.8
+2025-07-28 14:27:46,336 [INFO] [Thread-1 (_run_server)] [cli_server/cli_server.py:212]: CLI server started v1.1.2
+2025-07-28 14:27:46,336 [INFO] [MainThread] [cli_server/cli_server.py:104]: Log pipe server started
+2025-07-28 14:27:46,492 [DEBUG] [MainThread] [tzlocal/win32.py:55]: Looking up time zone info from registry
+2025-07-28 14:27:47,031 [DEBUG] [MainThread] [comtypes/__init__.py:149]: CoInitializeEx(None, 2)
+2025-07-28 14:27:47,182 [INFO] [MainThread] [root/bar_manager.py:74]: Starting SystemEventListener...
+2025-07-28 14:27:47,183 [INFO] [MainThread] [root/bar_manager.py:74]: Starting WindowsNotificationEventListener...
+2025-07-28 14:27:47,184 [INFO] [MainThread] [root/bar_manager.py:74]: Starting KomorebiEventListener...
+2025-07-28 14:27:47,184 [INFO] [MainThread] [root/watcher.py:54]: Created file watcher for path C:\Users\ilyes\.config\yasb
+2025-07-28 14:27:47,253 [INFO] [Dummy-5] [root/event_listener.py:51]: Created named pipe yasb-a69a6ddf-6bb6-11f0-bb20-b37ffa5b5965
+2025-07-28 14:27:47,303 [DEBUG] [MainThread] [qasync._windows._EventPoller/_windows.py:213]: Starting (proactor: <_IocpProactor overlapped#=0 result#=0>)...
+2025-07-28 14:27:47,306 [DEBUG] [Dummy-9] [qasync._windows._EventWorker/_windows.py:192]: Thread started
+2025-07-28 14:27:47,383 [INFO] [Dummy-5] [root/event_listener.py:125]: Komorebi connected to named pipe: yasb-a69a6ddf-6bb6-11f0-bb20-b37ffa5b5965
+2025-07-28 14:27:47,976 [INFO] [MainThread] [root/weather.py:67]: Fetching new weather data at 2025-07-28 14:27:47.976000
+2025-07-28 14:28:06,496 [ERROR] [Thread-11 (run_after_command)] [root/wallpapers.py:312]: error: 'wal' is not recognized as an internal or external command,
+operable program or batch file.
+
+2025-07-28 14:28:41,600 [ERROR] [Thread-16 (run_after_command)] [root/wallpapers.py:312]: error: 'wal' is not recognized as an internal or external command,
+operable program or batch file.
+
+2025-07-28 14:29:03,947 [INFO] [MainThread] [root/controller.py:15]: Reloading Application from tray...
+2025-07-28 14:29:04,053 [INFO] [MainThread] [cli_server/cli_server.py:112]: Log pipe server stopped
+2025-07-28 14:29:04,053 [DEBUG] [MainThread] [cli_server/cli_server.py:206]: CLI server stopped
+2025-07-28 14:29:04,072 [DEBUG] [MainThread] [qasync._windows._EventPoller/_windows.py:218]: Stopping worker thread...
+2025-07-28 14:29:04,084 [DEBUG] [Dummy-9] [qasync._windows._EventWorker/_windows.py:201]: Exiting thread
+2025-07-28 14:29:04,085 [DEBUG] [MainThread] [qasync._windows._IocpProactor/_windows.py:75]: Closing
+2025-07-28 14:29:04,182 [ERROR] [Dummy-21] [root/event_service.py:32]: Failed to emit signal <bound PYQT_SIGNAL window_name_change of ActiveWindowWidget object at 0x000002DDE2EAA990>. Removing link to WinEvent.EventObjectNameChange.
+2025-07-28 14:29:04,398 [INFO] [MainThread] [root/log.py:59]: YASB v1.7.8
+2025-07-28 14:29:04,400 [INFO] [Thread-1 (_run_server)] [cli_server/cli_server.py:212]: CLI server started v1.1.2
+2025-07-28 14:29:04,400 [INFO] [MainThread] [cli_server/cli_server.py:104]: Log pipe server started
+2025-07-28 14:29:04,548 [DEBUG] [MainThread] [tzlocal/win32.py:55]: Looking up time zone info from registry
+2025-07-28 14:29:05,138 [DEBUG] [MainThread] [comtypes/__init__.py:149]: CoInitializeEx(None, 2)
+2025-07-28 14:29:05,274 [INFO] [MainThread] [root/bar_manager.py:74]: Starting SystemEventListener...
+2025-07-28 14:29:05,274 [INFO] [MainThread] [root/bar_manager.py:74]: Starting KomorebiEventListener...
+2025-07-28 14:29:05,274 [INFO] [MainThread] [root/bar_manager.py:74]: Starting WindowsNotificationEventListener...
+2025-07-28 14:29:05,276 [INFO] [MainThread] [root/watcher.py:54]: Created file watcher for path C:\Users\ilyes\.config\yasb
+2025-07-28 14:29:05,316 [INFO] [Dummy-5] [root/event_listener.py:51]: Created named pipe yasb-d525f7bd-6bb6-11f0-b359-b37ffa5b5965
+2025-07-28 14:29:05,351 [DEBUG] [MainThread] [qasync._windows._EventPoller/_windows.py:213]: Starting (proactor: <_IocpProactor overlapped#=0 result#=0>)...
+2025-07-28 14:29:05,352 [DEBUG] [Dummy-9] [qasync._windows._EventWorker/_windows.py:192]: Thread started
+2025-07-28 14:29:05,393 [INFO] [Dummy-5] [root/event_listener.py:125]: Komorebi connected to named pipe: yasb-d525f7bd-6bb6-11f0-b359-b37ffa5b5965
+2025-07-28 14:29:05,958 [INFO] [MainThread] [root/weather.py:67]: Fetching new weather data at 2025-07-28 14:29:05.958138
+2025-07-28 14:30:18,577 [INFO] [MainThread] [root/controller.py:15]: Reloading Application because of config change.
+2025-07-28 14:30:18,692 [INFO] [MainThread] [cli_server/cli_server.py:112]: Log pipe server stopped
+2025-07-28 14:30:18,692 [DEBUG] [MainThread] [cli_server/cli_server.py:206]: CLI server stopped
+2025-07-28 14:30:18,698 [INFO] [MainThread] [root/bar_manager.py:65]: Successfully loaded updated config and re-initialised all bars.
+2025-07-28 14:30:18,699 [DEBUG] [MainThread] [qasync._windows._EventPoller/_windows.py:218]: Stopping worker thread...
+2025-07-28 14:30:18,708 [DEBUG] [Dummy-9] [qasync._windows._EventWorker/_windows.py:201]: Exiting thread
+2025-07-28 14:30:18,709 [DEBUG] [MainThread] [qasync._windows._IocpProactor/_windows.py:75]: Closing
+2025-07-28 14:30:19,077 [INFO] [MainThread] [root/log.py:59]: YASB v1.7.8
+2025-07-28 14:30:19,078 [INFO] [Thread-1 (_run_server)] [cli_server/cli_server.py:212]: CLI server started v1.1.2
+2025-07-28 14:30:19,078 [INFO] [MainThread] [cli_server/cli_server.py:104]: Log pipe server started
+2025-07-28 14:30:19,232 [DEBUG] [MainThread] [tzlocal/win32.py:55]: Looking up time zone info from registry
+2025-07-28 14:30:19,802 [DEBUG] [MainThread] [comtypes/__init__.py:149]: CoInitializeEx(None, 2)
+2025-07-28 14:30:19,958 [INFO] [MainThread] [root/bar_manager.py:74]: Starting WindowsNotificationEventListener...
+2025-07-28 14:30:19,960 [INFO] [MainThread] [root/bar_manager.py:74]: Starting SystemEventListener...
+2025-07-28 14:30:19,960 [INFO] [MainThread] [root/bar_manager.py:74]: Starting KomorebiEventListener...
+2025-07-28 14:30:19,960 [INFO] [MainThread] [root/watcher.py:54]: Created file watcher for path C:\Users\ilyes\.config\yasb
+2025-07-28 14:30:20,031 [INFO] [Dummy-5] [root/event_listener.py:51]: Created named pipe yasb-01aa24e9-6bb7-11f0-b538-b37ffa5b5965
+2025-07-28 14:30:20,086 [DEBUG] [MainThread] [qasync._windows._EventPoller/_windows.py:213]: Starting (proactor: <_IocpProactor overlapped#=0 result#=0>)...
+2025-07-28 14:30:20,089 [DEBUG] [Dummy-9] [qasync._windows._EventWorker/_windows.py:192]: Thread started
+2025-07-28 14:30:20,177 [INFO] [Dummy-5] [root/event_listener.py:125]: Komorebi connected to named pipe: yasb-01aa24e9-6bb7-11f0-b538-b37ffa5b5965
+2025-07-28 14:30:23,729 [INFO] [MainThread] [root/weather.py:67]: Fetching new weather data at 2025-07-28 14:30:23.729248
+2025-07-28 14:30:29,593 [INFO] [MainThread] [root/controller.py:15]: Reloading Application because of config change.
+2025-07-28 14:30:29,698 [INFO] [MainThread] [cli_server/cli_server.py:112]: Log pipe server stopped
+2025-07-28 14:30:29,698 [DEBUG] [MainThread] [cli_server/cli_server.py:206]: CLI server stopped
+2025-07-28 14:30:29,704 [INFO] [MainThread] [root/bar_manager.py:65]: Successfully loaded updated config and re-initialised all bars.
+2025-07-28 14:30:29,704 [DEBUG] [MainThread] [qasync._windows._EventPoller/_windows.py:218]: Stopping worker thread...
+2025-07-28 14:30:29,714 [DEBUG] [Dummy-9] [qasync._windows._EventWorker/_windows.py:201]: Exiting thread
+2025-07-28 14:30:29,715 [DEBUG] [MainThread] [qasync._windows._IocpProactor/_windows.py:75]: Closing
+2025-07-28 14:30:30,058 [INFO] [MainThread] [root/log.py:59]: YASB v1.7.8
+2025-07-28 14:30:30,058 [INFO] [Thread-1 (_run_server)] [cli_server/cli_server.py:212]: CLI server started v1.1.2
+2025-07-28 14:30:30,058 [INFO] [MainThread] [cli_server/cli_server.py:104]: Log pipe server started
+2025-07-28 14:30:30,215 [DEBUG] [MainThread] [tzlocal/win32.py:55]: Looking up time zone info from registry
+2025-07-28 14:30:30,745 [DEBUG] [MainThread] [comtypes/__init__.py:149]: CoInitializeEx(None, 2)
+2025-07-28 14:30:30,894 [INFO] [MainThread] [root/bar_manager.py:74]: Starting KomorebiEventListener...
+2025-07-28 14:30:30,894 [INFO] [MainThread] [root/bar_manager.py:74]: Starting SystemEventListener...
+2025-07-28 14:30:30,894 [INFO] [MainThread] [root/bar_manager.py:74]: Starting WindowsNotificationEventListener...
+2025-07-28 14:30:30,895 [ERROR] [MainThread] [root/widget_builder.py:93]: Failed to validate widget(s) due to invalid options  - language
+      update_interval:
+      - must be of integer type
+      
+2025-07-28 14:30:30,917 [INFO] [Dummy-3] [root/event_listener.py:51]: Created named pipe yasb-082e9ccb-6bb7-11f0-a2ff-b37ffa5b5965
+2025-07-28 14:30:31,105 [INFO] [Dummy-3] [root/event_listener.py:125]: Komorebi connected to named pipe: yasb-082e9ccb-6bb7-11f0-a2ff-b37ffa5b5965
+2025-07-28 14:30:31,819 [INFO] [MainThread] [root/weather.py:67]: Fetching new weather data at 2025-07-28 14:30:31.819736
+2025-07-28 14:30:36,314 [INFO] [MainThread] [root/watcher.py:54]: Created file watcher for path C:\Users\ilyes\.config\yasb
+2025-07-28 14:30:36,385 [DEBUG] [MainThread] [qasync._windows._EventPoller/_windows.py:213]: Starting (proactor: <_IocpProactor overlapped#=0 result#=0>)...
+2025-07-28 14:30:36,386 [DEBUG] [Dummy-10] [qasync._windows._EventWorker/_windows.py:192]: Thread started
+2025-07-28 14:30:41,109 [INFO] [MainThread] [root/controller.py:15]: Reloading Application because of config change.
+2025-07-28 14:30:41,216 [INFO] [MainThread] [cli_server/cli_server.py:112]: Log pipe server stopped
+2025-07-28 14:30:41,216 [DEBUG] [MainThread] [cli_server/cli_server.py:206]: CLI server stopped
+2025-07-28 14:30:41,222 [INFO] [MainThread] [root/bar_manager.py:65]: Successfully loaded updated config and re-initialised all bars.
+2025-07-28 14:30:41,222 [DEBUG] [MainThread] [qasync._windows._EventPoller/_windows.py:218]: Stopping worker thread...
+2025-07-28 14:30:41,231 [DEBUG] [Dummy-10] [qasync._windows._EventWorker/_windows.py:201]: Exiting thread
+2025-07-28 14:30:41,232 [DEBUG] [MainThread] [qasync._windows._IocpProactor/_windows.py:75]: Closing
+2025-07-28 14:30:41,574 [INFO] [MainThread] [root/log.py:59]: YASB v1.7.8
+2025-07-28 14:30:41,574 [INFO] [Thread-1 (_run_server)] [cli_server/cli_server.py:212]: CLI server started v1.1.2
+2025-07-28 14:30:41,574 [INFO] [MainThread] [cli_server/cli_server.py:104]: Log pipe server started
+2025-07-28 14:30:41,733 [DEBUG] [MainThread] [tzlocal/win32.py:55]: Looking up time zone info from registry
+2025-07-28 14:30:42,265 [DEBUG] [MainThread] [comtypes/__init__.py:149]: CoInitializeEx(None, 2)
+2025-07-28 14:30:42,415 [INFO] [MainThread] [root/bar_manager.py:74]: Starting WindowsNotificationEventListener...
+2025-07-28 14:30:42,416 [INFO] [MainThread] [root/bar_manager.py:74]: Starting SystemEventListener...
+2025-07-28 14:30:42,416 [INFO] [MainThread] [root/bar_manager.py:74]: Starting KomorebiEventListener...
+2025-07-28 14:30:42,416 [ERROR] [MainThread] [root/widget_builder.py:93]: Failed to validate widget(s) due to invalid options  - language
+      update_interval:
+      - min value is 1
+      
+2025-07-28 14:30:42,443 [INFO] [Dummy-3] [root/event_listener.py:51]: Created named pipe yasb-0f0cbe5b-6bb7-11f0-9e51-b37ffa5b5965
+2025-07-28 14:30:42,615 [INFO] [Dummy-3] [root/event_listener.py:125]: Komorebi connected to named pipe: yasb-0f0cbe5b-6bb7-11f0-9e51-b37ffa5b5965
+2025-07-28 14:30:43,350 [INFO] [MainThread] [root/weather.py:67]: Fetching new weather data at 2025-07-28 14:30:43.350679
+2025-07-28 14:30:44,667 [INFO] [MainThread] [root/watcher.py:54]: Created file watcher for path C:\Users\ilyes\.config\yasb
+2025-07-28 14:30:44,741 [DEBUG] [MainThread] [qasync._windows._EventPoller/_windows.py:213]: Starting (proactor: <_IocpProactor overlapped#=0 result#=0>)...
+2025-07-28 14:30:44,746 [DEBUG] [Dummy-10] [qasync._windows._EventWorker/_windows.py:192]: Thread started
+2025-07-28 14:30:47,568 [INFO] [MainThread] [root/controller.py:15]: Reloading Application because of config change.
+2025-07-28 14:30:47,671 [INFO] [MainThread] [cli_server/cli_server.py:112]: Log pipe server stopped
+2025-07-28 14:30:47,671 [DEBUG] [MainThread] [cli_server/cli_server.py:206]: CLI server stopped
+2025-07-28 14:30:47,678 [INFO] [MainThread] [root/bar_manager.py:65]: Successfully loaded updated config and re-initialised all bars.
+2025-07-28 14:30:47,678 [DEBUG] [MainThread] [qasync._windows._EventPoller/_windows.py:218]: Stopping worker thread...
+2025-07-28 14:30:47,687 [DEBUG] [Dummy-10] [qasync._windows._EventWorker/_windows.py:201]: Exiting thread
+2025-07-28 14:30:47,688 [DEBUG] [MainThread] [qasync._windows._IocpProactor/_windows.py:75]: Closing
+2025-07-28 14:30:48,047 [INFO] [MainThread] [root/log.py:59]: YASB v1.7.8
+2025-07-28 14:30:48,047 [INFO] [Thread-1 (_run_server)] [cli_server/cli_server.py:212]: CLI server started v1.1.2
+2025-07-28 14:30:48,047 [INFO] [MainThread] [cli_server/cli_server.py:104]: Log pipe server started
+2025-07-28 14:30:48,204 [DEBUG] [MainThread] [tzlocal/win32.py:55]: Looking up time zone info from registry
+2025-07-28 14:30:48,745 [DEBUG] [MainThread] [comtypes/__init__.py:149]: CoInitializeEx(None, 2)
+2025-07-28 14:30:48,911 [INFO] [MainThread] [root/bar_manager.py:74]: Starting WindowsNotificationEventListener...
+2025-07-28 14:30:48,912 [INFO] [MainThread] [root/bar_manager.py:74]: Starting KomorebiEventListener...
+2025-07-28 14:30:48,912 [INFO] [MainThread] [root/bar_manager.py:74]: Starting SystemEventListener...
+2025-07-28 14:30:48,912 [INFO] [MainThread] [root/watcher.py:54]: Created file watcher for path C:\Users\ilyes\.config\yasb
+2025-07-28 14:30:48,986 [INFO] [Dummy-5] [root/event_listener.py:51]: Created named pipe yasb-12ec0043-6bb7-11f0-95e9-b37ffa5b5965
+2025-07-28 14:30:49,060 [DEBUG] [MainThread] [qasync._windows._EventPoller/_windows.py:213]: Starting (proactor: <_IocpProactor overlapped#=0 result#=0>)...
+2025-07-28 14:30:49,061 [DEBUG] [Dummy-9] [qasync._windows._EventWorker/_windows.py:192]: Thread started
+2025-07-28 14:30:49,134 [INFO] [Dummy-5] [root/event_listener.py:125]: Komorebi connected to named pipe: yasb-12ec0043-6bb7-11f0-95e9-b37ffa5b5965
+2025-07-28 14:30:49,763 [INFO] [MainThread] [root/weather.py:67]: Fetching new weather data at 2025-07-28 14:30:49.763747
+2025-07-28 14:31:33,025 [INFO] [MainThread] [root/controller.py:15]: Reloading Application because of config change.
+2025-07-28 14:31:33,136 [INFO] [MainThread] [cli_server/cli_server.py:112]: Log pipe server stopped
+2025-07-28 14:31:33,136 [DEBUG] [MainThread] [cli_server/cli_server.py:206]: CLI server stopped
+2025-07-28 14:31:33,143 [INFO] [MainThread] [root/bar_manager.py:65]: Successfully loaded updated config and re-initialised all bars.
+2025-07-28 14:31:33,143 [DEBUG] [MainThread] [qasync._windows._EventPoller/_windows.py:218]: Stopping worker thread...
+2025-07-28 14:31:33,152 [DEBUG] [Dummy-9] [qasync._windows._EventWorker/_windows.py:201]: Exiting thread
+2025-07-28 14:31:33,153 [DEBUG] [MainThread] [qasync._windows._IocpProactor/_windows.py:75]: Closing
+2025-07-28 14:31:33,524 [INFO] [MainThread] [root/log.py:59]: YASB v1.7.8
+2025-07-28 14:31:33,524 [INFO] [Thread-1 (_run_server)] [cli_server/cli_server.py:212]: CLI server started v1.1.2
+2025-07-28 14:31:33,524 [INFO] [MainThread] [cli_server/cli_server.py:104]: Log pipe server started
+2025-07-28 14:31:33,680 [DEBUG] [MainThread] [tzlocal/win32.py:55]: Looking up time zone info from registry
+2025-07-28 14:31:34,258 [DEBUG] [MainThread] [comtypes/__init__.py:149]: CoInitializeEx(None, 2)
+2025-07-28 14:31:34,411 [INFO] [MainThread] [root/bar_manager.py:74]: Starting WindowsNotificationEventListener...
+2025-07-28 14:31:34,412 [INFO] [MainThread] [root/bar_manager.py:74]: Starting KomorebiEventListener...
+2025-07-28 14:31:34,412 [INFO] [MainThread] [root/bar_manager.py:74]: Starting SystemEventListener...
+2025-07-28 14:31:34,412 [INFO] [MainThread] [root/watcher.py:54]: Created file watcher for path C:\Users\ilyes\.config\yasb
+2025-07-28 14:31:34,487 [INFO] [Dummy-5] [root/event_listener.py:51]: Created named pipe yasb-2e0aa086-6bb7-11f0-93cd-b37ffa5b5965
+2025-07-28 14:31:34,553 [DEBUG] [MainThread] [qasync._windows._EventPoller/_windows.py:213]: Starting (proactor: <_IocpProactor overlapped#=0 result#=0>)...
+2025-07-28 14:31:34,555 [DEBUG] [Dummy-9] [qasync._windows._EventWorker/_windows.py:192]: Thread started
+2025-07-28 14:31:34,637 [INFO] [Dummy-5] [root/event_listener.py:125]: Komorebi connected to named pipe: yasb-2e0aa086-6bb7-11f0-93cd-b37ffa5b5965
+2025-07-28 14:31:35,217 [INFO] [MainThread] [root/weather.py:67]: Fetching new weather data at 2025-07-28 14:31:35.217822
+2025-07-28 14:32:52,178 [INFO] [MainThread] [root/controller.py:15]: Reloading Application because of config change.
+2025-07-28 14:32:52,286 [INFO] [MainThread] [cli_server/cli_server.py:112]: Log pipe server stopped
+2025-07-28 14:32:52,286 [DEBUG] [MainThread] [cli_server/cli_server.py:206]: CLI server stopped
+2025-07-28 14:32:52,386 [INFO] [MainThread] [root/bar_manager.py:65]: Successfully loaded updated config and re-initialised all bars.
+2025-07-28 14:32:52,386 [DEBUG] [MainThread] [qasync._windows._EventPoller/_windows.py:218]: Stopping worker thread...
+2025-07-28 14:32:52,393 [DEBUG] [Dummy-9] [qasync._windows._EventWorker/_windows.py:201]: Exiting thread
+2025-07-28 14:32:52,394 [DEBUG] [MainThread] [qasync._windows._IocpProactor/_windows.py:75]: Closing
+2025-07-28 14:32:52,778 [INFO] [MainThread] [root/log.py:59]: YASB v1.7.8
+2025-07-28 14:32:52,778 [INFO] [Thread-1 (_run_server)] [cli_server/cli_server.py:212]: CLI server started v1.1.2
+2025-07-28 14:32:52,778 [INFO] [MainThread] [cli_server/cli_server.py:104]: Log pipe server started
+2025-07-28 14:32:52,938 [DEBUG] [MainThread] [tzlocal/win32.py:55]: Looking up time zone info from registry
+2025-07-28 14:32:53,525 [DEBUG] [MainThread] [comtypes/__init__.py:149]: CoInitializeEx(None, 2)
+2025-07-28 14:32:53,678 [INFO] [MainThread] [root/bar_manager.py:74]: Starting KomorebiEventListener...
+2025-07-28 14:32:53,678 [INFO] [MainThread] [root/bar_manager.py:74]: Starting WindowsNotificationEventListener...
+2025-07-28 14:32:53,679 [INFO] [MainThread] [root/bar_manager.py:74]: Starting SystemEventListener...
+2025-07-28 14:32:53,679 [INFO] [MainThread] [root/watcher.py:54]: Created file watcher for path C:\Users\ilyes\.config\yasb
+2025-07-28 14:32:53,740 [INFO] [Dummy-5] [root/event_listener.py:51]: Created named pipe yasb-5d49c22d-6bb7-11f0-a67d-b37ffa5b5965
+2025-07-28 14:32:53,810 [DEBUG] [MainThread] [qasync._windows._EventPoller/_windows.py:213]: Starting (proactor: <_IocpProactor overlapped#=0 result#=0>)...
+2025-07-28 14:32:53,814 [DEBUG] [Dummy-9] [qasync._windows._EventWorker/_windows.py:192]: Thread started
+2025-07-28 14:32:53,902 [INFO] [Dummy-5] [root/event_listener.py:125]: Komorebi connected to named pipe: yasb-5d49c22d-6bb7-11f0-a67d-b37ffa5b5965
+2025-07-28 14:32:57,495 [INFO] [MainThread] [root/weather.py:67]: Fetching new weather data at 2025-07-28 14:32:57.495510
+2025-07-28 14:33:10,068 [INFO] [MainThread] [root/controller.py:15]: Reloading Application because of config change.
+2025-07-28 14:33:10,182 [INFO] [MainThread] [cli_server/cli_server.py:112]: Log pipe server stopped
+2025-07-28 14:33:10,182 [DEBUG] [MainThread] [cli_server/cli_server.py:206]: CLI server stopped
+2025-07-28 14:33:10,189 [INFO] [MainThread] [root/bar_manager.py:65]: Successfully loaded updated config and re-initialised all bars.
+2025-07-28 14:33:10,189 [DEBUG] [MainThread] [qasync._windows._EventPoller/_windows.py:218]: Stopping worker thread...
+2025-07-28 14:33:10,198 [DEBUG] [Dummy-9] [qasync._windows._EventWorker/_windows.py:201]: Exiting thread
+2025-07-28 14:33:10,199 [DEBUG] [MainThread] [qasync._windows._IocpProactor/_windows.py:75]: Closing
+2025-07-28 14:33:10,553 [INFO] [MainThread] [root/log.py:59]: YASB v1.7.8
+2025-07-28 14:33:10,553 [INFO] [Thread-1 (_run_server)] [cli_server/cli_server.py:212]: CLI server started v1.1.2
+2025-07-28 14:33:10,553 [INFO] [MainThread] [cli_server/cli_server.py:104]: Log pipe server started
+2025-07-28 14:33:10,710 [DEBUG] [MainThread] [tzlocal/win32.py:55]: Looking up time zone info from registry
+2025-07-28 14:33:11,247 [DEBUG] [MainThread] [comtypes/__init__.py:149]: CoInitializeEx(None, 2)
+2025-07-28 14:33:11,394 [INFO] [MainThread] [root/bar_manager.py:74]: Starting SystemEventListener...
+2025-07-28 14:33:11,394 [INFO] [MainThread] [root/bar_manager.py:74]: Starting KomorebiEventListener...
+2025-07-28 14:33:11,394 [INFO] [MainThread] [root/bar_manager.py:74]: Starting WindowsNotificationEventListener...
+2025-07-28 14:33:11,396 [INFO] [MainThread] [root/watcher.py:54]: Created file watcher for path C:\Users\ilyes\.config\yasb
+2025-07-28 14:33:11,408 [INFO] [Dummy-5] [root/event_listener.py:51]: Created named pipe yasb-67d8f947-6bb7-11f0-8fad-b37ffa5b5965
+2025-07-28 14:33:11,518 [DEBUG] [MainThread] [qasync._windows._EventPoller/_windows.py:213]: Starting (proactor: <_IocpProactor overlapped#=0 result#=0>)...
+2025-07-28 14:33:11,523 [DEBUG] [Dummy-9] [qasync._windows._EventWorker/_windows.py:192]: Thread started
+2025-07-28 14:33:11,584 [INFO] [Dummy-5] [root/event_listener.py:125]: Komorebi connected to named pipe: yasb-67d8f947-6bb7-11f0-8fad-b37ffa5b5965
+2025-07-28 14:33:12,077 [INFO] [MainThread] [root/weather.py:67]: Fetching new weather data at 2025-07-28 14:33:12.077352
+2025-07-28 14:43:11,366 [INFO] [MainThread] [root/weather.py:67]: Fetching new weather data at 2025-07-28 14:43:11.366377
+2025-07-28 14:53:14,439 [INFO] [MainThread] [root/weather.py:67]: Fetching new weather data at 2025-07-28 14:53:14.439844
+2025-07-28 15:02:04,393 [WARNING] [Dummy-5] [root/event_listener.py:82]: Pipe has been ended: (109, 'PeekNamedPipe', 'The pipe has been ended.')
+2025-07-28 15:02:04,393 [INFO] [Dummy-5] [root/event_listener.py:92]: Attempting to reconnect to Komorebi...
+2025-07-28 15:02:07,394 [INFO] [Dummy-5] [root/event_listener.py:51]: Created named pipe yasb-67d8f947-6bb7-11f0-8fad-b37ffa5b5965
+2025-07-28 15:03:14,774 [INFO] [MainThread] [root/weather.py:67]: Fetching new weather data at 2025-07-28 15:03:14.774963
+2025-07-28 15:13:11,350 [INFO] [MainThread] [root/weather.py:67]: Fetching new weather data at 2025-07-28 15:13:11.350584
+2025-07-28 15:23:11,461 [INFO] [MainThread] [root/weather.py:67]: Fetching new weather data at 2025-07-28 15:23:11.461282
+2025-07-28 15:30:06,365 [INFO] [MainThread] [root/controller.py:15]: Reloading Application from tray...
+2025-07-28 15:30:06,475 [INFO] [MainThread] [cli_server/cli_server.py:112]: Log pipe server stopped
+2025-07-28 15:30:06,475 [DEBUG] [MainThread] [cli_server/cli_server.py:206]: CLI server stopped
+2025-07-28 15:30:06,494 [DEBUG] [MainThread] [qasync._windows._EventPoller/_windows.py:218]: Stopping worker thread...
+2025-07-28 15:30:06,507 [DEBUG] [Dummy-9] [qasync._windows._EventWorker/_windows.py:201]: Exiting thread
+2025-07-28 15:30:06,508 [DEBUG] [MainThread] [qasync._windows._IocpProactor/_windows.py:75]: Closing
+2025-07-28 15:30:06,799 [INFO] [MainThread] [root/log.py:59]: YASB v1.7.8
+2025-07-28 15:30:06,800 [INFO] [Thread-1 (_run_server)] [cli_server/cli_server.py:212]: CLI server started v1.1.2
+2025-07-28 15:30:06,800 [INFO] [MainThread] [cli_server/cli_server.py:104]: Log pipe server started
+2025-07-28 15:30:06,943 [DEBUG] [MainThread] [tzlocal/win32.py:55]: Looking up time zone info from registry
+2025-07-28 15:30:07,572 [DEBUG] [MainThread] [comtypes/__init__.py:149]: CoInitializeEx(None, 2)
+2025-07-28 15:30:07,716 [INFO] [MainThread] [root/bar_manager.py:74]: Starting WindowsNotificationEventListener...
+2025-07-28 15:30:07,717 [INFO] [MainThread] [root/bar_manager.py:74]: Starting KomorebiEventListener...
+2025-07-28 15:30:07,717 [INFO] [MainThread] [root/bar_manager.py:74]: Starting SystemEventListener...
+2025-07-28 15:30:07,717 [INFO] [MainThread] [root/watcher.py:54]: Created file watcher for path C:\Users\ilyes\.config\yasb
+2025-07-28 15:30:07,749 [INFO] [Dummy-5] [root/event_listener.py:51]: Created named pipe yasb-5c226ca5-6bbf-11f0-ac44-b37ffa5b5965
+2025-07-28 15:30:07,782 [DEBUG] [MainThread] [qasync._windows._EventPoller/_windows.py:213]: Starting (proactor: <_IocpProactor overlapped#=0 result#=0>)...
+2025-07-28 15:30:07,783 [DEBUG] [Dummy-9] [qasync._windows._EventWorker/_windows.py:192]: Thread started
+2025-07-28 15:30:11,409 [INFO] [MainThread] [root/weather.py:67]: Fetching new weather data at 2025-07-28 15:30:11.409220
+2025-07-28 15:40:10,665 [INFO] [MainThread] [root/weather.py:67]: Fetching new weather data at 2025-07-28 15:40:10.665561
+2025-07-28 15:50:10,667 [INFO] [MainThread] [root/weather.py:67]: Fetching new weather data at 2025-07-28 15:50:10.667985
+2025-07-28 16:00:11,924 [INFO] [MainThread] [root/weather.py:67]: Fetching new weather data at 2025-07-28 16:00:11.924165

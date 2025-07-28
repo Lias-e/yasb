@@ -12,10 +12,10 @@ bars:
     class_name: "yasb-bar"
     alignment:
       position: "top"
-      center: false
+      center: true
     animation:
       enabled: true
-      duration: 1000
+      duration: 400
     blur_effect:
       enabled: false 
       acrylic: true 
@@ -37,7 +37,6 @@ bars:
         "home",
         "komorebi_workspaces",
         "active_window",
-        "media",
       ]
       center: [
         "clock"
@@ -46,9 +45,11 @@ bars:
         "cpu",
         "memory",
         "weather",
+        "whkd",
         "brightness",
         "volume",
         "language",
+        "wallpapers",
         "notifications",
         "power_menu"
         ]
@@ -91,7 +92,7 @@ widgets:
     type: "yasb.language.LanguageWidget"
     options:
       label: "<span>\uf11c</span>{lang[country_code]}"
-      update_interval: 5
+      update_interval: 1
       callbacks:
         on_left: "do_nothing"
         on_middle: "do_nothing"
@@ -166,10 +167,9 @@ widgets:
     type: "yasb.active_window.ActiveWindowWidget"
     options:
       label: "{win[title]}"
-      label_alt: "[class_name='{win[class_name]}' exe='{win[process][name]}' hwnd={win[hwnd]}]"
       label_no_window: ""
       label_icon: true
-      label_icon_size: 14
+      label_icon_size: 16
       max_length: 32
       max_length_ellipsis: "..."
       monitor_exclusive: false 
@@ -310,14 +310,12 @@ widgets:
     type: "yasb.weather.WeatherWidget"
     options:
       label: "<span>{icon}</span> {temp}"
-      label_alt: "{location}: Min {min_temp}, Max {max_temp}, Humidity {humidity}"
       api_key: "b080f501a5fe475b933124007251907"
       update_interval: 600
       hide_decimal: true
       location: "Setif"
       callbacks:
         on_left: "toggle_card"
-        on_right: "toggle_label"
       icons:
         sunnyDay: "\udb81\udd99"
         clearNight: "\U0001F319"
@@ -457,6 +455,34 @@ widgets:
         left: 8
         bottom: 0
         right: 8
+      label_shadow:
+        enabled: true
+        color: "black"
+        radius: 3
+        offset: [ 1, 1 ]
+  wallpapers:
+    type: "yasb.wallpapers.WallpapersWidget"
+    options:
+      label: "<span>\udb83\ude09</span>"
+      image_path: "C:\\Users\\ilyes\\صور\\wallpapers" # Example path to folder with images
+      change_automatically: false # Automatically change wallpaper
+      update_interval: 60 # If change_automatically is true, update interval in seconds
+      gallery:
+          enabled: true
+          blur: true
+          image_width: 220
+          image_per_page: 8
+          show_buttons: false
+          orientation: "portrait"
+          image_spacing: 8
+          lazy_load: true
+          lazy_load_delay: 80
+          lazy_load_fadein: 400
+          image_corner_radius: 20
+          enable_cache: true
+      run_after: # List of functions to run after wallpaper is updated
+        - "wal -s -t -e -q -n -i {image}" # Example command to run after wallpaper is updated
+        - "cmd.exe /c start /min pwsh ./yasb.ps1" # Example command to run after wallpaper is updated
       label_shadow:
         enabled: true
         color: "black"
