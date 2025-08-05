@@ -424,10 +424,11 @@ widgets:
   brightness:
     type: "yasb.brightness.BrightnessWidget"
     options:
-      label: "<span>{icon}</span>"
+      label: "<span>{icon}</span> {percent}%"
       label_alt: "Brightness {percent}%"
       callbacks:
         on_right: "toggle_level_prev"
+        on_left: "toggle_level_next"
       tooltip: true
       hide_unsupported: true
       brightness_toggle_level: [0,25, 50 ,75 , 100]
@@ -443,23 +444,11 @@ widgets:
         "\udb80\udcdf",  # Icon for 51-75% brightness
         "\udb80\udce0"   # Icon for 76-100% brightness
       ]
-      brightness_menu:
-        blur: true
-        round_corners: true
-        round_corners_type: "normal"
-        border_color: "System"
-        alignment: "right"
-        direction: "down"
       container_padding:
         top: 0
         left: 8
         bottom: 0
         right: 8
-      label_shadow:
-        enabled: true
-        color: "black"
-        radius: 3
-        offset: [ 1, 1 ]
   wallpapers:
     type: "yasb.wallpapers.WallpapersWidget"
     options:
@@ -482,7 +471,6 @@ widgets:
           enable_cache: true
       run_after: # List of functions to run after wallpaper is updated
         - "wal -s -t -e -q -n -i {image}" # Example command to run after wallpaper is updated
-        - "cmd.exe /c start /min pwsh ./yasb.ps1" # Example command to run after wallpaper is updated
       label_shadow:
         enabled: true
         color: "black"

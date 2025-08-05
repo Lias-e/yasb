@@ -2570,3 +2570,925 @@ operable program or batch file.
 2025-07-30 16:04:09,525 [INFO] [MainThread] [root/weather.py:67]: Fetching new weather data at 2025-07-30 16:04:09.525667
 2025-07-30 16:14:06,510 [INFO] [MainThread] [root/weather.py:67]: Fetching new weather data at 2025-07-30 16:14:06.510410
 2025-07-30 16:24:06,493 [INFO] [MainThread] [root/weather.py:67]: Fetching new weather data at 2025-07-30 16:24:06.493243
+2025-07-30 16:34:06,481 [INFO] [MainThread] [root/weather.py:67]: Fetching new weather data at 2025-07-30 16:34:06.481874
+2025-07-30 16:44:06,514 [INFO] [MainThread] [root/weather.py:67]: Fetching new weather data at 2025-07-30 16:44:06.514206
+2025-07-30 16:54:06,469 [INFO] [MainThread] [root/weather.py:67]: Fetching new weather data at 2025-07-30 16:54:06.469883
+2025-07-30 17:04:06,602 [INFO] [MainThread] [root/weather.py:67]: Fetching new weather data at 2025-07-30 17:04:06.602540
+2025-07-30 17:14:06,460 [INFO] [MainThread] [root/weather.py:67]: Fetching new weather data at 2025-07-30 17:14:06.460372
+2025-07-30 17:24:06,469 [INFO] [MainThread] [root/weather.py:67]: Fetching new weather data at 2025-07-30 17:24:06.469014
+2025-07-30 17:34:06,441 [INFO] [MainThread] [root/weather.py:67]: Fetching new weather data at 2025-07-30 17:34:06.441325
+2025-07-30 17:44:06,443 [INFO] [MainThread] [root/weather.py:67]: Fetching new weather data at 2025-07-30 17:44:06.443863
+2025-07-30 17:54:06,429 [INFO] [MainThread] [root/weather.py:67]: Fetching new weather data at 2025-07-30 17:54:06.429328
+2025-07-30 17:56:48,248 [WARNING] [Dummy-5] [root/event_listener.py:82]: Pipe has been ended: (109, 'PeekNamedPipe', 'The pipe has been ended.')
+2025-07-30 17:56:48,251 [INFO] [Dummy-5] [root/event_listener.py:92]: Attempting to reconnect to Komorebi...
+2025-07-30 17:56:51,255 [INFO] [Dummy-5] [root/event_listener.py:51]: Created named pipe yasb-acff6093-6d45-11f0-8038-00155d9d3a7c
+2025-07-30 17:58:07,238 [INFO] [MainThread] [root/controller.py:15]: Reloading Application from tray...
+2025-07-30 17:58:07,341 [INFO] [MainThread] [cli_server/cli_server.py:112]: Log pipe server stopped
+2025-07-30 17:58:07,341 [DEBUG] [MainThread] [cli_server/cli_server.py:206]: CLI server stopped
+2025-07-30 17:58:07,380 [DEBUG] [MainThread] [qasync._windows._EventPoller/_windows.py:218]: Stopping worker thread...
+2025-07-30 17:58:07,387 [DEBUG] [Dummy-9] [qasync._windows._EventWorker/_windows.py:201]: Exiting thread
+2025-07-30 17:58:07,417 [DEBUG] [MainThread] [qasync._windows._IocpProactor/_windows.py:75]: Closing
+2025-07-30 17:58:07,480 [ERROR] [Dummy-24] [root/event_service.py:32]: Failed to emit signal <bound PYQT_SIGNAL window_name_change of ActiveWindowWidget object at 0x00000232D45CA990>. Removing link to WinEvent.EventObjectNameChange.
+2025-07-30 17:58:07,740 [INFO] [MainThread] [root/log.py:59]: YASB v1.7.8
+2025-07-30 17:58:07,741 [INFO] [Thread-1 (_run_server)] [cli_server/cli_server.py:212]: CLI server started v1.1.2
+2025-07-30 17:58:07,741 [INFO] [MainThread] [cli_server/cli_server.py:104]: Log pipe server started
+2025-07-30 17:58:07,888 [DEBUG] [MainThread] [tzlocal/win32.py:55]: Looking up time zone info from registry
+2025-07-30 17:58:08,454 [DEBUG] [MainThread] [comtypes/__init__.py:149]: CoInitializeEx(None, 2)
+2025-07-30 17:58:08,615 [INFO] [MainThread] [root/bar_manager.py:74]: Starting KomorebiEventListener...
+2025-07-30 17:58:08,616 [INFO] [MainThread] [root/bar_manager.py:74]: Starting WindowsNotificationEventListener...
+2025-07-30 17:58:08,617 [INFO] [MainThread] [root/bar_manager.py:74]: Starting SystemEventListener...
+2025-07-30 17:58:08,617 [INFO] [MainThread] [root/watcher.py:54]: Created file watcher for path C:\Users\ilyes\.config\yasb
+2025-07-30 17:58:08,618 [INFO] [Dummy-5] [root/event_listener.py:51]: Created named pipe yasb-5e63adb5-6d66-11f0-aa26-00155d9d3a7c
+2025-07-30 17:58:08,741 [INFO] [Dummy-5] [root/event_listener.py:125]: Komorebi connected to named pipe: yasb-5e63adb5-6d66-11f0-aa26-00155d9d3a7c
+2025-07-30 17:58:08,774 [DEBUG] [MainThread] [qasync._windows._EventPoller/_windows.py:213]: Starting (proactor: <_IocpProactor overlapped#=0 result#=0>)...
+2025-07-30 17:58:08,775 [DEBUG] [Dummy-9] [qasync._windows._EventWorker/_windows.py:192]: Thread started
+2025-07-30 17:58:09,453 [INFO] [MainThread] [root/weather.py:67]: Fetching new weather data at 2025-07-30 17:58:09.453925
+2025-07-30 17:59:10,567 [INFO] [MainThread] [root/controller.py:15]: Reloading Application from tray...
+2025-07-30 17:59:10,670 [INFO] [MainThread] [cli_server/cli_server.py:112]: Log pipe server stopped
+2025-07-30 17:59:10,670 [DEBUG] [MainThread] [cli_server/cli_server.py:206]: CLI server stopped
+2025-07-30 17:59:10,693 [DEBUG] [MainThread] [qasync._windows._EventPoller/_windows.py:218]: Stopping worker thread...
+2025-07-30 17:59:10,702 [DEBUG] [Dummy-9] [qasync._windows._EventWorker/_windows.py:201]: Exiting thread
+2025-07-30 17:59:10,702 [DEBUG] [MainThread] [qasync._windows._IocpProactor/_windows.py:75]: Closing
+2025-07-30 17:59:10,973 [INFO] [MainThread] [root/log.py:59]: YASB v1.7.8
+2025-07-30 17:59:10,974 [INFO] [Thread-1 (_run_server)] [cli_server/cli_server.py:212]: CLI server started v1.1.2
+2025-07-30 17:59:10,974 [INFO] [MainThread] [cli_server/cli_server.py:104]: Log pipe server started
+2025-07-30 17:59:11,117 [DEBUG] [MainThread] [tzlocal/win32.py:55]: Looking up time zone info from registry
+2025-07-30 17:59:11,676 [DEBUG] [MainThread] [comtypes/__init__.py:149]: CoInitializeEx(None, 2)
+2025-07-30 17:59:11,849 [INFO] [MainThread] [root/bar_manager.py:74]: Starting KomorebiEventListener...
+2025-07-30 17:59:11,851 [INFO] [MainThread] [root/bar_manager.py:74]: Starting WindowsNotificationEventListener...
+2025-07-30 17:59:11,852 [INFO] [MainThread] [root/bar_manager.py:74]: Starting SystemEventListener...
+2025-07-30 17:59:11,852 [INFO] [MainThread] [root/watcher.py:54]: Created file watcher for path C:\Users\ilyes\.config\yasb
+2025-07-30 17:59:11,869 [INFO] [Dummy-5] [root/event_listener.py:51]: Created named pipe yasb-8414614e-6d66-11f0-ac80-00155d9d3a7c
+2025-07-30 17:59:12,025 [DEBUG] [MainThread] [qasync._windows._EventPoller/_windows.py:213]: Starting (proactor: <_IocpProactor overlapped#=0 result#=0>)...
+2025-07-30 17:59:12,027 [DEBUG] [Dummy-9] [qasync._windows._EventWorker/_windows.py:192]: Thread started
+2025-07-30 17:59:12,072 [INFO] [Dummy-5] [root/event_listener.py:125]: Komorebi connected to named pipe: yasb-8414614e-6d66-11f0-ac80-00155d9d3a7c
+2025-07-30 17:59:12,685 [INFO] [MainThread] [root/weather.py:67]: Fetching new weather data at 2025-07-30 17:59:12.685501
+2025-07-30 18:09:11,847 [INFO] [MainThread] [root/weather.py:67]: Fetching new weather data at 2025-07-30 18:09:11.847547
+2025-07-30 18:19:14,990 [INFO] [MainThread] [root/weather.py:67]: Fetching new weather data at 2025-07-30 18:19:14.990670
+2025-07-30 18:29:14,924 [INFO] [MainThread] [root/weather.py:67]: Fetching new weather data at 2025-07-30 18:29:14.924481
+2025-07-30 18:39:11,847 [INFO] [MainThread] [root/weather.py:67]: Fetching new weather data at 2025-07-30 18:39:11.847379
+2025-07-30 18:49:11,814 [INFO] [MainThread] [root/weather.py:67]: Fetching new weather data at 2025-07-30 18:49:11.814748
+2025-07-30 18:59:12,052 [INFO] [MainThread] [root/weather.py:67]: Fetching new weather data at 2025-07-30 18:59:12.052487
+2025-07-30 19:09:14,821 [INFO] [MainThread] [root/weather.py:67]: Fetching new weather data at 2025-07-30 19:09:14.821148
+2025-07-30 19:19:14,797 [INFO] [MainThread] [root/weather.py:67]: Fetching new weather data at 2025-07-30 19:19:14.797811
+2025-07-30 19:29:14,941 [INFO] [MainThread] [root/weather.py:67]: Fetching new weather data at 2025-07-30 19:29:14.941710
+2025-07-30 19:39:11,805 [INFO] [MainThread] [root/weather.py:67]: Fetching new weather data at 2025-07-30 19:39:11.805544
+2025-07-30 19:49:11,811 [INFO] [MainThread] [root/weather.py:67]: Fetching new weather data at 2025-07-30 19:49:11.811452
+2025-07-30 19:59:14,793 [INFO] [MainThread] [root/weather.py:67]: Fetching new weather data at 2025-07-30 19:59:14.793902
+2025-07-30 20:09:11,808 [INFO] [MainThread] [root/weather.py:67]: Fetching new weather data at 2025-07-30 20:09:11.808903
+2025-07-30 20:19:14,803 [INFO] [MainThread] [root/weather.py:67]: Fetching new weather data at 2025-07-30 20:19:14.802292
+2025-07-30 20:29:11,801 [INFO] [MainThread] [root/weather.py:67]: Fetching new weather data at 2025-07-30 20:29:11.801095
+2025-07-30 20:39:11,837 [INFO] [MainThread] [root/weather.py:67]: Fetching new weather data at 2025-07-30 20:39:11.837446
+2025-07-30 20:49:15,049 [INFO] [MainThread] [root/weather.py:67]: Fetching new weather data at 2025-07-30 20:49:15.049308
+2025-07-30 20:59:14,854 [INFO] [MainThread] [root/weather.py:67]: Fetching new weather data at 2025-07-30 20:59:14.854327
+2025-07-30 21:09:14,889 [INFO] [MainThread] [root/weather.py:67]: Fetching new weather data at 2025-07-30 21:09:14.889476
+2025-07-30 21:19:19,022 [INFO] [MainThread] [root/weather.py:67]: Fetching new weather data at 2025-07-30 21:19:19.022183
+2025-07-30 21:29:11,831 [INFO] [MainThread] [root/weather.py:67]: Fetching new weather data at 2025-07-30 21:29:11.830453
+2025-07-30 21:39:11,914 [INFO] [MainThread] [root/weather.py:67]: Fetching new weather data at 2025-07-30 21:39:11.914698
+2025-07-30 21:49:14,840 [INFO] [MainThread] [root/weather.py:67]: Fetching new weather data at 2025-07-30 21:49:14.840205
+2025-07-30 21:59:11,821 [INFO] [MainThread] [root/weather.py:67]: Fetching new weather data at 2025-07-30 21:59:11.821517
+2025-07-30 22:09:11,792 [INFO] [MainThread] [root/weather.py:67]: Fetching new weather data at 2025-07-30 22:09:11.792545
+2025-07-30 22:19:19,096 [INFO] [MainThread] [root/weather.py:67]: Fetching new weather data at 2025-07-30 22:19:19.096950
+2025-07-30 22:29:15,243 [INFO] [MainThread] [root/weather.py:67]: Fetching new weather data at 2025-07-30 22:29:15.243965
+2025-07-30 22:39:22,849 [ERROR] [MainThread] [root/weather.py:77]: Weather response error: HostNotFoundError 3.
+2025-07-30 22:39:22,850 [WARNING] [MainThread] [root/weather.py:544]: Error processing weather data: Weather data is empty.. Retrying fetch in 10 seconds.
+2025-07-30 22:39:40,481 [INFO] [MainThread] [root/weather.py:67]: Fetching new weather data at 2025-07-30 22:39:40.481452
+2025-07-30 22:49:15,237 [INFO] [MainThread] [root/weather.py:67]: Fetching new weather data at 2025-07-30 22:49:15.237471
+2025-07-30 22:59:11,980 [INFO] [MainThread] [root/weather.py:67]: Fetching new weather data at 2025-07-30 22:59:11.980793
+2025-07-30 23:09:11,968 [INFO] [MainThread] [root/weather.py:67]: Fetching new weather data at 2025-07-30 23:09:11.967789
+2025-07-30 23:19:12,004 [INFO] [MainThread] [root/weather.py:67]: Fetching new weather data at 2025-07-30 23:19:12.004908
+2025-07-30 23:29:15,611 [INFO] [MainThread] [root/weather.py:67]: Fetching new weather data at 2025-07-30 23:29:15.611915
+2025-07-30 23:32:24,080 [WARNING] [Dummy-5] [root/event_listener.py:82]: Pipe has been ended: (109, 'PeekNamedPipe', 'The pipe has been ended.')
+2025-07-30 23:32:24,088 [INFO] [Dummy-5] [root/event_listener.py:92]: Attempting to reconnect to Komorebi...
+2025-07-31 15:20:14,642 [INFO] [MainThread] [root/log.py:59]: YASB v1.7.8
+2025-07-31 15:20:14,643 [INFO] [Thread-1 (_run_server)] [cli_server/cli_server.py:212]: CLI server started v1.1.2
+2025-07-31 15:20:14,643 [INFO] [MainThread] [cli_server/cli_server.py:104]: Log pipe server started
+2025-07-31 15:20:15,255 [DEBUG] [MainThread] [tzlocal/win32.py:55]: Looking up time zone info from registry
+2025-07-31 15:20:18,065 [DEBUG] [MainThread] [comtypes/__init__.py:149]: CoInitializeEx(None, 2)
+2025-07-31 15:20:18,561 [INFO] [MainThread] [root/bar_manager.py:74]: Starting WindowsNotificationEventListener...
+2025-07-31 15:20:18,562 [INFO] [MainThread] [root/bar_manager.py:74]: Starting SystemEventListener...
+2025-07-31 15:20:18,563 [INFO] [MainThread] [root/bar_manager.py:74]: Starting KomorebiEventListener...
+2025-07-31 15:20:18,563 [INFO] [MainThread] [root/watcher.py:54]: Created file watcher for path C:\Users\ilyes\.config\yasb
+2025-07-31 15:20:18,611 [INFO] [Dummy-5] [root/event_listener.py:51]: Created named pipe yasb-7c35eef9-6e19-11f0-9ade-00155d9d3a7c
+2025-07-31 15:20:18,647 [DEBUG] [MainThread] [qasync._windows._EventPoller/_windows.py:213]: Starting (proactor: <_IocpProactor overlapped#=0 result#=0>)...
+2025-07-31 15:20:18,648 [DEBUG] [Dummy-9] [qasync._windows._EventWorker/_windows.py:192]: Thread started
+2025-07-31 15:20:22,421 [INFO] [MainThread] [root/weather.py:67]: Fetching new weather data at 2025-07-31 15:20:22.421766
+2025-07-31 15:20:23,823 [INFO] [Dummy-5] [root/event_listener.py:125]: Komorebi connected to named pipe: yasb-7c35eef9-6e19-11f0-9ade-00155d9d3a7c
+2025-07-31 15:20:29,988 [WARNING] [Thread-6 (check_for_update)] [root/update_check.py:50]: UpdateCheckService Failed to check for updates: Network error.
+2025-07-31 15:30:25,939 [INFO] [MainThread] [root/weather.py:67]: Fetching new weather data at 2025-07-31 15:30:25.939934
+2025-07-31 15:40:17,760 [ERROR] [MainThread] [root/weather.py:77]: Weather response error: HostNotFoundError 3.
+2025-07-31 15:40:17,760 [WARNING] [MainThread] [root/weather.py:544]: Error processing weather data: Weather data is empty.. Retrying fetch in 10 seconds.
+2025-07-31 15:40:27,764 [ERROR] [MainThread] [root/weather.py:77]: Weather response error: HostNotFoundError 3.
+2025-07-31 15:40:27,764 [WARNING] [MainThread] [root/weather.py:544]: Error processing weather data: Weather data is empty.. Retrying fetch in 10 seconds.
+2025-07-31 15:40:37,763 [ERROR] [MainThread] [root/weather.py:77]: Weather response error: HostNotFoundError 3.
+2025-07-31 15:40:37,763 [WARNING] [MainThread] [root/weather.py:544]: Error processing weather data: Weather data is empty.. Retrying fetch in 10 seconds.
+2025-07-31 15:40:59,802 [ERROR] [MainThread] [root/weather.py:77]: Weather response error: HostNotFoundError 3.
+2025-07-31 15:40:59,802 [WARNING] [MainThread] [root/weather.py:544]: Error processing weather data: Weather data is empty.. Retrying fetch in 10 seconds.
+2025-07-31 15:41:21,833 [ERROR] [MainThread] [root/weather.py:77]: Weather response error: HostNotFoundError 3.
+2025-07-31 15:41:21,834 [WARNING] [MainThread] [root/weather.py:544]: Error processing weather data: Weather data is empty.. Retrying fetch in 10 seconds.
+2025-07-31 15:41:43,870 [ERROR] [MainThread] [root/weather.py:77]: Weather response error: HostNotFoundError 3.
+2025-07-31 15:41:43,870 [WARNING] [MainThread] [root/weather.py:544]: Error processing weather data: Weather data is empty.. Retrying fetch in 10 seconds.
+2025-07-31 15:42:05,925 [ERROR] [MainThread] [root/weather.py:77]: Weather response error: HostNotFoundError 3.
+2025-07-31 15:42:05,925 [WARNING] [MainThread] [root/weather.py:544]: Error processing weather data: Weather data is empty.. Retrying fetch in 10 seconds.
+2025-07-31 15:42:27,970 [ERROR] [MainThread] [root/weather.py:77]: Weather response error: HostNotFoundError 3.
+2025-07-31 15:42:27,971 [WARNING] [MainThread] [root/weather.py:544]: Error processing weather data: Weather data is empty.. Retrying fetch in 10 seconds.
+2025-07-31 15:42:50,021 [ERROR] [MainThread] [root/weather.py:77]: Weather response error: HostNotFoundError 3.
+2025-07-31 15:42:50,021 [WARNING] [MainThread] [root/weather.py:544]: Error processing weather data: Weather data is empty.. Retrying fetch in 10 seconds.
+2025-07-31 15:43:11,655 [ERROR] [MainThread] [root/weather.py:77]: Weather response error: HostNotFoundError 3.
+2025-07-31 15:43:11,655 [WARNING] [MainThread] [root/weather.py:544]: Error processing weather data: Weather data is empty.. Retrying fetch in 10 seconds.
+2025-07-31 15:43:35,315 [ERROR] [MainThread] [root/weather.py:77]: Weather response error: HostNotFoundError 3.
+2025-07-31 15:43:35,315 [WARNING] [MainThread] [root/weather.py:544]: Error processing weather data: Weather data is empty.. Retrying fetch in 10 seconds.
+2025-07-31 15:43:57,345 [ERROR] [MainThread] [root/weather.py:77]: Weather response error: HostNotFoundError 3.
+2025-07-31 15:43:57,345 [WARNING] [MainThread] [root/weather.py:544]: Error processing weather data: Weather data is empty.. Retrying fetch in 10 seconds.
+2025-07-31 15:44:19,378 [ERROR] [MainThread] [root/weather.py:77]: Weather response error: HostNotFoundError 3.
+2025-07-31 15:44:19,379 [WARNING] [MainThread] [root/weather.py:544]: Error processing weather data: Weather data is empty.. Retrying fetch in 10 seconds.
+2025-07-31 15:44:41,413 [ERROR] [MainThread] [root/weather.py:77]: Weather response error: HostNotFoundError 3.
+2025-07-31 15:44:41,414 [WARNING] [MainThread] [root/weather.py:544]: Error processing weather data: Weather data is empty.. Retrying fetch in 10 seconds.
+2025-07-31 15:45:03,446 [ERROR] [MainThread] [root/weather.py:77]: Weather response error: HostNotFoundError 3.
+2025-07-31 15:45:03,446 [WARNING] [MainThread] [root/weather.py:544]: Error processing weather data: Weather data is empty.. Retrying fetch in 10 seconds.
+2025-07-31 15:45:25,475 [ERROR] [MainThread] [root/weather.py:77]: Weather response error: HostNotFoundError 3.
+2025-07-31 15:45:25,475 [WARNING] [MainThread] [root/weather.py:544]: Error processing weather data: Weather data is empty.. Retrying fetch in 10 seconds.
+2025-07-31 15:45:47,520 [ERROR] [MainThread] [root/weather.py:77]: Weather response error: HostNotFoundError 3.
+2025-07-31 15:45:47,520 [WARNING] [MainThread] [root/weather.py:544]: Error processing weather data: Weather data is empty.. Retrying fetch in 10 seconds.
+2025-07-31 15:45:57,802 [INFO] [MainThread] [root/weather.py:67]: Fetching new weather data at 2025-07-31 15:45:57.802592
+2025-07-31 15:50:29,791 [ERROR] [MainThread] [root/weather.py:77]: Weather response error: HostNotFoundError 3.
+2025-07-31 15:50:29,791 [WARNING] [MainThread] [root/weather.py:544]: Error processing weather data: Weather data is empty.. Retrying fetch in 10 seconds.
+2025-07-31 15:50:44,295 [INFO] [MainThread] [root/weather.py:67]: Fetching new weather data at 2025-07-31 15:50:44.295468
+2025-07-31 16:00:18,972 [INFO] [MainThread] [root/weather.py:67]: Fetching new weather data at 2025-07-31 16:00:18.972940
+2025-07-31 16:10:22,176 [INFO] [MainThread] [root/weather.py:67]: Fetching new weather data at 2025-07-31 16:10:22.176874
+2025-07-31 16:20:29,819 [ERROR] [MainThread] [root/weather.py:77]: Weather response error: HostNotFoundError 3.
+2025-07-31 16:20:29,820 [WARNING] [MainThread] [root/weather.py:544]: Error processing weather data: Weather data is empty.. Retrying fetch in 10 seconds.
+2025-07-31 16:20:41,096 [INFO] [MainThread] [root/weather.py:67]: Fetching new weather data at 2025-07-31 16:20:41.096021
+2025-07-31 16:30:18,962 [INFO] [MainThread] [root/weather.py:67]: Fetching new weather data at 2025-07-31 16:30:18.962955
+2025-07-31 16:40:19,025 [INFO] [MainThread] [root/weather.py:67]: Fetching new weather data at 2025-07-31 16:40:19.025886
+2025-07-31 16:50:18,677 [INFO] [MainThread] [root/weather.py:67]: Fetching new weather data at 2025-07-31 16:50:18.677638
+2025-07-31 16:52:55,363 [WARNING] [Dummy-5] [root/event_listener.py:82]: Pipe has been ended: (109, 'PeekNamedPipe', 'The pipe has been ended.')
+2025-07-31 16:52:55,363 [INFO] [Dummy-5] [root/event_listener.py:92]: Attempting to reconnect to Komorebi...
+2025-07-31 16:52:58,365 [INFO] [Dummy-5] [root/event_listener.py:51]: Created named pipe yasb-7c35eef9-6e19-11f0-9ade-00155d9d3a7c
+2025-07-31 16:52:58,432 [INFO] [Dummy-5] [root/event_listener.py:125]: Komorebi connected to named pipe: yasb-7c35eef9-6e19-11f0-9ade-00155d9d3a7c
+2025-07-31 17:00:18,443 [INFO] [MainThread] [root/weather.py:67]: Fetching new weather data at 2025-07-31 17:00:18.443538
+2025-07-31 17:10:18,384 [INFO] [MainThread] [root/weather.py:67]: Fetching new weather data at 2025-07-31 17:10:18.384643
+2025-07-31 17:20:18,316 [INFO] [MainThread] [root/weather.py:67]: Fetching new weather data at 2025-07-31 17:20:18.316629
+2025-07-31 17:30:18,258 [INFO] [MainThread] [root/weather.py:67]: Fetching new weather data at 2025-07-31 17:30:18.258695
+2025-07-31 17:40:18,171 [INFO] [MainThread] [root/weather.py:67]: Fetching new weather data at 2025-07-31 17:40:18.171489
+2025-07-31 17:50:18,125 [INFO] [MainThread] [root/weather.py:67]: Fetching new weather data at 2025-07-31 17:50:18.125443
+2025-07-31 18:00:21,158 [INFO] [MainThread] [root/weather.py:67]: Fetching new weather data at 2025-07-31 18:00:21.158080
+2025-07-31 18:10:18,193 [INFO] [MainThread] [root/weather.py:67]: Fetching new weather data at 2025-07-31 18:10:18.193796
+2025-07-31 18:20:18,158 [INFO] [MainThread] [root/weather.py:67]: Fetching new weather data at 2025-07-31 18:20:18.158721
+2025-07-31 18:30:18,132 [INFO] [MainThread] [root/weather.py:67]: Fetching new weather data at 2025-07-31 18:30:18.132479
+2025-07-31 18:40:21,139 [INFO] [MainThread] [root/weather.py:67]: Fetching new weather data at 2025-07-31 18:40:21.139291
+2025-07-31 18:50:21,159 [INFO] [MainThread] [root/weather.py:67]: Fetching new weather data at 2025-07-31 18:50:21.159703
+2025-07-31 19:00:21,147 [INFO] [MainThread] [root/weather.py:67]: Fetching new weather data at 2025-07-31 19:00:21.147146
+2025-07-31 19:10:21,126 [INFO] [MainThread] [root/weather.py:67]: Fetching new weather data at 2025-07-31 19:10:21.126986
+2025-07-31 19:20:22,280 [INFO] [MainThread] [root/weather.py:67]: Fetching new weather data at 2025-07-31 19:20:22.280880
+2025-07-31 19:30:21,148 [INFO] [MainThread] [root/weather.py:67]: Fetching new weather data at 2025-07-31 19:30:21.148047
+2025-07-31 19:40:21,167 [INFO] [MainThread] [root/weather.py:67]: Fetching new weather data at 2025-07-31 19:40:21.167071
+2025-07-31 19:50:21,147 [INFO] [MainThread] [root/weather.py:67]: Fetching new weather data at 2025-07-31 19:50:21.147407
+2025-07-31 20:00:25,190 [INFO] [MainThread] [root/weather.py:67]: Fetching new weather data at 2025-07-31 20:00:25.190598
+2025-07-31 20:10:21,162 [INFO] [MainThread] [root/weather.py:67]: Fetching new weather data at 2025-07-31 20:10:21.162569
+2025-07-31 20:20:21,293 [INFO] [MainThread] [root/weather.py:67]: Fetching new weather data at 2025-07-31 20:20:21.293073
+2025-07-31 20:30:21,166 [INFO] [MainThread] [root/weather.py:67]: Fetching new weather data at 2025-07-31 20:30:21.166794
+2025-07-31 20:40:21,168 [INFO] [MainThread] [root/weather.py:67]: Fetching new weather data at 2025-07-31 20:40:21.168148
+2025-07-31 20:50:21,171 [INFO] [MainThread] [root/weather.py:67]: Fetching new weather data at 2025-07-31 20:50:21.171896
+2025-07-31 21:00:21,204 [INFO] [MainThread] [root/weather.py:67]: Fetching new weather data at 2025-07-31 21:00:21.204428
+2025-07-31 21:10:21,330 [INFO] [MainThread] [root/weather.py:67]: Fetching new weather data at 2025-07-31 21:10:21.327496
+2025-07-31 21:20:21,174 [INFO] [MainThread] [root/weather.py:67]: Fetching new weather data at 2025-07-31 21:20:21.174624
+2025-07-31 21:30:21,185 [INFO] [MainThread] [root/weather.py:67]: Fetching new weather data at 2025-07-31 21:30:21.185818
+2025-07-31 21:40:21,171 [INFO] [MainThread] [root/weather.py:67]: Fetching new weather data at 2025-07-31 21:40:21.171923
+2025-07-31 21:50:21,180 [INFO] [MainThread] [root/weather.py:67]: Fetching new weather data at 2025-07-31 21:50:21.180001
+2025-07-31 22:00:09,169 [WARNING] [Dummy-5] [root/event_listener.py:82]: Pipe has been ended: (109, 'PeekNamedPipe', 'The pipe has been ended.')
+2025-07-31 22:00:09,201 [INFO] [Dummy-5] [root/event_listener.py:92]: Attempting to reconnect to Komorebi...
+2025-07-31 22:07:36,219 [INFO] [MainThread] [root/log.py:59]: YASB v1.7.8
+2025-07-31 22:07:36,220 [INFO] [Thread-1 (_run_server)] [cli_server/cli_server.py:212]: CLI server started v1.1.2
+2025-07-31 22:07:36,220 [INFO] [MainThread] [cli_server/cli_server.py:104]: Log pipe server started
+2025-07-31 22:07:37,127 [DEBUG] [MainThread] [tzlocal/win32.py:55]: Looking up time zone info from registry
+2025-07-31 22:07:41,130 [DEBUG] [MainThread] [comtypes/__init__.py:149]: CoInitializeEx(None, 2)
+2025-07-31 22:07:41,983 [INFO] [MainThread] [root/bar_manager.py:74]: Starting SystemEventListener...
+2025-07-31 22:07:41,984 [INFO] [MainThread] [root/bar_manager.py:74]: Starting KomorebiEventListener...
+2025-07-31 22:07:41,984 [INFO] [MainThread] [root/bar_manager.py:74]: Starting WindowsNotificationEventListener...
+2025-07-31 22:07:41,985 [INFO] [Dummy-3] [root/event_listener.py:51]: Created named pipe yasb-65a015b4-6e52-11f0-9f2e-00155d9d3a7c
+2025-07-31 22:07:41,987 [INFO] [MainThread] [root/watcher.py:54]: Created file watcher for path C:\Users\ilyes\.config\yasb
+2025-07-31 22:07:42,128 [DEBUG] [MainThread] [qasync._windows._EventPoller/_windows.py:213]: Starting (proactor: <_IocpProactor overlapped#=0 result#=0>)...
+2025-07-31 22:07:42,130 [DEBUG] [Dummy-9] [qasync._windows._EventWorker/_windows.py:192]: Thread started
+2025-07-31 22:07:47,019 [INFO] [MainThread] [root/weather.py:67]: Fetching new weather data at 2025-07-31 22:07:47.019307
+2025-07-31 22:07:52,327 [INFO] [Dummy-3] [root/event_listener.py:125]: Komorebi connected to named pipe: yasb-65a015b4-6e52-11f0-9f2e-00155d9d3a7c
+2025-08-01 17:00:57,619 [INFO] [MainThread] [root/log.py:59]: YASB v1.7.8
+2025-08-01 17:00:57,620 [INFO] [Thread-1 (_run_server)] [cli_server/cli_server.py:212]: CLI server started v1.1.2
+2025-08-01 17:00:57,620 [INFO] [MainThread] [cli_server/cli_server.py:104]: Log pipe server started
+2025-08-01 17:00:58,280 [DEBUG] [MainThread] [tzlocal/win32.py:55]: Looking up time zone info from registry
+2025-08-01 17:01:01,470 [DEBUG] [MainThread] [comtypes/__init__.py:149]: CoInitializeEx(None, 2)
+2025-08-01 17:01:02,113 [INFO] [MainThread] [root/bar_manager.py:74]: Starting WindowsNotificationEventListener...
+2025-08-01 17:01:02,114 [INFO] [MainThread] [root/bar_manager.py:74]: Starting SystemEventListener...
+2025-08-01 17:01:02,115 [INFO] [MainThread] [root/bar_manager.py:74]: Starting KomorebiEventListener...
+2025-08-01 17:01:02,115 [INFO] [MainThread] [root/watcher.py:54]: Created file watcher for path C:\Users\ilyes\.config\yasb
+2025-08-01 17:01:02,211 [INFO] [Dummy-5] [root/event_listener.py:51]: Created named pipe yasb-b8dca619-6ef0-11f0-9f3e-00155d9d3a7c
+2025-08-01 17:01:02,254 [DEBUG] [MainThread] [qasync._windows._EventPoller/_windows.py:213]: Starting (proactor: <_IocpProactor overlapped#=0 result#=0>)...
+2025-08-01 17:01:02,255 [DEBUG] [Dummy-9] [qasync._windows._EventWorker/_windows.py:192]: Thread started
+2025-08-01 17:01:03,135 [INFO] [MainThread] [root/weather.py:67]: Fetching new weather data at 2025-08-01 17:01:03.135995
+2025-08-01 17:11:09,090 [INFO] [MainThread] [root/weather.py:67]: Fetching new weather data at 2025-08-01 17:11:09.090183
+2025-08-01 17:21:05,774 [INFO] [MainThread] [root/weather.py:67]: Fetching new weather data at 2025-08-01 17:21:05.774696
+2025-08-01 17:31:01,860 [INFO] [MainThread] [root/weather.py:67]: Fetching new weather data at 2025-08-01 17:31:01.860475
+2025-08-01 17:41:02,714 [INFO] [MainThread] [root/weather.py:67]: Fetching new weather data at 2025-08-01 17:41:02.714020
+2025-08-01 17:42:56,459 [INFO] [MainThread] [root/controller.py:15]: Reloading Application from tray...
+2025-08-01 17:42:56,566 [INFO] [MainThread] [cli_server/cli_server.py:112]: Log pipe server stopped
+2025-08-01 17:42:56,566 [DEBUG] [MainThread] [cli_server/cli_server.py:206]: CLI server stopped
+2025-08-01 17:42:56,595 [DEBUG] [MainThread] [qasync._windows._EventPoller/_windows.py:218]: Stopping worker thread...
+2025-08-01 17:42:56,613 [DEBUG] [Dummy-9] [qasync._windows._EventWorker/_windows.py:201]: Exiting thread
+2025-08-01 17:42:56,614 [DEBUG] [MainThread] [qasync._windows._IocpProactor/_windows.py:75]: Closing
+2025-08-01 17:42:57,089 [ERROR] [Dummy-13] [root/event_service.py:32]: Failed to emit signal <bound PYQT_SIGNAL window_name_change of ActiveWindowWidget object at 0x000002CCEE52A990>. Removing link to WinEvent.EventObjectNameChange.
+2025-08-01 17:42:58,854 [INFO] [MainThread] [root/log.py:59]: YASB v1.7.8
+2025-08-01 17:42:58,855 [INFO] [Thread-1 (_run_server)] [cli_server/cli_server.py:212]: CLI server started v1.1.2
+2025-08-01 17:42:58,855 [INFO] [MainThread] [cli_server/cli_server.py:104]: Log pipe server started
+2025-08-01 17:42:59,119 [ERROR] [Dummy-13] [root/event_service.py:32]: Failed to emit signal <bound PYQT_SIGNAL foreground_change of ActiveWindowWidget object at 0x000002CCEE52A990>. Removing link to WinEvent.EventSystemForeground.
+2025-08-01 17:42:59,130 [ERROR] [Dummy-13] [root/event_service.py:32]: Failed to emit signal <bound PYQT_SIGNAL window_name_change of ActiveWindowWidget object at 0x000002CCEE52A990>. Removing link to WinEvent.EventObjectStateChange.
+2025-08-01 17:42:59,531 [DEBUG] [MainThread] [tzlocal/win32.py:55]: Looking up time zone info from registry
+2025-08-01 17:43:02,762 [DEBUG] [MainThread] [comtypes/__init__.py:149]: CoInitializeEx(None, 2)
+2025-08-01 17:43:03,310 [INFO] [MainThread] [root/bar_manager.py:74]: Starting SystemEventListener...
+2025-08-01 17:43:03,311 [INFO] [MainThread] [root/bar_manager.py:74]: Starting WindowsNotificationEventListener...
+2025-08-01 17:43:03,312 [INFO] [MainThread] [root/bar_manager.py:74]: Starting KomorebiEventListener...
+2025-08-01 17:43:03,312 [INFO] [MainThread] [root/watcher.py:54]: Created file watcher for path C:\Users\ilyes\.config\yasb
+2025-08-01 17:43:03,343 [INFO] [Dummy-5] [root/event_listener.py:51]: Created named pipe yasb-979cc7ff-6ef6-11f0-893a-00155d9d3a7c
+2025-08-01 17:43:03,404 [DEBUG] [MainThread] [qasync._windows._EventPoller/_windows.py:213]: Starting (proactor: <_IocpProactor overlapped#=0 result#=0>)...
+2025-08-01 17:43:03,405 [DEBUG] [Dummy-9] [qasync._windows._EventWorker/_windows.py:192]: Thread started
+2025-08-01 17:43:03,507 [INFO] [Dummy-5] [root/event_listener.py:125]: Komorebi connected to named pipe: yasb-979cc7ff-6ef6-11f0-893a-00155d9d3a7c
+2025-08-01 17:43:16,300 [ERROR] [MainThread] [root/weather.py:77]: Weather response error: HostNotFoundError 3.
+2025-08-01 17:43:16,300 [WARNING] [MainThread] [root/weather.py:544]: Error processing weather data: Weather data is empty.. Retrying fetch in 10 seconds.
+2025-08-01 17:43:34,094 [INFO] [MainThread] [root/weather.py:67]: Fetching new weather data at 2025-08-01 17:43:34.094683
+2025-08-01 17:53:02,671 [INFO] [MainThread] [root/weather.py:67]: Fetching new weather data at 2025-08-01 17:53:02.671584
+2025-08-01 18:03:07,689 [INFO] [MainThread] [root/weather.py:67]: Fetching new weather data at 2025-08-01 18:03:07.689457
+2025-08-01 18:13:03,837 [INFO] [MainThread] [root/weather.py:67]: Fetching new weather data at 2025-08-01 18:13:03.837163
+2025-08-01 18:23:03,865 [INFO] [MainThread] [root/weather.py:67]: Fetching new weather data at 2025-08-01 18:23:03.865635
+2025-08-01 18:33:07,700 [INFO] [MainThread] [root/weather.py:67]: Fetching new weather data at 2025-08-01 18:33:07.700664
+2025-08-01 18:43:08,791 [INFO] [MainThread] [root/weather.py:67]: Fetching new weather data at 2025-08-01 18:43:08.791870
+2025-08-01 18:53:03,667 [INFO] [MainThread] [root/weather.py:67]: Fetching new weather data at 2025-08-01 18:53:03.667890
+2025-08-01 19:03:10,681 [INFO] [MainThread] [root/weather.py:67]: Fetching new weather data at 2025-08-01 19:03:10.681390
+2025-08-01 19:13:03,666 [INFO] [MainThread] [root/weather.py:67]: Fetching new weather data at 2025-08-01 19:13:03.666686
+2025-08-01 19:23:12,743 [INFO] [MainThread] [root/weather.py:67]: Fetching new weather data at 2025-08-01 19:23:12.743211
+2025-08-01 19:33:03,791 [INFO] [MainThread] [root/weather.py:67]: Fetching new weather data at 2025-08-01 19:33:03.791934
+2025-08-01 19:33:24,712 [WARNING] [Dummy-5] [root/event_listener.py:82]: Pipe has been ended: (109, 'PeekNamedPipe', 'The pipe has been ended.')
+2025-08-01 19:33:24,738 [INFO] [Dummy-5] [root/event_listener.py:92]: Attempting to reconnect to Komorebi...
+2025-08-01 20:21:17,602 [INFO] [MainThread] [root/log.py:59]: YASB v1.7.8
+2025-08-01 20:21:17,604 [INFO] [Thread-1 (_run_server)] [cli_server/cli_server.py:212]: CLI server started v1.1.2
+2025-08-01 20:21:17,604 [INFO] [MainThread] [cli_server/cli_server.py:104]: Log pipe server started
+2025-08-01 20:21:17,792 [DEBUG] [MainThread] [tzlocal/win32.py:55]: Looking up time zone info from registry
+2025-08-01 20:21:18,588 [DEBUG] [MainThread] [comtypes/__init__.py:149]: CoInitializeEx(None, 2)
+2025-08-01 20:21:18,999 [INFO] [MainThread] [root/bar_manager.py:74]: Starting SystemEventListener...
+2025-08-01 20:21:19,000 [INFO] [MainThread] [root/bar_manager.py:74]: Starting WindowsNotificationEventListener...
+2025-08-01 20:21:19,001 [INFO] [MainThread] [root/bar_manager.py:74]: Starting KomorebiEventListener...
+2025-08-01 20:21:19,012 [INFO] [Dummy-3] [root/event_listener.py:51]: Created named pipe yasb-b37bec0d-6f0c-11f0-bfed-00155d9d3a7c
+2025-08-01 20:21:19,012 [INFO] [MainThread] [root/watcher.py:54]: Created file watcher for path C:\Users\ilyes\.config\yasb
+2025-08-01 20:21:19,121 [DEBUG] [MainThread] [qasync._windows._EventPoller/_windows.py:213]: Starting (proactor: <_IocpProactor overlapped#=0 result#=0>)...
+2025-08-01 20:21:19,134 [DEBUG] [Dummy-9] [qasync._windows._EventWorker/_windows.py:192]: Thread started
+2025-08-01 20:21:28,427 [INFO] [MainThread] [root/weather.py:67]: Fetching new weather data at 2025-08-01 20:21:28.427173
+2025-08-01 20:21:34,579 [INFO] [Dummy-3] [root/event_listener.py:125]: Komorebi connected to named pipe: yasb-b37bec0d-6f0c-11f0-bfed-00155d9d3a7c
+2025-08-01 20:21:40,471 [WARNING] [MainThread] [root/weather.py:126]: Failed to fetch icon http://cdn.weatherapi.com/weather/64x64/day/176.png: HostNotFoundError 3
+2025-08-01 20:21:40,472 [WARNING] [MainThread] [root/weather.py:126]: Failed to fetch icon http://cdn.weatherapi.com/weather/64x64/day/113.png: HostNotFoundError 3
+2025-08-01 20:21:40,472 [WARNING] [MainThread] [root/weather.py:126]: Failed to fetch icon http://cdn.weatherapi.com/weather/64x64/day/113.png: HostNotFoundError 3
+2025-08-02 02:21:52,768 [INFO] [MainThread] [root/log.py:59]: YASB v1.7.8
+2025-08-02 02:21:52,770 [INFO] [Thread-1 (_run_server)] [cli_server/cli_server.py:212]: CLI server started v1.1.2
+2025-08-02 02:21:52,770 [INFO] [MainThread] [cli_server/cli_server.py:104]: Log pipe server started
+2025-08-02 02:21:53,469 [DEBUG] [MainThread] [tzlocal/win32.py:55]: Looking up time zone info from registry
+2025-08-02 02:21:56,611 [DEBUG] [MainThread] [comtypes/__init__.py:149]: CoInitializeEx(None, 2)
+2025-08-02 02:21:57,279 [INFO] [MainThread] [root/bar_manager.py:74]: Starting SystemEventListener...
+2025-08-02 02:21:57,280 [INFO] [MainThread] [root/bar_manager.py:74]: Starting KomorebiEventListener...
+2025-08-02 02:21:57,280 [INFO] [MainThread] [root/bar_manager.py:74]: Starting WindowsNotificationEventListener...
+2025-08-02 02:21:57,281 [INFO] [MainThread] [root/watcher.py:54]: Created file watcher for path C:\Users\ilyes\.config\yasb
+2025-08-02 02:21:57,285 [INFO] [Dummy-5] [root/event_listener.py:51]: Created named pipe yasb-14e722f1-6f3f-11f0-9bf3-00155d9d3a7c
+2025-08-02 02:21:57,392 [DEBUG] [MainThread] [qasync._windows._EventPoller/_windows.py:213]: Starting (proactor: <_IocpProactor overlapped#=0 result#=0>)...
+2025-08-02 02:21:57,394 [DEBUG] [Dummy-9] [qasync._windows._EventWorker/_windows.py:192]: Thread started
+2025-08-02 02:22:02,475 [INFO] [Dummy-5] [root/event_listener.py:125]: Komorebi connected to named pipe: yasb-14e722f1-6f3f-11f0-9bf3-00155d9d3a7c
+2025-08-02 02:22:09,522 [WARNING] [Thread-8 (check_for_update)] [root/update_check.py:50]: UpdateCheckService Failed to check for updates: Network error.
+2025-08-02 02:22:09,865 [ERROR] [MainThread] [root/weather.py:77]: Weather response error: HostNotFoundError 3.
+2025-08-02 02:22:09,865 [WARNING] [MainThread] [root/weather.py:544]: Error processing weather data: Weather data is empty.. Retrying fetch in 10 seconds.
+2025-08-02 02:22:31,899 [ERROR] [MainThread] [root/weather.py:77]: Weather response error: HostNotFoundError 3.
+2025-08-02 02:22:31,899 [WARNING] [MainThread] [root/weather.py:544]: Error processing weather data: Weather data is empty.. Retrying fetch in 10 seconds.
+2025-08-02 02:22:53,958 [ERROR] [MainThread] [root/weather.py:77]: Weather response error: HostNotFoundError 3.
+2025-08-02 02:22:53,959 [WARNING] [MainThread] [root/weather.py:544]: Error processing weather data: Weather data is empty.. Retrying fetch in 10 seconds.
+2025-08-02 02:23:16,018 [ERROR] [MainThread] [root/weather.py:77]: Weather response error: HostNotFoundError 3.
+2025-08-02 02:23:16,018 [WARNING] [MainThread] [root/weather.py:544]: Error processing weather data: Weather data is empty.. Retrying fetch in 10 seconds.
+2025-08-02 02:23:26,011 [ERROR] [MainThread] [root/weather.py:77]: Weather response error: HostNotFoundError 3.
+2025-08-02 02:23:26,011 [WARNING] [MainThread] [root/weather.py:544]: Error processing weather data: Weather data is empty.. Retrying fetch in 10 seconds.
+2025-08-02 02:23:36,017 [ERROR] [MainThread] [root/weather.py:77]: Weather response error: HostNotFoundError 3.
+2025-08-02 02:23:36,017 [WARNING] [MainThread] [root/weather.py:544]: Error processing weather data: Weather data is empty.. Retrying fetch in 10 seconds.
+2025-08-02 02:23:46,012 [ERROR] [MainThread] [root/weather.py:77]: Weather response error: HostNotFoundError 3.
+2025-08-02 02:23:46,012 [WARNING] [MainThread] [root/weather.py:544]: Error processing weather data: Weather data is empty.. Retrying fetch in 10 seconds.
+2025-08-02 02:23:56,011 [ERROR] [MainThread] [root/weather.py:77]: Weather response error: HostNotFoundError 3.
+2025-08-02 02:23:56,011 [WARNING] [MainThread] [root/weather.py:544]: Error processing weather data: Weather data is empty.. Retrying fetch in 10 seconds.
+2025-08-02 02:24:18,062 [ERROR] [MainThread] [root/weather.py:77]: Weather response error: HostNotFoundError 3.
+2025-08-02 02:24:18,062 [WARNING] [MainThread] [root/weather.py:544]: Error processing weather data: Weather data is empty.. Retrying fetch in 10 seconds.
+2025-08-02 02:24:28,056 [ERROR] [MainThread] [root/weather.py:77]: Weather response error: HostNotFoundError 3.
+2025-08-02 02:24:28,056 [WARNING] [MainThread] [root/weather.py:544]: Error processing weather data: Weather data is empty.. Retrying fetch in 10 seconds.
+2025-08-02 02:24:38,058 [ERROR] [MainThread] [root/weather.py:77]: Weather response error: HostNotFoundError 3.
+2025-08-02 02:24:38,058 [WARNING] [MainThread] [root/weather.py:544]: Error processing weather data: Weather data is empty.. Retrying fetch in 10 seconds.
+2025-08-02 02:24:48,067 [ERROR] [MainThread] [root/weather.py:77]: Weather response error: HostNotFoundError 3.
+2025-08-02 02:24:48,067 [WARNING] [MainThread] [root/weather.py:544]: Error processing weather data: Weather data is empty.. Retrying fetch in 10 seconds.
+2025-08-02 02:24:58,078 [ERROR] [MainThread] [root/weather.py:77]: Weather response error: HostNotFoundError 3.
+2025-08-02 02:24:58,078 [WARNING] [MainThread] [root/weather.py:544]: Error processing weather data: Weather data is empty.. Retrying fetch in 10 seconds.
+2025-08-02 02:25:08,078 [ERROR] [MainThread] [root/weather.py:77]: Weather response error: HostNotFoundError 3.
+2025-08-02 02:25:08,078 [WARNING] [MainThread] [root/weather.py:544]: Error processing weather data: Weather data is empty.. Retrying fetch in 10 seconds.
+2025-08-02 02:25:18,069 [ERROR] [MainThread] [root/weather.py:77]: Weather response error: HostNotFoundError 3.
+2025-08-02 02:25:18,069 [WARNING] [MainThread] [root/weather.py:544]: Error processing weather data: Weather data is empty.. Retrying fetch in 10 seconds.
+2025-08-02 02:25:28,074 [ERROR] [MainThread] [root/weather.py:77]: Weather response error: HostNotFoundError 3.
+2025-08-02 02:25:28,074 [WARNING] [MainThread] [root/weather.py:544]: Error processing weather data: Weather data is empty.. Retrying fetch in 10 seconds.
+2025-08-02 02:25:38,084 [ERROR] [MainThread] [root/weather.py:77]: Weather response error: HostNotFoundError 3.
+2025-08-02 02:25:38,084 [WARNING] [MainThread] [root/weather.py:544]: Error processing weather data: Weather data is empty.. Retrying fetch in 10 seconds.
+2025-08-02 02:26:00,138 [ERROR] [MainThread] [root/weather.py:77]: Weather response error: HostNotFoundError 3.
+2025-08-02 02:26:00,138 [WARNING] [MainThread] [root/weather.py:544]: Error processing weather data: Weather data is empty.. Retrying fetch in 10 seconds.
+2025-08-02 02:26:10,160 [ERROR] [MainThread] [root/weather.py:77]: Weather response error: HostNotFoundError 3.
+2025-08-02 02:26:10,160 [WARNING] [MainThread] [root/weather.py:544]: Error processing weather data: Weather data is empty.. Retrying fetch in 10 seconds.
+2025-08-02 02:26:20,165 [ERROR] [MainThread] [root/weather.py:77]: Weather response error: HostNotFoundError 3.
+2025-08-02 02:26:20,165 [WARNING] [MainThread] [root/weather.py:544]: Error processing weather data: Weather data is empty.. Retrying fetch in 10 seconds.
+2025-08-02 02:26:42,235 [ERROR] [MainThread] [root/weather.py:77]: Weather response error: HostNotFoundError 3.
+2025-08-02 02:26:42,235 [WARNING] [MainThread] [root/weather.py:544]: Error processing weather data: Weather data is empty.. Retrying fetch in 10 seconds.
+2025-08-02 02:26:52,230 [ERROR] [MainThread] [root/weather.py:77]: Weather response error: HostNotFoundError 3.
+2025-08-02 02:26:52,231 [WARNING] [MainThread] [root/weather.py:544]: Error processing weather data: Weather data is empty.. Retrying fetch in 10 seconds.
+2025-08-02 02:27:02,229 [ERROR] [MainThread] [root/weather.py:77]: Weather response error: HostNotFoundError 3.
+2025-08-02 02:27:02,229 [WARNING] [MainThread] [root/weather.py:544]: Error processing weather data: Weather data is empty.. Retrying fetch in 10 seconds.
+2025-08-02 02:27:12,240 [ERROR] [MainThread] [root/weather.py:77]: Weather response error: HostNotFoundError 3.
+2025-08-02 02:27:12,240 [WARNING] [MainThread] [root/weather.py:544]: Error processing weather data: Weather data is empty.. Retrying fetch in 10 seconds.
+2025-08-02 02:27:34,290 [ERROR] [MainThread] [root/weather.py:77]: Weather response error: HostNotFoundError 3.
+2025-08-02 02:27:34,291 [WARNING] [MainThread] [root/weather.py:544]: Error processing weather data: Weather data is empty.. Retrying fetch in 10 seconds.
+2025-08-02 02:27:56,345 [ERROR] [MainThread] [root/weather.py:77]: Weather response error: HostNotFoundError 3.
+2025-08-02 02:27:56,345 [WARNING] [MainThread] [root/weather.py:544]: Error processing weather data: Weather data is empty.. Retrying fetch in 10 seconds.
+2025-08-02 02:28:07,814 [ERROR] [MainThread] [root/weather.py:77]: Weather response error: HostNotFoundError 3.
+2025-08-02 02:28:07,815 [WARNING] [MainThread] [root/weather.py:544]: Error processing weather data: Weather data is empty.. Retrying fetch in 10 seconds.
+2025-08-02 02:28:29,867 [ERROR] [MainThread] [root/weather.py:77]: Weather response error: HostNotFoundError 3.
+2025-08-02 02:28:29,868 [WARNING] [MainThread] [root/weather.py:544]: Error processing weather data: Weather data is empty.. Retrying fetch in 10 seconds.
+2025-08-02 02:28:51,925 [ERROR] [MainThread] [root/weather.py:77]: Weather response error: HostNotFoundError 3.
+2025-08-02 02:28:51,925 [WARNING] [MainThread] [root/weather.py:544]: Error processing weather data: Weather data is empty.. Retrying fetch in 10 seconds.
+2025-08-02 02:29:13,938 [ERROR] [MainThread] [root/weather.py:77]: Weather response error: HostNotFoundError 3.
+2025-08-02 02:29:13,938 [WARNING] [MainThread] [root/weather.py:544]: Error processing weather data: Weather data is empty.. Retrying fetch in 10 seconds.
+2025-08-02 02:29:35,984 [ERROR] [MainThread] [root/weather.py:77]: Weather response error: HostNotFoundError 3.
+2025-08-02 02:29:35,984 [WARNING] [MainThread] [root/weather.py:544]: Error processing weather data: Weather data is empty.. Retrying fetch in 10 seconds.
+2025-08-02 02:29:58,013 [ERROR] [MainThread] [root/weather.py:77]: Weather response error: HostNotFoundError 3.
+2025-08-02 02:29:58,014 [WARNING] [MainThread] [root/weather.py:544]: Error processing weather data: Weather data is empty.. Retrying fetch in 10 seconds.
+2025-08-02 02:30:08,017 [ERROR] [MainThread] [root/weather.py:77]: Weather response error: HostNotFoundError 3.
+2025-08-02 02:30:08,017 [WARNING] [MainThread] [root/weather.py:544]: Error processing weather data: Weather data is empty.. Retrying fetch in 10 seconds.
+2025-08-02 02:30:30,160 [ERROR] [MainThread] [root/weather.py:77]: Weather response error: HostNotFoundError 3.
+2025-08-02 02:30:30,160 [WARNING] [MainThread] [root/weather.py:544]: Error processing weather data: Weather data is empty.. Retrying fetch in 10 seconds.
+2025-08-02 02:30:52,192 [ERROR] [MainThread] [root/weather.py:77]: Weather response error: HostNotFoundError 3.
+2025-08-02 02:30:52,192 [WARNING] [MainThread] [root/weather.py:544]: Error processing weather data: Weather data is empty.. Retrying fetch in 10 seconds.
+2025-08-02 02:31:02,184 [ERROR] [MainThread] [root/weather.py:77]: Weather response error: HostNotFoundError 3.
+2025-08-02 02:31:02,184 [WARNING] [MainThread] [root/weather.py:544]: Error processing weather data: Weather data is empty.. Retrying fetch in 10 seconds.
+2025-08-02 02:31:24,307 [ERROR] [MainThread] [root/weather.py:77]: Weather response error: HostNotFoundError 3.
+2025-08-02 02:31:24,307 [WARNING] [MainThread] [root/weather.py:544]: Error processing weather data: Weather data is empty.. Retrying fetch in 10 seconds.
+2025-08-02 02:31:46,360 [ERROR] [MainThread] [root/weather.py:77]: Weather response error: HostNotFoundError 3.
+2025-08-02 02:31:46,360 [WARNING] [MainThread] [root/weather.py:544]: Error processing weather data: Weather data is empty.. Retrying fetch in 10 seconds.
+2025-08-02 02:32:08,347 [ERROR] [MainThread] [root/weather.py:77]: Weather response error: HostNotFoundError 3.
+2025-08-02 02:32:08,347 [WARNING] [MainThread] [root/weather.py:544]: Error processing weather data: Weather data is empty.. Retrying fetch in 10 seconds.
+2025-08-02 02:32:08,348 [ERROR] [MainThread] [root/weather.py:77]: Weather response error: HostNotFoundError 3.
+2025-08-02 02:32:30,471 [ERROR] [MainThread] [root/weather.py:77]: Weather response error: HostNotFoundError 3.
+2025-08-02 02:32:30,472 [WARNING] [MainThread] [root/weather.py:544]: Error processing weather data: Weather data is empty.. Retrying fetch in 10 seconds.
+2025-08-02 02:32:52,527 [ERROR] [MainThread] [root/weather.py:77]: Weather response error: HostNotFoundError 3.
+2025-08-02 02:32:52,527 [WARNING] [MainThread] [root/weather.py:544]: Error processing weather data: Weather data is empty.. Retrying fetch in 10 seconds.
+2025-08-02 02:33:02,531 [ERROR] [MainThread] [root/weather.py:77]: Weather response error: HostNotFoundError 3.
+2025-08-02 02:33:02,531 [WARNING] [MainThread] [root/weather.py:544]: Error processing weather data: Weather data is empty.. Retrying fetch in 10 seconds.
+2025-08-02 02:33:24,579 [ERROR] [MainThread] [root/weather.py:77]: Weather response error: HostNotFoundError 3.
+2025-08-02 02:33:24,579 [WARNING] [MainThread] [root/weather.py:544]: Error processing weather data: Weather data is empty.. Retrying fetch in 10 seconds.
+2025-08-02 02:33:34,595 [ERROR] [MainThread] [root/weather.py:77]: Weather response error: HostNotFoundError 3.
+2025-08-02 02:33:34,595 [WARNING] [MainThread] [root/weather.py:544]: Error processing weather data: Weather data is empty.. Retrying fetch in 10 seconds.
+2025-08-02 02:33:56,637 [ERROR] [MainThread] [root/weather.py:77]: Weather response error: HostNotFoundError 3.
+2025-08-02 02:33:56,637 [WARNING] [MainThread] [root/weather.py:544]: Error processing weather data: Weather data is empty.. Retrying fetch in 10 seconds.
+2025-08-02 02:34:06,636 [ERROR] [MainThread] [root/weather.py:77]: Weather response error: HostNotFoundError 3.
+2025-08-02 02:34:06,636 [WARNING] [MainThread] [root/weather.py:544]: Error processing weather data: Weather data is empty.. Retrying fetch in 10 seconds.
+2025-08-02 02:34:16,636 [ERROR] [MainThread] [root/weather.py:77]: Weather response error: HostNotFoundError 3.
+2025-08-02 02:34:16,637 [WARNING] [MainThread] [root/weather.py:544]: Error processing weather data: Weather data is empty.. Retrying fetch in 10 seconds.
+2025-08-02 02:34:28,648 [ERROR] [MainThread] [root/weather.py:77]: Weather response error: HostNotFoundError 3.
+2025-08-02 02:34:28,648 [WARNING] [MainThread] [root/weather.py:544]: Error processing weather data: Weather data is empty.. Retrying fetch in 10 seconds.
+2025-08-02 02:34:38,668 [ERROR] [MainThread] [root/weather.py:77]: Weather response error: HostNotFoundError 3.
+2025-08-02 02:34:38,668 [WARNING] [MainThread] [root/weather.py:544]: Error processing weather data: Weather data is empty.. Retrying fetch in 10 seconds.
+2025-08-02 02:35:00,719 [ERROR] [MainThread] [root/weather.py:77]: Weather response error: HostNotFoundError 3.
+2025-08-02 02:35:00,721 [WARNING] [MainThread] [root/weather.py:544]: Error processing weather data: Weather data is empty.. Retrying fetch in 10 seconds.
+2025-08-02 02:35:22,760 [ERROR] [MainThread] [root/weather.py:77]: Weather response error: HostNotFoundError 3.
+2025-08-02 02:35:22,761 [WARNING] [MainThread] [root/weather.py:544]: Error processing weather data: Weather data is empty.. Retrying fetch in 10 seconds.
+2025-08-02 02:35:32,758 [ERROR] [MainThread] [root/weather.py:77]: Weather response error: HostNotFoundError 3.
+2025-08-02 02:35:32,758 [WARNING] [MainThread] [root/weather.py:544]: Error processing weather data: Weather data is empty.. Retrying fetch in 10 seconds.
+2025-08-02 02:35:54,806 [ERROR] [MainThread] [root/weather.py:77]: Weather response error: HostNotFoundError 3.
+2025-08-02 02:35:54,807 [WARNING] [MainThread] [root/weather.py:544]: Error processing weather data: Weather data is empty.. Retrying fetch in 10 seconds.
+2025-08-02 02:36:04,819 [ERROR] [MainThread] [root/weather.py:77]: Weather response error: HostNotFoundError 3.
+2025-08-02 02:36:04,819 [WARNING] [MainThread] [root/weather.py:544]: Error processing weather data: Weather data is empty.. Retrying fetch in 10 seconds.
+2025-08-02 02:36:26,895 [ERROR] [MainThread] [root/weather.py:77]: Weather response error: HostNotFoundError 3.
+2025-08-02 02:36:26,896 [WARNING] [MainThread] [root/weather.py:544]: Error processing weather data: Weather data is empty.. Retrying fetch in 10 seconds.
+2025-08-02 02:36:48,977 [ERROR] [MainThread] [root/weather.py:77]: Weather response error: HostNotFoundError 3.
+2025-08-02 02:36:48,977 [WARNING] [MainThread] [root/weather.py:544]: Error processing weather data: Weather data is empty.. Retrying fetch in 10 seconds.
+2025-08-02 02:37:11,040 [ERROR] [MainThread] [root/weather.py:77]: Weather response error: HostNotFoundError 3.
+2025-08-02 02:37:11,040 [WARNING] [MainThread] [root/weather.py:544]: Error processing weather data: Weather data is empty.. Retrying fetch in 10 seconds.
+2025-08-02 02:37:21,040 [ERROR] [MainThread] [root/weather.py:77]: Weather response error: HostNotFoundError 3.
+2025-08-02 02:37:21,040 [WARNING] [MainThread] [root/weather.py:544]: Error processing weather data: Weather data is empty.. Retrying fetch in 10 seconds.
+2025-08-02 02:37:31,248 [INFO] [MainThread] [root/weather.py:67]: Fetching new weather data at 2025-08-02 02:37:31.248482
+2025-08-02 02:41:56,456 [INFO] [MainThread] [root/weather.py:67]: Fetching new weather data at 2025-08-02 02:41:56.456803
+2025-08-02 02:51:56,453 [INFO] [MainThread] [root/weather.py:67]: Fetching new weather data at 2025-08-02 02:51:56.453917
+2025-08-02 03:01:56,464 [INFO] [MainThread] [root/weather.py:67]: Fetching new weather data at 2025-08-02 03:01:56.464110
+2025-08-02 03:11:56,534 [INFO] [MainThread] [root/weather.py:67]: Fetching new weather data at 2025-08-02 03:11:56.534778
+2025-08-02 03:21:57,613 [INFO] [MainThread] [root/weather.py:67]: Fetching new weather data at 2025-08-02 03:21:57.613772
+2025-08-02 03:30:46,991 [WARNING] [Dummy-5] [root/event_listener.py:82]: Pipe has been ended: (109, 'PeekNamedPipe', 'The pipe has been ended.')
+2025-08-02 03:30:46,991 [INFO] [Dummy-5] [root/event_listener.py:92]: Attempting to reconnect to Komorebi...
+2025-08-02 03:30:49,993 [INFO] [Dummy-5] [root/event_listener.py:51]: Created named pipe yasb-14e722f1-6f3f-11f0-9bf3-00155d9d3a7c
+2025-08-02 03:30:50,058 [INFO] [Dummy-5] [root/event_listener.py:125]: Komorebi connected to named pipe: yasb-14e722f1-6f3f-11f0-9bf3-00155d9d3a7c
+2025-08-02 03:31:56,861 [INFO] [MainThread] [root/weather.py:67]: Fetching new weather data at 2025-08-02 03:31:56.861012
+2025-08-02 03:41:56,508 [INFO] [MainThread] [root/weather.py:67]: Fetching new weather data at 2025-08-02 03:41:56.508645
+2025-08-02 03:51:56,513 [INFO] [MainThread] [root/weather.py:67]: Fetching new weather data at 2025-08-02 03:51:56.513205
+2025-08-02 04:01:59,702 [INFO] [MainThread] [root/weather.py:67]: Fetching new weather data at 2025-08-02 04:01:59.702620
+2025-08-02 04:54:45,456 [ERROR] [MainThread] [root/weather.py:77]: Weather response error: HostNotFoundError 3.
+2025-08-02 04:54:45,456 [WARNING] [MainThread] [root/weather.py:544]: Error processing weather data: Weather data is empty.. Retrying fetch in 10 seconds.
+2025-08-02 04:54:55,639 [INFO] [MainThread] [root/weather.py:67]: Fetching new weather data at 2025-08-02 04:54:55.639792
+2025-08-02 05:04:47,721 [INFO] [MainThread] [root/weather.py:67]: Fetching new weather data at 2025-08-02 05:04:47.721838
+2025-08-02 05:14:47,732 [INFO] [MainThread] [root/weather.py:67]: Fetching new weather data at 2025-08-02 05:14:47.732412
+2025-08-02 05:24:44,705 [INFO] [MainThread] [root/weather.py:67]: Fetching new weather data at 2025-08-02 05:24:44.705933
+2025-08-02 05:34:47,880 [INFO] [MainThread] [root/weather.py:67]: Fetching new weather data at 2025-08-02 05:34:47.880727
+2025-08-02 05:43:58,713 [WARNING] [Dummy-5] [root/event_listener.py:82]: Pipe has been ended: (109, 'PeekNamedPipe', 'The pipe has been ended.')
+2025-08-02 05:43:58,713 [INFO] [Dummy-5] [root/event_listener.py:92]: Attempting to reconnect to Komorebi...
+2025-08-02 09:14:18,439 [INFO] [MainThread] [root/log.py:59]: YASB v1.7.8
+2025-08-02 09:14:18,440 [INFO] [Thread-1 (_run_server)] [cli_server/cli_server.py:212]: CLI server started v1.1.2
+2025-08-02 09:14:18,440 [INFO] [MainThread] [cli_server/cli_server.py:104]: Log pipe server started
+2025-08-02 09:14:19,081 [DEBUG] [MainThread] [tzlocal/win32.py:55]: Looking up time zone info from registry
+2025-08-02 09:14:22,799 [DEBUG] [MainThread] [comtypes/__init__.py:149]: CoInitializeEx(None, 2)
+2025-08-02 09:14:23,449 [INFO] [MainThread] [root/bar_manager.py:74]: Starting SystemEventListener...
+2025-08-02 09:14:23,450 [INFO] [MainThread] [root/bar_manager.py:74]: Starting KomorebiEventListener...
+2025-08-02 09:14:23,450 [INFO] [MainThread] [root/bar_manager.py:74]: Starting WindowsNotificationEventListener...
+2025-08-02 09:14:23,451 [INFO] [Dummy-3] [root/event_listener.py:51]: Created named pipe yasb-b2c50b1e-6f78-11f0-a3e8-00155d9d3a7c
+2025-08-02 09:14:23,451 [INFO] [MainThread] [root/watcher.py:54]: Created file watcher for path C:\Users\ilyes\.config\yasb
+2025-08-02 09:14:23,568 [DEBUG] [MainThread] [qasync._windows._EventPoller/_windows.py:213]: Starting (proactor: <_IocpProactor overlapped#=0 result#=0>)...
+2025-08-02 09:14:23,569 [DEBUG] [Dummy-9] [qasync._windows._EventWorker/_windows.py:192]: Thread started
+2025-08-02 09:14:23,918 [INFO] [MainThread] [root/weather.py:67]: Fetching new weather data at 2025-08-02 09:14:23.917192
+2025-08-02 09:14:28,646 [INFO] [Dummy-3] [root/event_listener.py:125]: Komorebi connected to named pipe: yasb-b2c50b1e-6f78-11f0-a3e8-00155d9d3a7c
+2025-08-02 09:16:33,757 [WARNING] [Dummy-3] [root/event_listener.py:82]: Pipe has been ended: (109, 'PeekNamedPipe', 'The pipe has been ended.')
+2025-08-02 09:16:33,758 [INFO] [Dummy-3] [root/event_listener.py:92]: Attempting to reconnect to Komorebi...
+2025-08-02 15:37:02,986 [INFO] [MainThread] [root/log.py:59]: YASB v1.7.8
+2025-08-02 15:37:02,996 [INFO] [Thread-1 (_run_server)] [cli_server/cli_server.py:212]: CLI server started v1.1.2
+2025-08-02 15:37:02,996 [INFO] [MainThread] [cli_server/cli_server.py:104]: Log pipe server started
+2025-08-02 15:37:03,602 [DEBUG] [MainThread] [tzlocal/win32.py:55]: Looking up time zone info from registry
+2025-08-02 15:37:06,534 [DEBUG] [MainThread] [comtypes/__init__.py:149]: CoInitializeEx(None, 2)
+2025-08-02 15:37:07,211 [INFO] [MainThread] [root/bar_manager.py:74]: Starting SystemEventListener...
+2025-08-02 15:37:07,212 [INFO] [MainThread] [root/bar_manager.py:74]: Starting KomorebiEventListener...
+2025-08-02 15:37:07,212 [INFO] [MainThread] [root/bar_manager.py:74]: Starting WindowsNotificationEventListener...
+2025-08-02 15:37:07,213 [INFO] [MainThread] [root/watcher.py:54]: Created file watcher for path C:\Users\ilyes\.config\yasb
+2025-08-02 15:37:07,217 [INFO] [Dummy-5] [root/event_listener.py:51]: Created named pipe yasb-2a3d1cdd-6fae-11f0-aa40-00155d9d3a7c
+2025-08-02 15:37:07,323 [DEBUG] [MainThread] [qasync._windows._EventPoller/_windows.py:213]: Starting (proactor: <_IocpProactor overlapped#=0 result#=0>)...
+2025-08-02 15:37:07,324 [DEBUG] [Dummy-9] [qasync._windows._EventWorker/_windows.py:192]: Thread started
+2025-08-02 15:37:08,327 [INFO] [MainThread] [root/weather.py:67]: Fetching new weather data at 2025-08-02 15:37:08.327797
+2025-08-02 15:37:12,401 [INFO] [Dummy-5] [root/event_listener.py:125]: Komorebi connected to named pipe: yasb-2a3d1cdd-6fae-11f0-aa40-00155d9d3a7c
+2025-08-02 15:37:20,366 [WARNING] [MainThread] [root/weather.py:126]: Failed to fetch icon http://cdn.weatherapi.com/weather/64x64/day/176.png: HostNotFoundError 3
+2025-08-02 15:37:20,366 [WARNING] [MainThread] [root/weather.py:126]: Failed to fetch icon http://cdn.weatherapi.com/weather/64x64/day/113.png: HostNotFoundError 3
+2025-08-02 15:37:20,366 [WARNING] [MainThread] [root/weather.py:126]: Failed to fetch icon http://cdn.weatherapi.com/weather/64x64/day/113.png: HostNotFoundError 3
+2025-08-02 15:41:09,426 [WARNING] [Dummy-5] [root/event_listener.py:82]: Pipe has been ended: (109, 'PeekNamedPipe', 'The pipe has been ended.')
+2025-08-02 15:41:09,426 [INFO] [Dummy-5] [root/event_listener.py:92]: Attempting to reconnect to Komorebi...
+2025-08-02 15:41:12,427 [INFO] [Dummy-5] [root/event_listener.py:51]: Created named pipe yasb-2a3d1cdd-6fae-11f0-aa40-00155d9d3a7c
+2025-08-02 15:41:12,490 [INFO] [Dummy-5] [root/event_listener.py:125]: Komorebi connected to named pipe: yasb-2a3d1cdd-6fae-11f0-aa40-00155d9d3a7c
+2025-08-02 15:47:07,535 [INFO] [MainThread] [root/weather.py:67]: Fetching new weather data at 2025-08-02 15:47:07.535594
+2025-08-02 15:57:06,469 [INFO] [MainThread] [root/weather.py:67]: Fetching new weather data at 2025-08-02 15:57:06.469716
+2025-08-02 16:07:07,440 [INFO] [MainThread] [root/weather.py:67]: Fetching new weather data at 2025-08-02 16:07:07.440692
+2025-08-02 16:17:06,910 [INFO] [MainThread] [root/weather.py:67]: Fetching new weather data at 2025-08-02 16:17:06.910954
+2025-08-02 16:27:06,783 [INFO] [MainThread] [root/weather.py:67]: Fetching new weather data at 2025-08-02 16:27:06.783359
+2025-08-02 16:37:06,740 [INFO] [MainThread] [root/weather.py:67]: Fetching new weather data at 2025-08-02 16:37:06.740326
+2025-08-02 16:47:06,719 [INFO] [MainThread] [root/weather.py:67]: Fetching new weather data at 2025-08-02 16:47:06.719388
+2025-08-02 16:57:06,685 [INFO] [MainThread] [root/weather.py:67]: Fetching new weather data at 2025-08-02 16:57:06.685921
+2025-08-02 17:07:06,628 [INFO] [MainThread] [root/weather.py:67]: Fetching new weather data at 2025-08-02 17:07:06.628167
+2025-08-02 17:17:06,643 [INFO] [MainThread] [root/weather.py:67]: Fetching new weather data at 2025-08-02 17:17:06.643998
+2025-08-02 17:27:06,527 [INFO] [MainThread] [root/weather.py:67]: Fetching new weather data at 2025-08-02 17:27:06.526459
+2025-08-02 17:37:06,500 [INFO] [MainThread] [root/weather.py:67]: Fetching new weather data at 2025-08-02 17:37:06.500354
+2025-08-02 17:47:09,524 [INFO] [MainThread] [root/weather.py:67]: Fetching new weather data at 2025-08-02 17:47:09.524584
+2025-08-02 17:57:09,471 [INFO] [MainThread] [root/weather.py:67]: Fetching new weather data at 2025-08-02 17:57:09.471817
+2025-08-02 18:07:09,489 [INFO] [MainThread] [root/weather.py:67]: Fetching new weather data at 2025-08-02 18:07:09.489518
+2025-08-02 18:17:09,491 [INFO] [MainThread] [root/weather.py:67]: Fetching new weather data at 2025-08-02 18:17:09.491091
+2025-08-02 18:27:09,575 [INFO] [MainThread] [root/weather.py:67]: Fetching new weather data at 2025-08-02 18:27:09.575382
+2025-08-02 18:37:09,470 [INFO] [MainThread] [root/weather.py:67]: Fetching new weather data at 2025-08-02 18:37:09.470890
+2025-08-02 18:47:09,484 [INFO] [MainThread] [root/weather.py:67]: Fetching new weather data at 2025-08-02 18:47:09.484970
+2025-08-02 18:57:09,475 [INFO] [MainThread] [root/weather.py:67]: Fetching new weather data at 2025-08-02 18:57:09.475996
+2025-08-02 19:07:09,477 [INFO] [MainThread] [root/weather.py:67]: Fetching new weather data at 2025-08-02 19:07:09.477804
+2025-08-02 19:17:09,482 [INFO] [MainThread] [root/weather.py:67]: Fetching new weather data at 2025-08-02 19:17:09.482087
+2025-08-02 19:27:09,480 [INFO] [MainThread] [root/weather.py:67]: Fetching new weather data at 2025-08-02 19:27:09.480758
+2025-08-02 19:37:06,475 [INFO] [MainThread] [root/weather.py:67]: Fetching new weather data at 2025-08-02 19:37:06.475262
+2025-08-02 19:41:13,899 [WARNING] [Dummy-5] [root/event_listener.py:82]: Pipe has been ended: (109, 'PeekNamedPipe', 'The pipe has been ended.')
+2025-08-02 19:41:13,899 [INFO] [Dummy-5] [root/event_listener.py:92]: Attempting to reconnect to Komorebi...
+2025-08-02 19:52:58,267 [INFO] [MainThread] [root/log.py:59]: YASB v1.7.8
+2025-08-02 19:52:58,269 [INFO] [Thread-1 (_run_server)] [cli_server/cli_server.py:212]: CLI server started v1.1.2
+2025-08-02 19:52:58,269 [INFO] [MainThread] [cli_server/cli_server.py:104]: Log pipe server started
+2025-08-02 19:52:59,292 [DEBUG] [MainThread] [tzlocal/win32.py:55]: Looking up time zone info from registry
+2025-08-02 19:53:04,480 [DEBUG] [MainThread] [comtypes/__init__.py:149]: CoInitializeEx(None, 2)
+2025-08-02 19:53:05,296 [INFO] [MainThread] [root/bar_manager.py:74]: Starting KomorebiEventListener...
+2025-08-02 19:53:05,298 [INFO] [MainThread] [root/bar_manager.py:74]: Starting SystemEventListener...
+2025-08-02 19:53:05,298 [INFO] [MainThread] [root/bar_manager.py:74]: Starting WindowsNotificationEventListener...
+2025-08-02 19:53:05,299 [INFO] [Dummy-3] [root/event_listener.py:51]: Created named pipe yasb-ec5ef9e6-6fd1-11f0-94fb-00155d9d3a7c
+2025-08-02 19:53:05,300 [INFO] [MainThread] [root/watcher.py:54]: Created file watcher for path C:\Users\ilyes\.config\yasb
+2025-08-02 19:53:05,439 [DEBUG] [MainThread] [qasync._windows._EventPoller/_windows.py:213]: Starting (proactor: <_IocpProactor overlapped#=0 result#=0>)...
+2025-08-02 19:53:05,440 [DEBUG] [Dummy-9] [qasync._windows._EventWorker/_windows.py:192]: Thread started
+2025-08-02 19:53:05,884 [INFO] [MainThread] [root/weather.py:67]: Fetching new weather data at 2025-08-02 19:53:05.884154
+2025-08-02 19:53:20,772 [INFO] [Dummy-3] [root/event_listener.py:125]: Komorebi connected to named pipe: yasb-ec5ef9e6-6fd1-11f0-94fb-00155d9d3a7c
+2025-08-02 20:03:04,420 [INFO] [MainThread] [root/weather.py:67]: Fetching new weather data at 2025-08-02 20:03:04.420108
+2025-08-02 20:13:04,400 [INFO] [MainThread] [root/weather.py:67]: Fetching new weather data at 2025-08-02 20:13:04.400752
+2025-08-02 20:13:15,894 [WARNING] [Dummy-3] [root/event_listener.py:82]: Pipe has been ended: (109, 'PeekNamedPipe', 'The pipe has been ended.')
+2025-08-02 20:13:15,894 [INFO] [Dummy-3] [root/event_listener.py:92]: Attempting to reconnect to Komorebi...
+2025-08-02 20:27:34,858 [INFO] [MainThread] [root/log.py:59]: YASB v1.7.8
+2025-08-02 20:27:34,859 [INFO] [Thread-1 (_run_server)] [cli_server/cli_server.py:212]: CLI server started v1.1.2
+2025-08-02 20:27:34,859 [INFO] [MainThread] [cli_server/cli_server.py:104]: Log pipe server started
+2025-08-02 20:27:35,544 [DEBUG] [MainThread] [tzlocal/win32.py:55]: Looking up time zone info from registry
+2025-08-02 20:27:38,513 [DEBUG] [MainThread] [comtypes/__init__.py:149]: CoInitializeEx(None, 2)
+2025-08-02 20:27:39,052 [INFO] [MainThread] [root/bar_manager.py:74]: Starting WindowsNotificationEventListener...
+2025-08-02 20:27:39,053 [INFO] [MainThread] [root/bar_manager.py:74]: Starting KomorebiEventListener...
+2025-08-02 20:27:39,053 [INFO] [MainThread] [root/bar_manager.py:74]: Starting SystemEventListener...
+2025-08-02 20:27:39,054 [INFO] [MainThread] [root/watcher.py:54]: Created file watcher for path C:\Users\ilyes\.config\yasb
+2025-08-02 20:27:39,090 [INFO] [Dummy-5] [root/event_listener.py:51]: Created named pipe yasb-c06cf757-6fd6-11f0-a5ea-00155d9d3a7c
+2025-08-02 20:27:39,154 [DEBUG] [MainThread] [qasync._windows._EventPoller/_windows.py:213]: Starting (proactor: <_IocpProactor overlapped#=0 result#=0>)...
+2025-08-02 20:27:39,155 [DEBUG] [Dummy-9] [qasync._windows._EventWorker/_windows.py:192]: Thread started
+2025-08-02 20:27:39,999 [INFO] [MainThread] [root/weather.py:67]: Fetching new weather data at 2025-08-02 20:27:39.999878
+2025-08-02 20:27:44,285 [INFO] [Dummy-5] [root/event_listener.py:125]: Komorebi connected to named pipe: yasb-c06cf757-6fd6-11f0-a5ea-00155d9d3a7c
+2025-08-02 20:41:42,682 [INFO] [MainThread] [root/log.py:59]: YASB v1.7.8
+2025-08-02 20:41:42,684 [INFO] [Thread-1 (_run_server)] [cli_server/cli_server.py:212]: CLI server started v1.1.2
+2025-08-02 20:41:42,684 [INFO] [MainThread] [cli_server/cli_server.py:104]: Log pipe server started
+2025-08-02 20:41:43,291 [DEBUG] [MainThread] [tzlocal/win32.py:55]: Looking up time zone info from registry
+2025-08-03 13:52:56,177 [INFO] [MainThread] [root/log.py:59]: YASB v1.7.8
+2025-08-03 13:52:56,177 [INFO] [Thread-1 (_run_server)] [cli_server/cli_server.py:212]: CLI server started v1.1.2
+2025-08-03 13:52:56,178 [INFO] [MainThread] [cli_server/cli_server.py:104]: Log pipe server started
+2025-08-03 13:52:56,782 [DEBUG] [MainThread] [tzlocal/win32.py:55]: Looking up time zone info from registry
+2025-08-03 13:26:23,007 [INFO] [MainThread] [root/log.py:59]: YASB v1.7.8
+2025-08-03 13:26:23,008 [INFO] [Thread-1 (_run_server)] [cli_server/cli_server.py:212]: CLI server started v1.1.2
+2025-08-03 13:26:23,008 [INFO] [MainThread] [cli_server/cli_server.py:104]: Log pipe server started
+2025-08-03 13:26:23,732 [DEBUG] [MainThread] [tzlocal/win32.py:55]: Looking up time zone info from registry
+2025-08-03 13:26:26,470 [DEBUG] [MainThread] [comtypes/__init__.py:149]: CoInitializeEx(None, 2)
+2025-08-03 13:26:26,944 [INFO] [MainThread] [root/bar_manager.py:74]: Starting SystemEventListener...
+2025-08-03 13:26:26,944 [INFO] [MainThread] [root/bar_manager.py:74]: Starting KomorebiEventListener...
+2025-08-03 13:26:26,944 [INFO] [MainThread] [root/bar_manager.py:74]: Starting WindowsNotificationEventListener...
+2025-08-03 13:26:26,945 [INFO] [Dummy-3] [root/event_listener.py:51]: Created named pipe yasb-137cd432-7065-11f0-b157-00155d9d3a7c
+2025-08-03 13:26:26,946 [INFO] [MainThread] [root/watcher.py:54]: Created file watcher for path C:\Users\ilyes\.config\yasb
+2025-08-03 13:26:27,013 [DEBUG] [MainThread] [qasync._windows._EventPoller/_windows.py:213]: Starting (proactor: <_IocpProactor overlapped#=0 result#=0>)...
+2025-08-03 13:26:27,014 [DEBUG] [Dummy-9] [qasync._windows._EventWorker/_windows.py:192]: Thread started
+2025-08-03 13:26:37,222 [INFO] [Dummy-3] [root/event_listener.py:125]: Komorebi connected to named pipe: yasb-137cd432-7065-11f0-b157-00155d9d3a7c
+2025-08-03 13:26:39,508 [ERROR] [MainThread] [root/weather.py:77]: Weather response error: HostNotFoundError 3.
+2025-08-03 13:26:39,508 [WARNING] [MainThread] [root/weather.py:544]: Error processing weather data: Weather data is empty.. Retrying fetch in 10 seconds.
+2025-08-03 13:26:51,228 [INFO] [MainThread] [root/weather.py:67]: Fetching new weather data at 2025-08-03 13:26:51.228058
+2025-08-03 13:29:55,227 [WARNING] [Dummy-3] [root/event_listener.py:82]: Pipe has been ended: (109, 'PeekNamedPipe', 'The pipe has been ended.')
+2025-08-03 13:29:55,227 [INFO] [Dummy-3] [root/event_listener.py:92]: Attempting to reconnect to Komorebi...
+2025-08-03 13:29:58,231 [INFO] [Dummy-3] [root/event_listener.py:51]: Created named pipe yasb-137cd432-7065-11f0-b157-00155d9d3a7c
+2025-08-03 13:29:58,300 [INFO] [Dummy-3] [root/event_listener.py:125]: Komorebi connected to named pipe: yasb-137cd432-7065-11f0-b157-00155d9d3a7c
+2025-08-03 13:36:37,671 [ERROR] [MainThread] [root/weather.py:77]: Weather response error: HostNotFoundError 3.
+2025-08-03 13:36:37,671 [WARNING] [MainThread] [root/weather.py:544]: Error processing weather data: Weather data is empty.. Retrying fetch in 10 seconds.
+2025-08-03 13:36:48,966 [INFO] [MainThread] [root/weather.py:67]: Fetching new weather data at 2025-08-03 13:36:48.966405
+2025-08-03 13:46:38,202 [ERROR] [MainThread] [root/weather.py:77]: Weather response error: HostNotFoundError 3.
+2025-08-03 13:46:38,203 [WARNING] [MainThread] [root/weather.py:544]: Error processing weather data: Weather data is empty.. Retrying fetch in 10 seconds.
+2025-08-03 13:46:49,563 [INFO] [MainThread] [root/weather.py:67]: Fetching new weather data at 2025-08-03 13:46:49.563076
+2025-08-03 13:56:34,601 [INFO] [MainThread] [root/weather.py:67]: Fetching new weather data at 2025-08-03 13:56:34.601288
+2025-08-03 14:06:38,239 [ERROR] [MainThread] [root/weather.py:77]: Weather response error: HostNotFoundError 3.
+2025-08-03 14:06:38,239 [WARNING] [MainThread] [root/weather.py:544]: Error processing weather data: Weather data is empty.. Retrying fetch in 10 seconds.
+2025-08-03 14:06:48,626 [INFO] [MainThread] [root/weather.py:67]: Fetching new weather data at 2025-08-03 14:06:48.626580
+2025-08-03 14:16:38,234 [ERROR] [MainThread] [root/weather.py:77]: Weather response error: HostNotFoundError 3.
+2025-08-03 14:16:38,234 [WARNING] [MainThread] [root/weather.py:544]: Error processing weather data: Weather data is empty.. Retrying fetch in 10 seconds.
+2025-08-03 14:17:00,279 [ERROR] [MainThread] [root/weather.py:77]: Weather response error: HostNotFoundError 3.
+2025-08-03 14:17:00,279 [WARNING] [MainThread] [root/weather.py:544]: Error processing weather data: Weather data is empty.. Retrying fetch in 10 seconds.
+2025-08-03 14:17:11,529 [INFO] [MainThread] [root/weather.py:67]: Fetching new weather data at 2025-08-03 14:17:11.529260
+2025-08-03 14:26:27,332 [INFO] [MainThread] [root/weather.py:67]: Fetching new weather data at 2025-08-03 14:26:27.331589
+2025-08-03 14:36:26,554 [INFO] [MainThread] [root/weather.py:67]: Fetching new weather data at 2025-08-03 14:36:26.554546
+2025-08-03 14:46:38,231 [ERROR] [MainThread] [root/weather.py:77]: Weather response error: HostNotFoundError 3.
+2025-08-03 14:46:38,231 [WARNING] [MainThread] [root/weather.py:544]: Error processing weather data: Weather data is empty.. Retrying fetch in 10 seconds.
+2025-08-03 14:46:49,385 [INFO] [MainThread] [root/weather.py:67]: Fetching new weather data at 2025-08-03 14:46:49.385044
+2025-08-03 14:56:27,931 [INFO] [MainThread] [root/weather.py:67]: Fetching new weather data at 2025-08-03 14:56:27.931007
+2025-08-03 15:06:26,508 [INFO] [MainThread] [root/weather.py:67]: Fetching new weather data at 2025-08-03 15:06:26.508047
+2025-08-03 15:16:38,227 [ERROR] [MainThread] [root/weather.py:77]: Weather response error: HostNotFoundError 3.
+2025-08-03 15:16:38,227 [WARNING] [MainThread] [root/weather.py:544]: Error processing weather data: Weather data is empty.. Retrying fetch in 10 seconds.
+2025-08-03 15:16:56,397 [INFO] [MainThread] [root/weather.py:67]: Fetching new weather data at 2025-08-03 15:16:56.397713
+2025-08-03 15:26:26,324 [INFO] [MainThread] [root/weather.py:67]: Fetching new weather data at 2025-08-03 15:26:26.324397
+2025-08-03 15:36:27,729 [INFO] [MainThread] [root/weather.py:67]: Fetching new weather data at 2025-08-03 15:36:27.729580
+2025-08-03 15:46:38,220 [ERROR] [MainThread] [root/weather.py:77]: Weather response error: HostNotFoundError 3.
+2025-08-03 15:46:38,220 [WARNING] [MainThread] [root/weather.py:544]: Error processing weather data: Weather data is empty.. Retrying fetch in 10 seconds.
+2025-08-03 15:46:48,499 [INFO] [MainThread] [root/weather.py:67]: Fetching new weather data at 2025-08-03 15:46:48.499662
+2025-08-03 15:46:55,131 [WARNING] [Dummy-3] [root/event_listener.py:82]: Pipe has been ended: (109, 'PeekNamedPipe', 'The pipe has been ended.')
+2025-08-03 15:46:55,131 [INFO] [Dummy-3] [root/event_listener.py:92]: Attempting to reconnect to Komorebi...
+2025-08-03 15:46:58,136 [INFO] [Dummy-3] [root/event_listener.py:51]: Created named pipe yasb-137cd432-7065-11f0-b157-00155d9d3a7c
+2025-08-03 15:56:38,234 [ERROR] [MainThread] [root/weather.py:77]: Weather response error: HostNotFoundError 3.
+2025-08-03 15:56:38,234 [WARNING] [MainThread] [root/weather.py:544]: Error processing weather data: Weather data is empty.. Retrying fetch in 10 seconds.
+2025-08-03 15:56:48,585 [INFO] [MainThread] [root/weather.py:67]: Fetching new weather data at 2025-08-03 15:56:48.585243
+2025-08-03 17:06:37,533 [ERROR] [MainThread] [root/weather.py:77]: Weather response error: HostNotFoundError 3.
+2025-08-03 17:06:37,533 [WARNING] [MainThread] [root/weather.py:544]: Error processing weather data: Weather data is empty.. Retrying fetch in 10 seconds.
+2025-08-03 17:06:48,688 [INFO] [MainThread] [root/weather.py:67]: Fetching new weather data at 2025-08-03 17:06:48.688991
+2025-08-03 17:16:30,854 [INFO] [MainThread] [root/weather.py:67]: Fetching new weather data at 2025-08-03 17:16:30.854465
+2025-08-03 17:26:26,617 [INFO] [MainThread] [root/weather.py:67]: Fetching new weather data at 2025-08-03 17:26:26.617443
+2025-08-03 17:36:38,504 [ERROR] [MainThread] [root/weather.py:77]: Weather response error: HostNotFoundError 3.
+2025-08-03 17:36:38,505 [WARNING] [MainThread] [root/weather.py:544]: Error processing weather data: Weather data is empty.. Retrying fetch in 10 seconds.
+2025-08-03 17:37:00,542 [ERROR] [MainThread] [root/weather.py:77]: Weather response error: HostNotFoundError 3.
+2025-08-03 17:37:00,542 [WARNING] [MainThread] [root/weather.py:544]: Error processing weather data: Weather data is empty.. Retrying fetch in 10 seconds.
+2025-08-03 17:37:11,894 [INFO] [MainThread] [root/weather.py:67]: Fetching new weather data at 2025-08-03 17:37:11.894179
+2025-08-03 17:46:27,710 [INFO] [MainThread] [root/weather.py:67]: Fetching new weather data at 2025-08-03 17:46:27.710033
+2025-08-03 17:56:30,869 [INFO] [MainThread] [root/weather.py:67]: Fetching new weather data at 2025-08-03 17:56:30.869132
+2025-08-03 18:06:38,520 [ERROR] [MainThread] [root/weather.py:77]: Weather response error: HostNotFoundError 3.
+2025-08-03 18:06:38,521 [WARNING] [MainThread] [root/weather.py:544]: Error processing weather data: Weather data is empty.. Retrying fetch in 10 seconds.
+2025-08-03 18:06:48,881 [INFO] [MainThread] [root/weather.py:67]: Fetching new weather data at 2025-08-03 18:06:48.881876
+2025-08-03 18:16:38,532 [ERROR] [MainThread] [root/weather.py:77]: Weather response error: HostNotFoundError 3.
+2025-08-03 18:16:38,532 [WARNING] [MainThread] [root/weather.py:544]: Error processing weather data: Weather data is empty.. Retrying fetch in 10 seconds.
+2025-08-03 18:16:49,670 [INFO] [MainThread] [root/weather.py:67]: Fetching new weather data at 2025-08-03 18:16:49.670583
+2025-08-03 18:26:37,521 [ERROR] [MainThread] [root/weather.py:77]: Weather response error: HostNotFoundError 3.
+2025-08-03 18:26:37,522 [WARNING] [MainThread] [root/weather.py:544]: Error processing weather data: Weather data is empty.. Retrying fetch in 10 seconds.
+2025-08-03 18:26:48,874 [INFO] [MainThread] [root/weather.py:67]: Fetching new weather data at 2025-08-03 18:26:48.873648
+2025-08-03 18:36:38,531 [ERROR] [MainThread] [root/weather.py:77]: Weather response error: HostNotFoundError 3.
+2025-08-03 18:36:38,531 [WARNING] [MainThread] [root/weather.py:544]: Error processing weather data: Weather data is empty.. Retrying fetch in 10 seconds.
+2025-08-03 18:36:48,940 [INFO] [MainThread] [root/weather.py:67]: Fetching new weather data at 2025-08-03 18:36:48.940731
+2025-08-03 18:46:37,525 [ERROR] [MainThread] [root/weather.py:77]: Weather response error: HostNotFoundError 3.
+2025-08-03 18:46:37,526 [WARNING] [MainThread] [root/weather.py:544]: Error processing weather data: Weather data is empty.. Retrying fetch in 10 seconds.
+2025-08-03 18:46:47,832 [INFO] [MainThread] [root/weather.py:67]: Fetching new weather data at 2025-08-03 18:46:47.832190
+2025-08-03 18:56:34,726 [INFO] [MainThread] [root/weather.py:67]: Fetching new weather data at 2025-08-03 18:56:34.726148
+2025-08-03 19:06:26,646 [INFO] [MainThread] [root/weather.py:67]: Fetching new weather data at 2025-08-03 19:06:26.646248
+2025-08-03 19:10:45,989 [INFO] [MainThread] [root/controller.py:15]: Reloading Application from tray...
+2025-08-03 19:10:46,103 [INFO] [MainThread] [cli_server/cli_server.py:112]: Log pipe server stopped
+2025-08-03 19:10:46,103 [DEBUG] [MainThread] [cli_server/cli_server.py:206]: CLI server stopped
+2025-08-03 19:10:46,136 [DEBUG] [MainThread] [qasync._windows._EventPoller/_windows.py:218]: Stopping worker thread...
+2025-08-03 19:10:46,150 [DEBUG] [Dummy-9] [qasync._windows._EventWorker/_windows.py:201]: Exiting thread
+2025-08-03 19:10:46,151 [DEBUG] [MainThread] [qasync._windows._IocpProactor/_windows.py:75]: Closing
+2025-08-03 19:10:48,838 [INFO] [MainThread] [root/log.py:59]: YASB v1.7.8
+2025-08-03 19:10:48,839 [INFO] [Thread-1 (_run_server)] [cli_server/cli_server.py:212]: CLI server started v1.1.2
+2025-08-03 19:10:48,839 [INFO] [MainThread] [cli_server/cli_server.py:104]: Log pipe server started
+2025-08-03 19:10:49,499 [DEBUG] [MainThread] [tzlocal/win32.py:55]: Looking up time zone info from registry
+2025-08-03 19:10:52,251 [DEBUG] [MainThread] [comtypes/__init__.py:149]: CoInitializeEx(None, 2)
+2025-08-03 19:10:52,764 [INFO] [MainThread] [root/bar_manager.py:74]: Starting WindowsNotificationEventListener...
+2025-08-03 19:10:52,766 [INFO] [MainThread] [root/bar_manager.py:74]: Starting SystemEventListener...
+2025-08-03 19:10:52,766 [INFO] [MainThread] [root/bar_manager.py:74]: Starting KomorebiEventListener...
+2025-08-03 19:10:52,767 [INFO] [MainThread] [root/watcher.py:54]: Created file watcher for path C:\Users\ilyes\.config\yasb
+2025-08-03 19:10:52,825 [INFO] [Dummy-5] [root/event_listener.py:51]: Created named pipe yasb-314723d4-7095-11f0-99a9-00155d9d3a7c
+2025-08-03 19:10:52,878 [DEBUG] [MainThread] [qasync._windows._EventPoller/_windows.py:213]: Starting (proactor: <_IocpProactor overlapped#=0 result#=0>)...
+2025-08-03 19:10:52,928 [DEBUG] [Dummy-9] [qasync._windows._EventWorker/_windows.py:192]: Thread started
+2025-08-03 19:10:52,975 [INFO] [Dummy-5] [root/event_listener.py:125]: Komorebi connected to named pipe: yasb-314723d4-7095-11f0-99a9-00155d9d3a7c
+2025-08-03 19:10:53,794 [INFO] [MainThread] [root/weather.py:67]: Fetching new weather data at 2025-08-03 19:10:53.794352
+2025-08-03 19:21:03,966 [ERROR] [MainThread] [root/weather.py:77]: Weather response error: HostNotFoundError 3.
+2025-08-03 19:21:03,966 [WARNING] [MainThread] [root/weather.py:544]: Error processing weather data: Weather data is empty.. Retrying fetch in 10 seconds.
+2025-08-03 19:21:26,015 [ERROR] [MainThread] [root/weather.py:77]: Weather response error: HostNotFoundError 3.
+2025-08-03 19:21:26,015 [WARNING] [MainThread] [root/weather.py:544]: Error processing weather data: Weather data is empty.. Retrying fetch in 10 seconds.
+2025-08-03 19:21:36,399 [INFO] [MainThread] [root/weather.py:67]: Fetching new weather data at 2025-08-03 19:21:36.399686
+2025-08-03 19:30:52,105 [INFO] [MainThread] [root/weather.py:67]: Fetching new weather data at 2025-08-03 19:30:52.105279
+2025-08-03 19:40:53,088 [INFO] [MainThread] [root/weather.py:67]: Fetching new weather data at 2025-08-03 19:40:53.088919
+2025-08-03 19:50:52,625 [INFO] [MainThread] [root/weather.py:67]: Fetching new weather data at 2025-08-03 19:50:52.625335
+2025-08-03 20:00:52,555 [INFO] [MainThread] [root/weather.py:67]: Fetching new weather data at 2025-08-03 20:00:52.555165
+2025-08-03 20:10:52,505 [INFO] [MainThread] [root/weather.py:67]: Fetching new weather data at 2025-08-03 20:10:52.505665
+2025-08-03 20:20:52,402 [INFO] [MainThread] [root/weather.py:67]: Fetching new weather data at 2025-08-03 20:20:52.402016
+2025-08-03 20:30:52,412 [INFO] [MainThread] [root/weather.py:67]: Fetching new weather data at 2025-08-03 20:30:52.412370
+2025-08-03 20:40:52,402 [INFO] [MainThread] [root/weather.py:67]: Fetching new weather data at 2025-08-03 20:40:52.402898
+2025-08-03 20:50:52,412 [INFO] [MainThread] [root/weather.py:67]: Fetching new weather data at 2025-08-03 20:50:52.412076
+2025-08-03 21:00:52,411 [INFO] [MainThread] [root/weather.py:67]: Fetching new weather data at 2025-08-03 21:00:52.411741
+2025-08-03 21:48:02,886 [ERROR] [MainThread] [root/weather.py:77]: Weather response error: HostNotFoundError 3.
+2025-08-03 21:48:02,887 [WARNING] [MainThread] [root/weather.py:544]: Error processing weather data: Weather data is empty.. Retrying fetch in 10 seconds.
+2025-08-03 21:48:13,322 [INFO] [MainThread] [root/weather.py:67]: Fetching new weather data at 2025-08-03 21:48:13.322224
+2025-08-03 21:58:01,856 [INFO] [MainThread] [root/weather.py:67]: Fetching new weather data at 2025-08-03 21:58:01.856974
+2025-08-03 22:08:01,782 [INFO] [MainThread] [root/weather.py:67]: Fetching new weather data at 2025-08-03 22:08:01.782551
+2025-08-03 22:18:04,712 [INFO] [MainThread] [root/weather.py:67]: Fetching new weather data at 2025-08-03 22:18:04.712072
+2025-08-03 22:19:13,116 [DEBUG] [MainThread] [qasync._windows._EventPoller/_windows.py:218]: Stopping worker thread...
+2025-08-03 22:19:13,117 [DEBUG] [Dummy-9] [qasync._windows._EventWorker/_windows.py:201]: Exiting thread
+2025-08-03 22:19:13,118 [DEBUG] [MainThread] [qasync._windows._IocpProactor/_windows.py:75]: Closing
+2025-08-04 15:31:34,410 [INFO] [MainThread] [root/log.py:59]: YASB v1.7.8
+2025-08-04 15:31:34,411 [INFO] [Thread-1 (_run_server)] [cli_server/cli_server.py:212]: CLI server started v1.1.2
+2025-08-04 15:31:34,412 [INFO] [MainThread] [cli_server/cli_server.py:104]: Log pipe server started
+2025-08-04 15:31:35,334 [DEBUG] [MainThread] [tzlocal/win32.py:55]: Looking up time zone info from registry
+2025-08-04 15:31:39,102 [DEBUG] [MainThread] [comtypes/__init__.py:149]: CoInitializeEx(None, 2)
+2025-08-04 15:31:39,670 [INFO] [MainThread] [root/bar_manager.py:74]: Starting SystemEventListener...
+2025-08-04 15:31:39,671 [INFO] [MainThread] [root/bar_manager.py:74]: Starting KomorebiEventListener...
+2025-08-04 15:31:39,671 [INFO] [MainThread] [root/bar_manager.py:74]: Starting WindowsNotificationEventListener...
+2025-08-04 15:31:39,672 [INFO] [Dummy-3] [root/event_listener.py:51]: Created named pipe yasb-bbd5d236-713f-11f0-b038-00155d9d3a7c
+2025-08-04 15:31:39,673 [INFO] [MainThread] [root/watcher.py:54]: Created file watcher for path C:\Users\ilyes\.config\yasb
+2025-08-04 15:31:39,818 [DEBUG] [MainThread] [qasync._windows._EventPoller/_windows.py:213]: Starting (proactor: <_IocpProactor overlapped#=0 result#=0>)...
+2025-08-04 15:31:39,821 [DEBUG] [Dummy-9] [qasync._windows._EventWorker/_windows.py:192]: Thread started
+2025-08-04 15:31:40,588 [INFO] [MainThread] [root/weather.py:67]: Fetching new weather data at 2025-08-04 15:31:40.588757
+2025-08-04 15:31:44,916 [INFO] [Dummy-3] [root/event_listener.py:125]: Komorebi connected to named pipe: yasb-bbd5d236-713f-11f0-b038-00155d9d3a7c
+2025-08-04 15:41:50,763 [ERROR] [MainThread] [root/weather.py:77]: Weather response error: HostNotFoundError 3.
+2025-08-04 15:41:50,764 [WARNING] [MainThread] [root/weather.py:544]: Error processing weather data: Weather data is empty.. Retrying fetch in 10 seconds.
+2025-08-04 15:42:01,927 [INFO] [MainThread] [root/weather.py:67]: Fetching new weather data at 2025-08-04 15:42:01.927337
+2025-08-04 15:51:39,076 [INFO] [MainThread] [root/weather.py:67]: Fetching new weather data at 2025-08-04 15:51:39.076426
+2025-08-04 16:01:39,942 [INFO] [MainThread] [root/weather.py:67]: Fetching new weather data at 2025-08-04 16:01:39.942041
+2025-08-04 16:11:40,127 [INFO] [MainThread] [root/weather.py:67]: Fetching new weather data at 2025-08-04 16:11:40.127296
+2025-08-04 16:21:50,764 [ERROR] [MainThread] [root/weather.py:77]: Weather response error: HostNotFoundError 3.
+2025-08-04 16:21:50,764 [WARNING] [MainThread] [root/weather.py:544]: Error processing weather data: Weather data is empty.. Retrying fetch in 10 seconds.
+2025-08-04 16:22:01,131 [INFO] [MainThread] [root/weather.py:67]: Fetching new weather data at 2025-08-04 16:22:01.130077
+2025-08-04 16:24:23,577 [WARNING] [Dummy-3] [root/event_listener.py:82]: Pipe has been ended: (109, 'PeekNamedPipe', 'The pipe has been ended.')
+2025-08-04 16:24:23,577 [INFO] [Dummy-3] [root/event_listener.py:92]: Attempting to reconnect to Komorebi...
+2025-08-04 16:24:26,578 [INFO] [Dummy-3] [root/event_listener.py:51]: Created named pipe yasb-bbd5d236-713f-11f0-b038-00155d9d3a7c
+2025-08-04 16:24:26,644 [INFO] [Dummy-3] [root/event_listener.py:125]: Komorebi connected to named pipe: yasb-bbd5d236-713f-11f0-b038-00155d9d3a7c
+2025-08-04 16:31:50,765 [ERROR] [MainThread] [root/weather.py:77]: Weather response error: HostNotFoundError 3.
+2025-08-04 16:31:50,766 [WARNING] [MainThread] [root/weather.py:544]: Error processing weather data: Weather data is empty.. Retrying fetch in 10 seconds.
+2025-08-04 16:32:02,172 [INFO] [MainThread] [root/weather.py:67]: Fetching new weather data at 2025-08-04 16:32:02.172321
+2025-08-04 16:41:50,550 [ERROR] [MainThread] [root/weather.py:77]: Weather response error: HostNotFoundError 3.
+2025-08-04 16:41:50,551 [WARNING] [MainThread] [root/weather.py:544]: Error processing weather data: Weather data is empty.. Retrying fetch in 10 seconds.
+2025-08-04 16:42:01,486 [INFO] [MainThread] [root/weather.py:67]: Fetching new weather data at 2025-08-04 16:42:01.486030
+2025-08-04 16:51:42,571 [INFO] [MainThread] [root/weather.py:67]: Fetching new weather data at 2025-08-04 16:51:42.571010
+2025-08-04 17:01:39,849 [INFO] [MainThread] [root/weather.py:67]: Fetching new weather data at 2025-08-04 17:01:39.849092
+2025-08-04 17:11:39,535 [INFO] [MainThread] [root/weather.py:67]: Fetching new weather data at 2025-08-04 17:11:39.534268
+2025-08-04 17:21:39,732 [INFO] [MainThread] [root/weather.py:67]: Fetching new weather data at 2025-08-04 17:21:39.732058
+2025-08-04 17:31:49,917 [ERROR] [MainThread] [root/weather.py:77]: Weather response error: HostNotFoundError 3.
+2025-08-04 17:31:49,918 [WARNING] [MainThread] [root/weather.py:544]: Error processing weather data: Weather data is empty.. Retrying fetch in 10 seconds.
+2025-08-04 17:32:00,639 [INFO] [MainThread] [root/weather.py:67]: Fetching new weather data at 2025-08-04 17:32:00.639009
+2025-08-04 17:41:40,050 [INFO] [MainThread] [root/weather.py:67]: Fetching new weather data at 2025-08-04 17:41:40.050126
+2025-08-04 17:51:40,047 [INFO] [MainThread] [root/weather.py:67]: Fetching new weather data at 2025-08-04 17:51:40.047278
+2025-08-04 18:01:50,758 [ERROR] [MainThread] [root/weather.py:77]: Weather response error: HostNotFoundError 3.
+2025-08-04 18:01:50,758 [WARNING] [MainThread] [root/weather.py:544]: Error processing weather data: Weather data is empty.. Retrying fetch in 10 seconds.
+2025-08-04 18:02:12,809 [ERROR] [MainThread] [root/weather.py:77]: Weather response error: HostNotFoundError 3.
+2025-08-04 18:02:12,809 [WARNING] [MainThread] [root/weather.py:544]: Error processing weather data: Weather data is empty.. Retrying fetch in 10 seconds.
+2025-08-04 18:02:34,850 [ERROR] [MainThread] [root/weather.py:77]: Weather response error: HostNotFoundError 3.
+2025-08-04 18:02:34,850 [WARNING] [MainThread] [root/weather.py:544]: Error processing weather data: Weather data is empty.. Retrying fetch in 10 seconds.
+2025-08-04 18:02:46,447 [INFO] [MainThread] [root/weather.py:67]: Fetching new weather data at 2025-08-04 18:02:46.447727
+2025-08-04 18:11:39,711 [INFO] [MainThread] [root/weather.py:67]: Fetching new weather data at 2025-08-04 18:11:39.711980
+2025-08-04 18:21:39,467 [INFO] [MainThread] [root/weather.py:67]: Fetching new weather data at 2025-08-04 18:21:39.467962
+2025-08-04 18:31:39,318 [INFO] [MainThread] [root/weather.py:67]: Fetching new weather data at 2025-08-04 18:31:39.318548
+2025-08-04 18:41:39,260 [INFO] [MainThread] [root/weather.py:67]: Fetching new weather data at 2025-08-04 18:41:39.260054
+2025-08-04 18:51:39,312 [INFO] [MainThread] [root/weather.py:67]: Fetching new weather data at 2025-08-04 18:51:39.312565
+2025-08-04 19:01:39,709 [INFO] [MainThread] [root/weather.py:67]: Fetching new weather data at 2025-08-04 19:01:39.709003
+2025-08-04 19:11:39,157 [INFO] [MainThread] [root/weather.py:67]: Fetching new weather data at 2025-08-04 19:11:39.157172
+2025-08-04 19:21:39,300 [INFO] [MainThread] [root/weather.py:67]: Fetching new weather data at 2025-08-04 19:21:39.300975
+2025-08-04 19:31:39,063 [INFO] [MainThread] [root/weather.py:67]: Fetching new weather data at 2025-08-04 19:31:39.063395
+2025-08-04 19:41:42,026 [INFO] [MainThread] [root/weather.py:67]: Fetching new weather data at 2025-08-04 19:41:42.026340
+2025-08-04 19:51:39,002 [INFO] [MainThread] [root/weather.py:67]: Fetching new weather data at 2025-08-04 19:51:39.002111
+2025-08-04 20:01:42,031 [INFO] [MainThread] [root/weather.py:67]: Fetching new weather data at 2025-08-04 20:01:42.031084
+2025-08-04 20:11:39,098 [INFO] [MainThread] [root/weather.py:67]: Fetching new weather data at 2025-08-04 20:11:39.098234
+2025-08-04 20:21:42,424 [INFO] [MainThread] [root/weather.py:67]: Fetching new weather data at 2025-08-04 20:21:42.424450
+2025-08-04 20:31:42,014 [INFO] [MainThread] [root/weather.py:67]: Fetching new weather data at 2025-08-04 20:31:42.014995
+2025-08-04 20:41:42,020 [INFO] [MainThread] [root/weather.py:67]: Fetching new weather data at 2025-08-04 20:41:42.020229
+2025-08-04 20:51:42,054 [INFO] [MainThread] [root/weather.py:67]: Fetching new weather data at 2025-08-04 20:51:42.054161
+2025-08-04 21:01:42,035 [INFO] [MainThread] [root/weather.py:67]: Fetching new weather data at 2025-08-04 21:01:42.035403
+2025-08-04 21:11:42,039 [INFO] [MainThread] [root/weather.py:67]: Fetching new weather data at 2025-08-04 21:11:42.037791
+2025-08-04 21:21:42,200 [INFO] [MainThread] [root/weather.py:67]: Fetching new weather data at 2025-08-04 21:21:42.200051
+2025-08-04 21:31:42,049 [INFO] [MainThread] [root/weather.py:67]: Fetching new weather data at 2025-08-04 21:31:42.049898
+2025-08-04 21:41:42,100 [INFO] [MainThread] [root/weather.py:67]: Fetching new weather data at 2025-08-04 21:41:42.100819
+2025-08-04 21:51:42,029 [INFO] [MainThread] [root/weather.py:67]: Fetching new weather data at 2025-08-04 21:51:42.029591
+2025-08-04 22:01:42,048 [INFO] [MainThread] [root/weather.py:67]: Fetching new weather data at 2025-08-04 22:01:42.048035
+2025-08-04 22:11:42,041 [INFO] [MainThread] [root/weather.py:67]: Fetching new weather data at 2025-08-04 22:11:42.041661
+2025-08-04 22:21:42,057 [INFO] [MainThread] [root/weather.py:67]: Fetching new weather data at 2025-08-04 22:21:42.057869
+2025-08-04 22:31:42,060 [INFO] [MainThread] [root/weather.py:67]: Fetching new weather data at 2025-08-04 22:31:42.060006
+2025-08-04 22:41:39,040 [INFO] [MainThread] [root/weather.py:67]: Fetching new weather data at 2025-08-04 22:41:39.040028
+2025-08-04 22:51:42,072 [INFO] [MainThread] [root/weather.py:67]: Fetching new weather data at 2025-08-04 22:51:42.072927
+2025-08-04 23:01:42,093 [INFO] [MainThread] [root/weather.py:67]: Fetching new weather data at 2025-08-04 23:01:42.093442
+2025-08-04 23:11:42,110 [INFO] [MainThread] [root/weather.py:67]: Fetching new weather data at 2025-08-04 23:11:42.110545
+2025-08-04 23:21:42,163 [INFO] [MainThread] [root/weather.py:67]: Fetching new weather data at 2025-08-04 23:21:42.163139
+2025-08-04 23:31:42,134 [INFO] [MainThread] [root/weather.py:67]: Fetching new weather data at 2025-08-04 23:31:42.134865
+2025-08-04 23:41:39,120 [INFO] [MainThread] [root/weather.py:67]: Fetching new weather data at 2025-08-04 23:41:39.120802
+2025-08-04 23:51:42,110 [INFO] [MainThread] [root/weather.py:67]: Fetching new weather data at 2025-08-04 23:51:42.110710
+2025-08-05 00:01:42,136 [INFO] [MainThread] [root/weather.py:67]: Fetching new weather data at 2025-08-05 00:01:42.136990
+2025-08-05 00:11:42,130 [INFO] [MainThread] [root/weather.py:67]: Fetching new weather data at 2025-08-05 00:11:42.130391
+2025-08-05 00:21:42,214 [INFO] [MainThread] [root/weather.py:67]: Fetching new weather data at 2025-08-05 00:21:42.214317
+2025-08-05 00:31:42,228 [INFO] [MainThread] [root/weather.py:67]: Fetching new weather data at 2025-08-05 00:31:42.228147
+2025-08-05 00:41:39,133 [INFO] [MainThread] [root/weather.py:67]: Fetching new weather data at 2025-08-05 00:41:39.132318
+2025-08-05 13:59:35,546 [INFO] [MainThread] [root/log.py:59]: YASB v1.7.8
+2025-08-05 13:59:35,547 [INFO] [Thread-1 (_run_server)] [cli_server/cli_server.py:212]: CLI server started v1.1.2
+2025-08-05 13:59:35,547 [INFO] [MainThread] [cli_server/cli_server.py:104]: Log pipe server started
+2025-08-05 13:59:36,681 [DEBUG] [MainThread] [tzlocal/win32.py:55]: Looking up time zone info from registry
+2025-08-05 13:59:39,988 [DEBUG] [MainThread] [comtypes/__init__.py:149]: CoInitializeEx(None, 2)
+2025-08-05 13:59:40,529 [INFO] [MainThread] [root/bar_manager.py:74]: Starting SystemEventListener...
+2025-08-05 13:59:40,529 [INFO] [MainThread] [root/bar_manager.py:74]: Starting WindowsNotificationEventListener...
+2025-08-05 13:59:40,531 [INFO] [MainThread] [root/bar_manager.py:74]: Starting KomorebiEventListener...
+2025-08-05 13:59:40,532 [INFO] [MainThread] [root/watcher.py:54]: Created file watcher for path C:\Users\ilyes\.config\yasb
+2025-08-05 13:59:40,535 [INFO] [Dummy-5] [root/event_listener.py:51]: Created named pipe yasb-0c958ed0-71fc-11f0-b669-00155d9d3a7c
+2025-08-05 13:59:40,601 [DEBUG] [MainThread] [qasync._windows._EventPoller/_windows.py:213]: Starting (proactor: <_IocpProactor overlapped#=0 result#=0>)...
+2025-08-05 13:59:40,640 [DEBUG] [Dummy-9] [qasync._windows._EventWorker/_windows.py:192]: Thread started
+2025-08-05 13:59:43,887 [INFO] [MainThread] [root/weather.py:67]: Fetching new weather data at 2025-08-05 13:59:43.887335
+2025-08-05 13:59:50,822 [INFO] [Dummy-5] [root/event_listener.py:125]: Komorebi connected to named pipe: yasb-0c958ed0-71fc-11f0-b669-00155d9d3a7c
+2025-08-05 14:01:49,312 [WARNING] [Dummy-5] [root/event_listener.py:82]: Pipe has been ended: (109, 'PeekNamedPipe', 'The pipe has been ended.')
+2025-08-05 14:01:49,318 [INFO] [Dummy-5] [root/event_listener.py:92]: Attempting to reconnect to Komorebi...
+2025-08-05 14:03:21,556 [INFO] [MainThread] [root/log.py:59]: YASB v1.7.8
+2025-08-05 14:03:21,557 [INFO] [Thread-1 (_run_server)] [cli_server/cli_server.py:212]: CLI server started v1.1.2
+2025-08-05 14:03:21,557 [INFO] [MainThread] [cli_server/cli_server.py:104]: Log pipe server started
+2025-08-05 14:03:22,459 [DEBUG] [MainThread] [tzlocal/win32.py:55]: Looking up time zone info from registry
+2025-08-05 14:03:25,454 [DEBUG] [MainThread] [comtypes/__init__.py:149]: CoInitializeEx(None, 2)
+2025-08-05 14:03:26,030 [INFO] [MainThread] [root/bar_manager.py:74]: Starting WindowsNotificationEventListener...
+2025-08-05 14:03:26,031 [INFO] [MainThread] [root/bar_manager.py:74]: Starting KomorebiEventListener...
+2025-08-05 14:03:26,032 [INFO] [MainThread] [root/bar_manager.py:74]: Starting SystemEventListener...
+2025-08-05 14:03:26,032 [INFO] [MainThread] [root/watcher.py:54]: Created file watcher for path C:\Users\ilyes\.config\yasb
+2025-08-05 14:03:26,036 [INFO] [Dummy-5] [root/event_listener.py:51]: Created named pipe yasb-92fe3c3c-71fc-11f0-80b2-00155d9d3a7c
+2025-08-05 14:03:26,107 [DEBUG] [MainThread] [qasync._windows._EventPoller/_windows.py:213]: Starting (proactor: <_IocpProactor overlapped#=0 result#=0>)...
+2025-08-05 14:03:26,107 [DEBUG] [Dummy-9] [qasync._windows._EventWorker/_windows.py:192]: Thread started
+2025-08-05 14:03:27,097 [INFO] [MainThread] [root/weather.py:67]: Fetching new weather data at 2025-08-05 14:03:27.097746
+2025-08-05 14:03:31,278 [INFO] [Dummy-5] [root/event_listener.py:125]: Komorebi connected to named pipe: yasb-92fe3c3c-71fc-11f0-80b2-00155d9d3a7c
+2025-08-05 14:03:39,060 [WARNING] [Dummy-5] [root/event_listener.py:82]: Pipe has been ended: (109, 'PeekNamedPipe', 'The pipe has been ended.')
+2025-08-05 14:03:39,061 [INFO] [Dummy-5] [root/event_listener.py:92]: Attempting to reconnect to Komorebi...
+2025-08-05 17:14:55,199 [INFO] [MainThread] [root/log.py:59]: YASB v1.7.8
+2025-08-05 17:14:55,200 [INFO] [Thread-1 (_run_server)] [cli_server/cli_server.py:212]: CLI server started v1.1.2
+2025-08-05 17:14:55,200 [INFO] [MainThread] [cli_server/cli_server.py:104]: Log pipe server started
+2025-08-05 17:14:56,051 [DEBUG] [MainThread] [tzlocal/win32.py:55]: Looking up time zone info from registry
+2025-08-05 17:15:00,505 [DEBUG] [MainThread] [comtypes/__init__.py:149]: CoInitializeEx(None, 2)
+2025-08-05 17:15:01,039 [INFO] [MainThread] [root/bar_manager.py:74]: Starting SystemEventListener...
+2025-08-05 17:15:01,040 [INFO] [MainThread] [root/bar_manager.py:74]: Starting WindowsNotificationEventListener...
+2025-08-05 17:15:01,041 [INFO] [MainThread] [root/bar_manager.py:74]: Starting KomorebiEventListener...
+2025-08-05 17:15:01,041 [INFO] [MainThread] [root/watcher.py:54]: Created file watcher for path C:\Users\ilyes\.config\yasb
+2025-08-05 17:15:01,045 [INFO] [Dummy-5] [root/event_listener.py:51]: Created named pipe yasb-568d874d-7217-11f0-9b7f-00155d9d3a7c
+2025-08-05 17:15:01,124 [DEBUG] [MainThread] [qasync._windows._EventPoller/_windows.py:213]: Starting (proactor: <_IocpProactor overlapped#=0 result#=0>)...
+2025-08-05 17:15:01,125 [DEBUG] [Dummy-9] [qasync._windows._EventWorker/_windows.py:192]: Thread started
+2025-08-05 17:15:03,740 [INFO] [MainThread] [root/weather.py:67]: Fetching new weather data at 2025-08-05 17:15:03.740761
+2025-08-05 17:15:11,362 [INFO] [Dummy-5] [root/event_listener.py:125]: Komorebi connected to named pipe: yasb-568d874d-7217-11f0-9b7f-00155d9d3a7c
+2025-08-05 17:25:00,497 [INFO] [MainThread] [root/weather.py:67]: Fetching new weather data at 2025-08-05 17:25:00.497157
+2025-08-05 17:35:00,497 [INFO] [MainThread] [root/weather.py:67]: Fetching new weather data at 2025-08-05 17:35:00.497005
+2025-08-05 17:45:00,694 [INFO] [MainThread] [root/weather.py:67]: Fetching new weather data at 2025-08-05 17:45:00.694233
+2025-08-05 17:55:03,480 [INFO] [MainThread] [root/weather.py:67]: Fetching new weather data at 2025-08-05 17:55:03.480409
+2025-08-05 18:05:00,461 [INFO] [MainThread] [root/weather.py:67]: Fetching new weather data at 2025-08-05 18:05:00.461484
+2025-08-05 18:15:00,497 [INFO] [MainThread] [root/weather.py:67]: Fetching new weather data at 2025-08-05 18:15:00.497228
+2025-08-05 18:19:17,777 [WARNING] [Dummy-5] [root/event_listener.py:82]: Pipe has been ended: (109, 'PeekNamedPipe', 'The pipe has been ended.')
+2025-08-05 18:19:17,777 [INFO] [Dummy-5] [root/event_listener.py:92]: Attempting to reconnect to Komorebi...
+2025-08-05 18:19:20,778 [INFO] [Dummy-5] [root/event_listener.py:51]: Created named pipe yasb-568d874d-7217-11f0-9b7f-00155d9d3a7c
+2025-08-05 18:19:20,849 [INFO] [Dummy-5] [root/event_listener.py:125]: Komorebi connected to named pipe: yasb-568d874d-7217-11f0-9b7f-00155d9d3a7c
+2025-08-05 18:25:03,453 [INFO] [MainThread] [root/weather.py:67]: Fetching new weather data at 2025-08-05 18:25:03.453419
+2025-08-05 18:35:03,518 [INFO] [MainThread] [root/weather.py:67]: Fetching new weather data at 2025-08-05 18:35:03.518065
+2025-08-05 19:45:03,055 [INFO] [MainThread] [root/weather.py:67]: Fetching new weather data at 2025-08-05 19:45:03.055133
+2025-08-05 19:55:03,274 [INFO] [MainThread] [root/weather.py:67]: Fetching new weather data at 2025-08-05 19:55:03.274185
+2025-08-05 20:05:07,081 [INFO] [MainThread] [root/weather.py:67]: Fetching new weather data at 2025-08-05 20:05:07.081616
+2025-08-05 20:15:03,051 [INFO] [MainThread] [root/weather.py:67]: Fetching new weather data at 2025-08-05 20:15:03.051063
+2025-08-05 20:25:03,040 [INFO] [MainThread] [root/weather.py:67]: Fetching new weather data at 2025-08-05 20:25:03.040908
+2025-08-05 20:35:03,036 [INFO] [MainThread] [root/weather.py:67]: Fetching new weather data at 2025-08-05 20:35:03.036366
+2025-08-05 20:45:03,058 [INFO] [MainThread] [root/weather.py:67]: Fetching new weather data at 2025-08-05 20:45:03.058603
+2025-08-05 20:55:03,208 [INFO] [MainThread] [root/weather.py:67]: Fetching new weather data at 2025-08-05 20:55:03.208923
+2025-08-05 21:05:03,036 [INFO] [MainThread] [root/weather.py:67]: Fetching new weather data at 2025-08-05 21:05:03.036630
+2025-08-05 21:15:03,310 [INFO] [MainThread] [root/weather.py:67]: Fetching new weather data at 2025-08-05 21:15:03.310194
+2025-08-05 21:25:03,057 [INFO] [MainThread] [root/weather.py:67]: Fetching new weather data at 2025-08-05 21:25:03.057770
+2025-08-05 21:35:03,049 [INFO] [MainThread] [root/weather.py:67]: Fetching new weather data at 2025-08-05 21:35:03.049419
+2025-08-05 21:45:03,038 [INFO] [MainThread] [root/weather.py:67]: Fetching new weather data at 2025-08-05 21:45:03.038792
+2025-08-05 21:55:03,050 [INFO] [MainThread] [root/weather.py:67]: Fetching new weather data at 2025-08-05 21:55:03.050654
+2025-08-05 22:05:03,047 [INFO] [MainThread] [root/weather.py:67]: Fetching new weather data at 2025-08-05 22:05:03.047907
+2025-08-05 22:15:03,055 [INFO] [MainThread] [root/weather.py:67]: Fetching new weather data at 2025-08-05 22:15:03.055877
+2025-08-05 22:25:03,184 [INFO] [MainThread] [root/weather.py:67]: Fetching new weather data at 2025-08-05 22:25:03.184328
+2025-08-05 22:35:03,052 [INFO] [MainThread] [root/weather.py:67]: Fetching new weather data at 2025-08-05 22:35:03.052585
+2025-08-05 22:45:03,055 [INFO] [MainThread] [root/weather.py:67]: Fetching new weather data at 2025-08-05 22:45:03.055780
+2025-08-05 22:55:03,035 [INFO] [MainThread] [root/weather.py:67]: Fetching new weather data at 2025-08-05 22:55:03.035311
+2025-08-05 23:05:03,056 [INFO] [MainThread] [root/weather.py:67]: Fetching new weather data at 2025-08-05 23:05:03.056587
+2025-08-05 23:15:03,103 [INFO] [MainThread] [root/weather.py:67]: Fetching new weather data at 2025-08-05 23:15:03.103861
+2025-08-05 23:25:03,256 [INFO] [MainThread] [root/weather.py:67]: Fetching new weather data at 2025-08-05 23:25:03.256881
+2025-08-05 23:35:03,049 [INFO] [MainThread] [root/weather.py:67]: Fetching new weather data at 2025-08-05 23:35:03.049983
+2025-08-05 23:35:47,648 [INFO] [MainThread] [root/controller.py:15]: Reloading Application because of config change.
+2025-08-05 23:35:47,761 [INFO] [MainThread] [cli_server/cli_server.py:112]: Log pipe server stopped
+2025-08-05 23:35:47,761 [DEBUG] [MainThread] [cli_server/cli_server.py:206]: CLI server stopped
+2025-08-05 23:35:47,775 [INFO] [MainThread] [root/bar_manager.py:65]: Successfully loaded updated config and re-initialised all bars.
+2025-08-05 23:35:47,775 [DEBUG] [MainThread] [qasync._windows._EventPoller/_windows.py:218]: Stopping worker thread...
+2025-08-05 23:35:47,777 [DEBUG] [Dummy-9] [qasync._windows._EventWorker/_windows.py:201]: Exiting thread
+2025-08-05 23:35:47,778 [DEBUG] [MainThread] [qasync._windows._IocpProactor/_windows.py:75]: Closing
+2025-08-05 23:35:50,253 [INFO] [MainThread] [root/log.py:59]: YASB v1.7.8
+2025-08-05 23:35:50,254 [INFO] [Thread-1 (_run_server)] [cli_server/cli_server.py:212]: CLI server started v1.1.2
+2025-08-05 23:35:50,254 [INFO] [MainThread] [cli_server/cli_server.py:104]: Log pipe server started
+2025-08-05 23:35:50,901 [DEBUG] [MainThread] [tzlocal/win32.py:55]: Looking up time zone info from registry
+2025-08-05 23:35:53,789 [DEBUG] [MainThread] [comtypes/__init__.py:149]: CoInitializeEx(None, 2)
+2025-08-05 23:35:54,333 [INFO] [MainThread] [root/bar_manager.py:74]: Starting WindowsNotificationEventListener...
+2025-08-05 23:35:54,334 [INFO] [MainThread] [root/bar_manager.py:74]: Starting SystemEventListener...
+2025-08-05 23:35:54,334 [INFO] [MainThread] [root/bar_manager.py:74]: Starting KomorebiEventListener...
+2025-08-05 23:35:54,335 [INFO] [MainThread] [root/watcher.py:54]: Created file watcher for path C:\Users\ilyes\.config\yasb
+2025-08-05 23:35:54,417 [INFO] [Dummy-5] [root/event_listener.py:51]: Created named pipe yasb-8c2d76ab-724c-11f0-a445-00155d9d3a7c
+2025-08-05 23:35:54,492 [DEBUG] [MainThread] [qasync._windows._EventPoller/_windows.py:213]: Starting (proactor: <_IocpProactor overlapped#=0 result#=0>)...
+2025-08-05 23:35:54,555 [DEBUG] [Dummy-9] [qasync._windows._EventWorker/_windows.py:192]: Thread started
+2025-08-05 23:35:54,615 [INFO] [Dummy-5] [root/event_listener.py:125]: Komorebi connected to named pipe: yasb-8c2d76ab-724c-11f0-a445-00155d9d3a7c
+2025-08-05 23:35:58,557 [INFO] [MainThread] [root/weather.py:67]: Fetching new weather data at 2025-08-05 23:35:58.557351
+2025-08-05 23:36:25,344 [INFO] [MainThread] [root/controller.py:15]: Reloading Application because of config change.
+2025-08-05 23:36:25,446 [INFO] [MainThread] [cli_server/cli_server.py:112]: Log pipe server stopped
+2025-08-05 23:36:25,446 [DEBUG] [MainThread] [cli_server/cli_server.py:206]: CLI server stopped
+2025-08-05 23:36:25,452 [INFO] [MainThread] [root/bar_manager.py:65]: Successfully loaded updated config and re-initialised all bars.
+2025-08-05 23:36:25,452 [DEBUG] [MainThread] [qasync._windows._EventPoller/_windows.py:218]: Stopping worker thread...
+2025-08-05 23:36:25,462 [DEBUG] [Dummy-9] [qasync._windows._EventWorker/_windows.py:201]: Exiting thread
+2025-08-05 23:36:25,463 [DEBUG] [MainThread] [qasync._windows._IocpProactor/_windows.py:75]: Closing
+2025-08-05 23:36:25,830 [INFO] [MainThread] [root/log.py:59]: YASB v1.7.8
+2025-08-05 23:36:25,831 [INFO] [Thread-1 (_run_server)] [cli_server/cli_server.py:212]: CLI server started v1.1.2
+2025-08-05 23:36:25,832 [INFO] [MainThread] [cli_server/cli_server.py:104]: Log pipe server started
+2025-08-05 23:36:26,013 [DEBUG] [MainThread] [tzlocal/win32.py:55]: Looking up time zone info from registry
+2025-08-05 23:36:26,611 [DEBUG] [MainThread] [comtypes/__init__.py:149]: CoInitializeEx(None, 2)
+2025-08-05 23:36:26,801 [INFO] [MainThread] [root/bar_manager.py:74]: Starting SystemEventListener...
+2025-08-05 23:36:26,803 [INFO] [MainThread] [root/bar_manager.py:74]: Starting WindowsNotificationEventListener...
+2025-08-05 23:36:26,807 [INFO] [MainThread] [root/bar_manager.py:74]: Starting KomorebiEventListener...
+2025-08-05 23:36:26,808 [INFO] [MainThread] [root/watcher.py:54]: Created file watcher for path C:\Users\ilyes\.config\yasb
+2025-08-05 23:36:26,875 [INFO] [Dummy-5] [root/event_listener.py:51]: Created named pipe yasb-9f885dd4-724c-11f0-946a-00155d9d3a7c
+2025-08-05 23:36:26,929 [DEBUG] [MainThread] [qasync._windows._EventPoller/_windows.py:213]: Starting (proactor: <_IocpProactor overlapped#=0 result#=0>)...
+2025-08-05 23:36:26,930 [DEBUG] [Dummy-9] [qasync._windows._EventWorker/_windows.py:192]: Thread started
+2025-08-05 23:36:27,018 [INFO] [Dummy-5] [root/event_listener.py:125]: Komorebi connected to named pipe: yasb-9f885dd4-724c-11f0-946a-00155d9d3a7c
+2025-08-05 23:36:27,518 [INFO] [MainThread] [root/weather.py:67]: Fetching new weather data at 2025-08-05 23:36:27.518037
+2025-08-05 23:37:18,281 [INFO] [MainThread] [root/controller.py:15]: Reloading Application because of config change.
+2025-08-05 23:37:18,384 [INFO] [MainThread] [cli_server/cli_server.py:112]: Log pipe server stopped
+2025-08-05 23:37:18,384 [DEBUG] [MainThread] [cli_server/cli_server.py:206]: CLI server stopped
+2025-08-05 23:37:18,390 [INFO] [MainThread] [root/bar_manager.py:65]: Successfully loaded updated config and re-initialised all bars.
+2025-08-05 23:37:18,391 [DEBUG] [MainThread] [qasync._windows._EventPoller/_windows.py:218]: Stopping worker thread...
+2025-08-05 23:37:18,400 [DEBUG] [Dummy-9] [qasync._windows._EventWorker/_windows.py:201]: Exiting thread
+2025-08-05 23:37:18,400 [DEBUG] [MainThread] [qasync._windows._IocpProactor/_windows.py:75]: Closing
+2025-08-05 23:37:18,820 [INFO] [MainThread] [root/log.py:59]: YASB v1.7.8
+2025-08-05 23:37:18,821 [INFO] [Thread-1 (_run_server)] [cli_server/cli_server.py:212]: CLI server started v1.1.2
+2025-08-05 23:37:18,821 [INFO] [MainThread] [cli_server/cli_server.py:104]: Log pipe server started
+2025-08-05 23:37:19,008 [DEBUG] [MainThread] [tzlocal/win32.py:55]: Looking up time zone info from registry
+2025-08-05 23:37:19,580 [DEBUG] [MainThread] [comtypes/__init__.py:149]: CoInitializeEx(None, 2)
+2025-08-05 23:37:19,753 [INFO] [MainThread] [root/bar_manager.py:74]: Starting SystemEventListener...
+2025-08-05 23:37:19,753 [INFO] [MainThread] [root/bar_manager.py:74]: Starting WindowsNotificationEventListener...
+2025-08-05 23:37:19,755 [INFO] [MainThread] [root/bar_manager.py:74]: Starting KomorebiEventListener...
+2025-08-05 23:37:19,755 [INFO] [MainThread] [root/watcher.py:54]: Created file watcher for path C:\Users\ilyes\.config\yasb
+2025-08-05 23:37:19,819 [INFO] [Dummy-5] [root/event_listener.py:51]: Created named pipe yasb-bf177095-724c-11f0-90d9-00155d9d3a7c
+2025-08-05 23:37:19,869 [DEBUG] [MainThread] [qasync._windows._EventPoller/_windows.py:213]: Starting (proactor: <_IocpProactor overlapped#=0 result#=0>)...
+2025-08-05 23:37:19,872 [DEBUG] [Dummy-9] [qasync._windows._EventWorker/_windows.py:192]: Thread started
+2025-08-05 23:37:20,017 [INFO] [Dummy-5] [root/event_listener.py:125]: Komorebi connected to named pipe: yasb-bf177095-724c-11f0-90d9-00155d9d3a7c
+2025-08-05 23:37:23,829 [INFO] [MainThread] [root/weather.py:67]: Fetching new weather data at 2025-08-05 23:37:23.829502
+2025-08-05 23:37:47,712 [INFO] [MainThread] [root/controller.py:15]: Reloading Application because of config change.
+2025-08-05 23:37:47,812 [INFO] [MainThread] [cli_server/cli_server.py:112]: Log pipe server stopped
+2025-08-05 23:37:47,812 [DEBUG] [MainThread] [cli_server/cli_server.py:206]: CLI server stopped
+2025-08-05 23:37:47,818 [INFO] [MainThread] [root/bar_manager.py:65]: Successfully loaded updated config and re-initialised all bars.
+2025-08-05 23:37:47,818 [DEBUG] [MainThread] [qasync._windows._EventPoller/_windows.py:218]: Stopping worker thread...
+2025-08-05 23:37:47,829 [DEBUG] [Dummy-9] [qasync._windows._EventWorker/_windows.py:201]: Exiting thread
+2025-08-05 23:37:47,830 [DEBUG] [MainThread] [qasync._windows._IocpProactor/_windows.py:75]: Closing
+2025-08-05 23:37:48,184 [INFO] [MainThread] [root/log.py:59]: YASB v1.7.8
+2025-08-05 23:37:48,185 [INFO] [Thread-1 (_run_server)] [cli_server/cli_server.py:212]: CLI server started v1.1.2
+2025-08-05 23:37:48,185 [INFO] [MainThread] [cli_server/cli_server.py:104]: Log pipe server started
+2025-08-05 23:37:48,370 [DEBUG] [MainThread] [tzlocal/win32.py:55]: Looking up time zone info from registry
+2025-08-05 23:37:48,948 [DEBUG] [MainThread] [comtypes/__init__.py:149]: CoInitializeEx(None, 2)
+2025-08-05 23:37:49,140 [INFO] [MainThread] [root/bar_manager.py:74]: Starting KomorebiEventListener...
+2025-08-05 23:37:49,140 [INFO] [MainThread] [root/bar_manager.py:74]: Starting WindowsNotificationEventListener...
+2025-08-05 23:37:49,142 [INFO] [MainThread] [root/bar_manager.py:74]: Starting SystemEventListener...
+2025-08-05 23:37:49,142 [INFO] [MainThread] [root/watcher.py:54]: Created file watcher for path C:\Users\ilyes\.config\yasb
+2025-08-05 23:37:49,196 [INFO] [Dummy-5] [root/event_listener.py:51]: Created named pipe yasb-d09b3dae-724c-11f0-9d92-00155d9d3a7c
+2025-08-05 23:37:49,251 [DEBUG] [MainThread] [qasync._windows._EventPoller/_windows.py:213]: Starting (proactor: <_IocpProactor overlapped#=0 result#=0>)...
+2025-08-05 23:37:49,257 [DEBUG] [Dummy-9] [qasync._windows._EventWorker/_windows.py:192]: Thread started
+2025-08-05 23:37:49,377 [INFO] [Dummy-5] [root/event_listener.py:125]: Komorebi connected to named pipe: yasb-d09b3dae-724c-11f0-9d92-00155d9d3a7c
+2025-08-05 23:37:49,883 [INFO] [MainThread] [root/weather.py:67]: Fetching new weather data at 2025-08-05 23:37:49.883834
+2025-08-05 23:38:27,348 [INFO] [MainThread] [root/controller.py:15]: Reloading Application because of config change.
+2025-08-05 23:38:27,462 [INFO] [MainThread] [cli_server/cli_server.py:112]: Log pipe server stopped
+2025-08-05 23:38:27,462 [DEBUG] [MainThread] [cli_server/cli_server.py:206]: CLI server stopped
+2025-08-05 23:38:27,469 [INFO] [MainThread] [root/bar_manager.py:65]: Successfully loaded updated config and re-initialised all bars.
+2025-08-05 23:38:27,469 [DEBUG] [MainThread] [qasync._windows._EventPoller/_windows.py:218]: Stopping worker thread...
+2025-08-05 23:38:27,477 [DEBUG] [Dummy-9] [qasync._windows._EventWorker/_windows.py:201]: Exiting thread
+2025-08-05 23:38:27,478 [DEBUG] [MainThread] [qasync._windows._IocpProactor/_windows.py:75]: Closing
